@@ -57,7 +57,7 @@ const Video = () => {
 
 const VideoButton = ({ text, icon: Icon, href = null, onClick = null }) => {
   const className =
-    "rounded-full flex bg-orange-500 p-1 px-4 xl:p-2 xl:px-8 uppercase md:gap-1 xl:gap-2 items-center font-bold hover:bg-yellow-400 hover:text-black cursor-pointer transition-colors duration-500 text-[9px] md:text-sm lg:text-base";
+    "rounded-full flex bg-blue-950 p-1 px-4 xl:p-2 xl:px-8 uppercase md:gap-1 xl:gap-2 items-center font-bold hover:bg-yellow-400 hover:text-black cursor-pointer transition-colors duration-500 text-[9px] md:text-sm lg:text-base";
 
   const content = (
     <div className={className}>

@@ -24,7 +24,7 @@ const MainNavData = [
     align: "center",
   },
   {
-    title: "About SGTU",
+    title: "About ABVSU",
     href: "/aboutsgtu",
     flyout: () => <FlyoutContent data={AboutData} />,
     flyoutData: AboutData,

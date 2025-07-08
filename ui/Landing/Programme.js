@@ -88,7 +88,7 @@ const CardSchool = ({ name, bg, href }) => {
       {/* Overlay Content */}
       <div className="relative bg-black/40 z-10 w-full h-full p-4 rounded-2xl">
         <div className="absolute bottom-2 lg:p-2">
-          <span className="border border-white bg-yellow-400/30 rounded-2xl tracking-wider p-1 px-3 text-white hover:text-black hover:border-amber-400 transition-colors duration-300 hover:bg-amber-400">
+          <span className="border border-white bg-blue-900/60 rounded-2xl tracking-wider p-1 px-3 text-white hover:text-black hover:border-amber-400 transition-colors duration-300 hover:bg-amber-400">
             #Study
           </span>
           <div className="group w-fit">

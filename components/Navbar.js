@@ -69,22 +69,21 @@ const Navbar = () => {
         } z-20 transform-border duration-300 ease-in-out hidden lg:block`}
       >
         {/* Sticky Bar */}
-        <div className="bg-orange-500 flex justify-between px-2 md:px-8 py-1 text-xs md:text-sm items-center">
+        <div className="bg-blue-950 flex justify-between px-2 md:px-8 py-1 text-xs md:text-sm items-center">
           <div className="flex gap-1 xl:gap-2 text-white font-bold">
             {/* <EnvelopeIcon className="h-4 w-4" /> info@sgtu.ac.in */}
             <PhoneIcon className="h-4 w-4 md:h-5 md:w-5" />
-            HELPDESK: +91 80 55 33 77 83
+            HELPDESK: info@abvsu.ac.in
           </div>
           <div className="text-white space-x-2 hidden md:flex w-3/5">
             <span className="flex-start font-bold">Announcement:</span>
             <marquee>
-              Admissions Open: 2025-26 : B.Sc | BCA | B.Tech | Diploma | MBA |
-              MCA | MA
+              The Gazzete has been published. The admission process will open soon for all courses.
             </marquee>
           </div>
           <div
             onClick={() => enquiryRef.current?.openDialog()}
-            className="relative overflow-hidden group rounded-lg cursor-pointer bg-blue-800 text-white px-4 py-1 shadow-md transition-all duration-300 hover:shadow-[0_0_15px_5px_rgba(96,165,250,0.6)]"
+            className="relative overflow-hidden group rounded-lg cursor-pointer bg-orange-600 text-white px-4 py-1 shadow-md transition-all duration-300 hover:shadow-[0_0_15px_5px_rgba(96,165,250,0.6)]"
           >
             <span className="relative z-10 font-semibold tracking-wide">
               Enquire Now
@@ -104,12 +103,14 @@ const Navbar = () => {
               <Image
                 src={logo}
                 alt="SGTU"
-                height={hideTopBar ? 90 : 45}
-                width={hideTopBar ? 90 : 45}
-                className="transition-all duration-500"
+                height={hideTopBar ? 800 : 200}
+                width={hideTopBar ? 800 :200}
+                priority={true}
+                quality={95}
+                className="transition-all duration-300 ease-in-out object-cover"
               />
             </Link>
-            <div
+            {/* <div
               className={`hidden lg:block transition-all duration-500 ease-in-out transform ${
                 hideTopBar
                   ? "opacity-100 translate-x-0"
@@ -122,7 +123,7 @@ const Navbar = () => {
               <span className="text-sm font-mono font-bold text-orange-500 uppercase tracking-wider ">
                 Technical University
               </span>
-            </div>
+            </div> */}
           </div>
           <div className="w-3/4 items-center flex flex-col ">
             <div

@@ -11,7 +11,7 @@ const CounterCard = ({ end, suffix = "", label }) => {
   return (
     <div
       ref={ref}
-      className="lg:w-[320px] shadow-md group hover:border-orange-500 hover:border p-4 bg-white border border-transparent rounded-lg"
+      className="lg:w-[320px] shadow-md group hover:border-blue-950 hover:border p-4 bg-white border border-transparent rounded-lg"
     >
       <div className="flex justify-between lg:px-4 lg:gap-8">
         <div className="text-5xl font-bold font-serif align-baseline">

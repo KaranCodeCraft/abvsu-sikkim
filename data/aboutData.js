@@ -5,7 +5,7 @@ const AboutData = [
       title: "About",
       items: [
         {
-          name: 'About SGTU',
+          name: 'About ABVSU',
           link: '/aboutsgtu'
         },
         {
@@ -25,7 +25,7 @@ const AboutData = [
           link: '/ourinspiration'
         },
         {
-          name: 'Why SGTU',
+          name: 'Why ABVSU',
           link: '/whysgtu'
         },
         {
@@ -93,7 +93,7 @@ const AboutData = [
       ],
     },
     {
-      title: "Authorities @ SGTU",
+      title: "Authorities @ ABVSU",
       items: [
         {
           name: 'Governing Body',

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import logo from "@/public/logo.png";
+import logo from "@/public/logo/logos.png";
 import {
   Facebook,
   Twitter,
@@ -95,13 +95,13 @@ const AnimatedFooter = () => {
           link: "/code-of-conduct",
         },
         {
-          name: "Carrer @ SGTU",
+          name: "Carrer @ ABVSU",
           link: "/carrer",
         },
       ],
     },
     {
-      title: "Life @ SGTU",
+      title: "Life @ ABVSU",
       links: [
         { name: "Campus Life", link: "/testimonial" },
         {
@@ -163,17 +163,17 @@ const AnimatedFooter = () => {
           <div className="rounded-2xl p-2 w-fit">
             <Image
               src={logo}
-              width={100}
-              height={100}
-              alt="Sikkim Global Technical University"
+              width={200}
+              height={200}
+              alt="Atal Bihari Vajpayee Skill University Logo"
             />
           </div>
           <div className="space-y-3 pt-4 text-center">
             <p className="font-bold text-xl font-serif tracking-wide text-white">
-              Sikkim Global Technical University
+              Atal Bihari Vajpayee Skill University
             </p>
             <p className="text-sm text-white">
-              Bhanjyang Road, Lower Ghurpisey, Namchi, Sikkim - 737126
+              Karthok Road, Pakyong, Sikkim - 737106
             </p>
 
             {/* Social Icons */}
@@ -181,7 +181,7 @@ const AnimatedFooter = () => {
               {[
                 {
                   name: "Facebook",
-                  link: "https://www.facebook.com/SikkimGlobalTechnicalUniversity",
+                  link: "#",
                   icon: <Facebook className="w-5 h-5" />,
                 },
                 {
@@ -191,17 +191,17 @@ const AnimatedFooter = () => {
                 },
                 {
                   name: "Instagram",
-                  link: "https://www.instagram.com/sgtu_namchi",
+                  link: "#",
                   icon: <Instagram className="w-5 h-5" />,
                 },
                 {
                   name: "LinkedIn",
-                  link: "https://www.linkedin.com/company/sgtunamchi",
+                  link: "#",
                   icon: <Linkedin className="w-5 h-5" />,
                 },
                 {
                   name: "YouTube",
-                  link: "https://www.youtube.com/@SGTU-SikkimGlobalTechnical-b9o",
+                  link: "#",
                   icon: <Youtube className="w-5 h-5" />,
                 },
               ].map((item, idx) => (
@@ -210,7 +210,7 @@ const AnimatedFooter = () => {
                   href={item.link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-white hover:text-orange-400"
+                  className="text-white hover:text-blue-400"
                 >
                   <span className="sr-only">{item.name}</span>
                   {item.icon}
@@ -219,10 +219,10 @@ const AnimatedFooter = () => {
             </div>
             <div className="mt-5 flex justify-center">
               <a
-                href="https://play.google.com/store/apps/details?id=com.dev_karan.sikkimglobaltechnicaluniversity"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-2 bg-white text-black font-semibold px-4 py-2 rounded-full hover:bg-orange-400 hover:text-white transition"
+                className="flex items-center gap-2 bg-white text-black font-semibold px-4 py-2 rounded-full hover:bg-indigo-950 hover:text-white transition"
               >
                 <Play className="w-5 h-5" />
                 <span>Get it on Play Store</span>
@@ -235,7 +235,7 @@ const AnimatedFooter = () => {
         <div className="col-span-4 p-4 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 text-sm">
           {footerLinks.map((section, idx) => (
             <div key={idx} className="space-y-1">
-              <p className="font-bold text-lg text-orange-400">
+              <p className="font-bold text-lg text-blue-500">
                 {section.title}
               </p>
               {section.links.map((link, i) => (
@@ -260,7 +260,7 @@ const AnimatedFooter = () => {
             href="https://www.linkedin.com/in/devkaran-webdeveloper"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-orange-400 hover:underline"
+            className="text-blue-800 hover:underline"
           >
             Dev Karan
           </a>

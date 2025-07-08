@@ -26,7 +26,7 @@ const Events = () => {
       <div className="flex flex-col lg:flex-row gap-8">
         {/* Left Column */}
         <div className="flex flex-col gap-6 w-full lg:w-1/2">
-          {[img1, img2, img3].map((img, idx) => {
+          {["https://placehold.co/600x400/FFFFFF/000000/png?text=event", "https://placehold.co/600x400/FFFFFF/000000/png?text=event", "https://placehold.co/600x400/FFFFFF/000000.png?text=event"].map((img, idx) => {
             const texts = [
               "Celebrating Diversity through Art and Performance",
               "Experience Sikkim: Where Nature Meets Culture",
@@ -54,14 +54,14 @@ const Events = () => {
         {/* Right Column */}
         <div className="w-full lg:w-1/2 flex flex-col gap-6">
           <Image
-            src={img4}
+            src={"https://placehold.co/600x400/FFFFFF/000000/png?text=event"}
             width={800}
             height={500}
             className="rounded-2xl w-full h-auto object-cover"
             alt="main event"
           />
           <div className="bg-white p-6 rounded-2xl text-center font-bold font-serif text-xl md:text-3xl xl:text-4xl">
-            Sikkim Global Fest - Cultural Celebration Event.
+            Atal Bihari Fest - Cultural Celebration Event.
           </div>
         </div>
       </div>
