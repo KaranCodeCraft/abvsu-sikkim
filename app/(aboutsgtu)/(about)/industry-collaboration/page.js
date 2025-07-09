@@ -43,7 +43,7 @@ const Page = () => {
           </div>
 
           <p className="text-gray-700 leading-7 text-lg">
-            <strong>Sikkim Global Technical University (SGTU)</strong> has
+            <strong>Atal Bihari Vajpayee Skill University (SGTU)</strong> has
             collaborated with the
             <strong> Construction Industry Development Council (CIDC)</strong>,
             an apex organization established in 1996 by the Planning Commission

@@ -5,7 +5,7 @@ export default function Reservation() {
           <h1 className="text-3xl font-bold mb-6 text-gray-900">Reservation</h1>
   
           <p className="mb-4 text-gray-700 leading-relaxed">
-            Reservation is an essential policy implemented to ensure equal opportunities for individuals belonging to historically disadvantaged communities. At Sikkim Global Technical University (SGTU), the reservation system is designed to promote inclusivity and diversity in education.
+            Reservation is an essential policy implemented to ensure equal opportunities for individuals belonging to historically disadvantaged communities. At Atal Bihari Vajpayee Skill University (SGTU), the reservation system is designed to promote inclusivity and diversity in education.
           </p>
   
           <p className="mb-4 text-gray-700 leading-relaxed">

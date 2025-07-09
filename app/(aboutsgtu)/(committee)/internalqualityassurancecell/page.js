@@ -47,7 +47,7 @@ const Page = () => {
           {/* Left Intro Text */}
           <div className="md:col-span-2 space-y-6">
             <p>
-              At The Sikkim Global Technical University, we are committed to maintaining the highest standards of academic excellence and continuously improving the quality of education, research, and student development. The Internal Quality Assurance Cell (IQAC) plays a crucial role in ensuring that the university's activities and programs meet the expectations of the industry, government, and academia, while fostering a culture of quality enhancement and innovation.
+              At The Atal Bihari Vajpayee Skill University, we are committed to maintaining the highest standards of academic excellence and continuously improving the quality of education, research, and student development. The Internal Quality Assurance Cell (IQAC) plays a crucial role in ensuring that the university's activities and programs meet the expectations of the industry, government, and academia, while fostering a culture of quality enhancement and innovation.
             </p>
             <p>
               As a futuristic institution that focuses on developing trends and skills for young India, the university places a strong emphasis on technology-enabled learning and a skills-led education. The IQAC serves as the backbone of our efforts to maintain and elevate the quality of education and institutional processes through systematic evaluation, feedback, and strategic initiatives.
@@ -119,7 +119,7 @@ const Page = () => {
         <div className="space-y-6">
           <h3 className="text-xl font-semibold text-[#2A2727]">Outcome and Impact</h3>
           <p>
-            By focusing on the continuous improvement of processes and practices, the IQAC helps to elevate the academic and institutional standards of The Sikkim Global Technical University. Key outcomes include:
+            By focusing on the continuous improvement of processes and practices, the IQAC helps to elevate the academic and institutional standards of The Atal Bihari Vajpayee Skill University. Key outcomes include:
           </p>
           <ul className="list-disc pl-5 space-y-3">
             <li>Enhanced learning outcomes and student satisfaction.</li>
@@ -129,7 +129,7 @@ const Page = () => {
             <li>Successful accreditation and recognition by national and international bodies.</li>
           </ul>
           <p>
-            The Internal Quality Assurance Cell (IQAC) at The Sikkim Global Technical University plays a pivotal role in ensuring that we maintain our commitment to quality education, research, and student development. By focusing on continuous improvement, data-driven decision-making, and fostering a culture of excellence, the IQAC ensures that the university remains at the forefront of delivering futuristic, skills-oriented education in alignment with industry needs.
+            The Internal Quality Assurance Cell (IQAC) at The Atal Bihari Vajpayee Skill University plays a pivotal role in ensuring that we maintain our commitment to quality education, research, and student development. By focusing on continuous improvement, data-driven decision-making, and fostering a culture of excellence, the IQAC ensures that the university remains at the forefront of delivering futuristic, skills-oriented education in alignment with industry needs.
           </p>
           <p>
             Together with the active participation of faculty, staff, students, and industry partners, the IQAC helps in shaping a strong academic foundation and enhancing the overall learning experience at the university.

@@ -32,7 +32,7 @@ const Page = () => {
 
             <p>
               I am delighted to extend my warmest greetings to all of you as the
-              Registrar of Sikkim Global Technical University (SGTU). It is an
+              Registrar of Atal Bihari Vajpayee Skill University (SGTU). It is an
               honour to be a part of this esteemed University, and I am
               committed to ensuring that our university becomes a beacon of
               knowledge, innovation, and excellence.
@@ -65,7 +65,7 @@ const Page = () => {
         <div className="space-y-6">
           <p>
             To all the students, I extend a heartfelt welcome. Your journey at
-            Sikkim Global Technical University is a transformative one, where
+            Atal Bihari Vajpayee Skill University is a transformative one, where
             you will acquire not just knowledge but also skills and values that
             will shape your personal and professional lives. I encourage you to
             make the most of the opportunities that come your way, engage in
@@ -111,7 +111,7 @@ const Page = () => {
 
           <p>
             I am confident that with the collective efforts of all stakeholders,
-            Sikkim Global Technical University will emerge as a hub of
+            Atal Bihari Vajpayee Skill University will emerge as a hub of
             excellence in technical education and research.
           </p>
 
@@ -127,7 +127,7 @@ const Page = () => {
             <p>Mr. Sanjeev Kumar</p>
             <p>registrar@sgtu.ac.in</p>
             <p>Registrar</p>
-            <p>Sikkim Global Technical University</p>
+            <p>Atal Bihari Vajpayee Skill University</p>
           </div>
         </div>
       </div>

@@ -60,7 +60,7 @@ const Highlight = () => {
                 library in university
               </p>
               <p className="capitalize font-light text-sm sm:text-base max-w-[95%] sm:max-w-[75%]">
-                Sikkim Global Technical University hosts a variety of
+                Atal Bihari Vajpayee Skill University hosts a variety of
                 specialized institutes focused on advancing knowledge.
               </p>
             </div>

@@ -5,13 +5,13 @@ export default function TermsPage() {
     <main className="max-w-5xl mx-auto px-4 md:px-8 py-10 text-gray-800">
       <section className="space-y-6">
         <h1 className="text-3xl md:text-4xl font-bold text-orange-700">
-          Terms and Conditions - Sikkim Global Technical University
+          Terms and Conditions - Atal Bihari Vajpayee Skill University
         </h1>
 
         {/* 1. Introduction */}
         <h2 className="text-2xl font-semibold mt-8">1. Introduction</h2>
         <p>
-          Welcome to Sikkim Global Technical University. By accessing or using our services,
+          Welcome to Atal Bihari Vajpayee Skill University. By accessing or using our services,
           including educational resources, online courses, and any related services, you agree to
           comply with these terms and conditions. Please read them carefully. If you do not agree
           with these terms, do not use our services. These terms apply to all visitors, users, and
@@ -21,7 +21,7 @@ export default function TermsPage() {
         {/* 2. Services */}
         <h2 className="text-2xl font-semibold mt-8">2. Services</h2>
         <p>
-          Sikkim Global Technical University offers a variety of educational services and programs
+          Atal Bihari Vajpayee Skill University offers a variety of educational services and programs
           designed to help students achieve their academic goals. We provide online and offline
           courses, certifications, workshops, and other related services as per the guidelines
           established by the relevant governing bodies. These services are available to registered
@@ -37,7 +37,7 @@ export default function TermsPage() {
         {/* 3. Admission and Fees */}
         <h2 className="text-2xl font-semibold mt-8">3. Admission and Fees</h2>
         <p>
-          Admission to Sikkim Global Technical University is granted based on fulfilling specific
+          Admission to Atal Bihari Vajpayee Skill University is granted based on fulfilling specific
           eligibility criteria, which may vary for different programs. All students must submit the
           necessary documents and pay the applicable fees before registration is finalized. Please
           refer to our Admissions Policy for detailed guidelines regarding admission procedures.
@@ -52,7 +52,7 @@ export default function TermsPage() {
         {/* 4. Code of Conduct */}
         <h2 className="text-2xl font-semibold mt-8">4. Code of Conduct</h2>
         <p>
-          At Sikkim Global Technical University, we value integrity, respect, and ethical behavior.
+          At Atal Bihari Vajpayee Skill University, we value integrity, respect, and ethical behavior.
           All students, faculty, and staff are required to adhere to the university’s Code of Conduct,
           which includes but is not limited to the following:
         </p>

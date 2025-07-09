@@ -35,7 +35,7 @@ const Page = () => {
 
             <p>
               I am thrilled and honoured to extend my heartfelt greetings as the
-              Vice-Chancellor of Sikkim Global Technical University (SGTU). As
+              Vice-Chancellor of Atal Bihari Vajpayee Skill University (SGTU). As
               we embark on this exciting journey of knowledge, innovation, and
               growth, I am filled with a profound sense of responsibility and
               enthusiasm.
@@ -127,7 +127,7 @@ const Page = () => {
             <p>Dr. (Prof.) Swami Prasad Sinha</p>
             <p>Vice-Chancellor</p>
             <p>vc@sgtu.ac.in</p>
-            <p>Sikkim Global Technical University</p>
+            <p>Atal Bihari Vajpayee Skill University</p>
           </div>
           
         </div>

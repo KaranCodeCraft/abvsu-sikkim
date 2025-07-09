@@ -10,7 +10,7 @@ export default function OurRecruiterPage() {
           <h2 className="text-3xl md:text-4xl font-bold text-orange-600">Our Recruiter</h2>
 
           <p>
-            At The Sikkim Global Technical University, we are committed to shaping the future of young India by focusing on developing trends, fostering innovation, and equipping students with the essential skills needed to thrive in a rapidly changing world. With substantial cooperation from the government, industry, and academia, we are creating a seamless ecosystem where students receive a technology-enabled, skills-led education that prepares them for the future of work.
+            At The Atal Bihari Vajpayee Skill University, we are committed to shaping the future of young India by focusing on developing trends, fostering innovation, and equipping students with the essential skills needed to thrive in a rapidly changing world. With substantial cooperation from the government, industry, and academia, we are creating a seamless ecosystem where students receive a technology-enabled, skills-led education that prepares them for the future of work.
           </p>
 
           <p>
@@ -56,7 +56,7 @@ export default function OurRecruiterPage() {
           </ul>
 
           <p>
-            At The Sikkim Global Technical University, we are creating a future where innovation, skills, and technology converge to form a workforce capable of tackling tomorrow’s challenges. Our strategic industry partnerships and commitment to a skills-led education make our graduates ideal contributors to your organization’s success.
+            At The Atal Bihari Vajpayee Skill University, we are creating a future where innovation, skills, and technology converge to form a workforce capable of tackling tomorrow’s challenges. Our strategic industry partnerships and commitment to a skills-led education make our graduates ideal contributors to your organization’s success.
           </p>
 
           <p>

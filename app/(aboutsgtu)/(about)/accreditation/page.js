@@ -53,7 +53,7 @@ const Page = () => {
             <h2 className="text-3xl font-bold mb-4 text-orange-600">Certification & Recognition</h2>
             <p className="text-gray-700 leading-7">
               Certification and recognition play a crucial role in ensuring that educational institutions meet predefined standards of quality and excellence.
-              At Sikkim Global Technical University (SGTU), these processes serve as a mark of credibility and academic integrity.
+              At Atal Bihari Vajpayee Skill University (SGTU), these processes serve as a mark of credibility and academic integrity.
             </p>
             <p className="text-gray-700 mt-4 leading-7">
               SGTU is recognized by national and international accrediting bodies, which evaluate curriculum, faculty, research, infrastructure, and student outcomes.

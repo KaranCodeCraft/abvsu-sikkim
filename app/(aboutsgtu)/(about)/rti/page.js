@@ -54,7 +54,7 @@ export default function RTIPolicyPage() {
             </p>
             <p className="text-base text-gray-700 text-justify leading-relaxed">
               It is hoped that the information put under the public domain through
-              the Sikkim Global Technical University website would facilitate the
+              the Atal Bihari Vajpayee Skill University website would facilitate the
               citizens to access information through electronic mode, thereby
               avoiding, to the extent possible, inconvenience to ask formally for
               such information as may be already open to them. While compiling the
@@ -68,7 +68,7 @@ export default function RTIPolicyPage() {
               Details of Public Information Officer (PIO)
             </h4>
             <p className="text-base text-gray-700 leading-relaxed">
-              <strong>Sikkim Global Technical University</strong>
+              <strong>Atal Bihari Vajpayee Skill University</strong>
               <br />
               Tharpu, Melli Road,
               <br />

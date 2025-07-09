@@ -14,7 +14,7 @@ export default function EqualOpportunityPage() {
           Ensuring Fairness, Equity, and Inclusion for All
         </h3>
         <p className="text-gray-700 leading-7">
-          At Sikkim Global Technical University (SGTU), we firmly believe in the power of diversity and equal opportunity.
+          At Atal Bihari Vajpayee Skill University (SGTU), we firmly believe in the power of diversity and equal opportunity.
           Our Equal Opportunity Cell (EOC) is dedicated to fostering an inclusive, bias-free, and accessible environment
           where every student, faculty, and staff member is empowered to achieve their full potential.
         </p>

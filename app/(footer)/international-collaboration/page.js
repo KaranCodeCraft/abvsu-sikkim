@@ -9,7 +9,7 @@ export default function InternationalCollaborationPage() {
         </h1>
 
         <p>
-          At The Sikkim Global Technical University, we believe that the future of education and
+          At The Atal Bihari Vajpayee Skill University, we believe that the future of education and
           innovation lies in global collaboration. As a futuristic model for young India, we focus on
           equipping our students with the latest trends, skills, and knowledge required to excel in
           an increasingly interconnected world. By fostering substantial cooperation with leading
@@ -78,7 +78,7 @@ export default function InternationalCollaborationPage() {
         </ul>
 
         <p>
-          At The Sikkim Global Technical University, we are shaping future leaders who are ready to
+          At The Atal Bihari Vajpayee Skill University, we are shaping future leaders who are ready to
           compete and collaborate on a global stage. Our international collaborations ensure that our
           students not only gain academic knowledge but also develop the skills and global networks
           necessary to succeed in a rapidly changing, interconnected world.
@@ -94,7 +94,7 @@ export default function InternationalCollaborationPage() {
         <p className="font-semibold">
           <strong>Sincerely,</strong>
           <br />
-          The Sikkim Global Technical University
+          The Atal Bihari Vajpayee Skill University
         </p>
       </section>
     </main>

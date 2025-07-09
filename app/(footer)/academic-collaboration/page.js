@@ -10,7 +10,7 @@ export default function AcademicCollaborationPage() {
             Academic Collaboration
           </h1>
           <p className="text-lg md:text-xl text-gray-600">
-            Sikkim Global Technical University (SGTU) believes in the power of academic collaborations to enhance research, learning, and global exposure for students and faculty. Our partnerships with reputed institutions, industries, and research organizations help in fostering innovation and excellence in education.
+            Atal Bihari Vajpayee Skill University (SGTU) believes in the power of academic collaborations to enhance research, learning, and global exposure for students and faculty. Our partnerships with reputed institutions, industries, and research organizations help in fostering innovation and excellence in education.
           </p>
         </header>
 

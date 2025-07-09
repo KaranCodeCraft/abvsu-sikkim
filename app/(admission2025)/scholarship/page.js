@@ -6,7 +6,7 @@ export default function FeeConcessions() {
           <div className="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
             <h1 className="text-3xl font-bold">Fee Concessions & Scholarships</h1>
             <p className="mt-1 text-gray-600">
-              Sikkim Global Technical University
+              Atal Bihari Vajpayee Skill University
             </p>
           </div>
         </header>
@@ -108,7 +108,7 @@ export default function FeeConcessions() {
   
         {/* Footer */}
         {/* <footer className="bg-gray-800 text-gray-100 py-6 text-center text-sm">
-          © 2025 Sikkim Global Technical University. All rights reserved.
+          © 2025 Atal Bihari Vajpayee Skill University. All rights reserved.
         </footer> */}
       </main>
     );

@@ -40,7 +40,7 @@ export default function CreditTradesPolicy() {
         </h1>
 
         <p className="mb-6 text-gray-700 leading-relaxed text-lg">
-          At The Sikkim Global Technical University, we are committed to shaping
+          At The Atal Bihari Vajpayee Skill University, we are committed to shaping
           the future of education by staying ahead of global trends and
           empowering young minds with the skills necessary to excel in an
           ever-evolving world. As part of our efforts to provide a transformative
@@ -96,7 +96,7 @@ export default function CreditTradesPolicy() {
         </ul>
 
         <p className="mb-6 text-gray-700 leading-relaxed text-lg">
-          The Sikkim Global Technical University’s Credit Trades Policy represents
+          The Atal Bihari Vajpayee Skill University’s Credit Trades Policy represents
           our ongoing commitment to creating a futuristic educational model that
           prepares our students for the challenges and opportunities of tomorrow.
           By embracing this policy, students will be empowered to craft a learning
@@ -118,7 +118,7 @@ export default function CreditTradesPolicy() {
         </p>
 
         <p className="mt-10 font-semibold text-orange-500">Sincerely,</p>
-        <p className="text-orange-500 font-bold text-xl">The Sikkim Global Technical University</p>
+        <p className="text-orange-500 font-bold text-xl">The Atal Bihari Vajpayee Skill University</p>
       </motion.article>
     </main>
   );

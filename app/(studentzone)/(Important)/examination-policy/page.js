@@ -10,7 +10,7 @@ export default function ExaminationPolicyPage() {
           University Examination Policy
         </h2>
         <p className="leading-7 text-gray-700">
-          At The Sikkim Global Technical University, we believe that the assessment process is an essential
+          At The Atal Bihari Vajpayee Skill University, we believe that the assessment process is an essential
           component of a student's academic journey. In keeping with our commitment to developing a
           skills-driven, technology-enabled educational environment, our examination policy is designed to
           focus on both knowledge and the practical application of skills. With support from the government,
@@ -48,7 +48,7 @@ export default function ExaminationPolicyPage() {
 
         <h3 className="text-xl font-semibold text-orange-500">Grading System</h3>
         <p className="text-gray-700 leading-7">
-          The grading system at The Sikkim Global Technical University is designed to encourage students to
+          The grading system at The Atal Bihari Vajpayee Skill University is designed to encourage students to
           excel while maintaining transparency and fairness in the evaluation process. The grading scale is as
           follows:
         </p>
@@ -64,7 +64,7 @@ export default function ExaminationPolicyPage() {
 
         <h3 className="text-xl font-semibold text-orange-500">Examination Integrity and Academic Honesty</h3>
         <p className="text-gray-700 leading-7">
-          Academic integrity is a cornerstone of The Sikkim Global Technical University. Students are expected
+          Academic integrity is a cornerstone of The Atal Bihari Vajpayee Skill University. Students are expected
           to adhere to the highest standards of honesty during examinations. Any form of cheating, plagiarism,
           or unethical behavior will result in disciplinary action, which may include:
         </p>
@@ -82,7 +82,7 @@ export default function ExaminationPolicyPage() {
         </ul>
 
         <p className="text-gray-700 leading-7">
-          The Sikkim Global Technical University is committed to ensuring that our examination system remains
+          The Atal Bihari Vajpayee Skill University is committed to ensuring that our examination system remains
           fair, comprehensive, and relevant to the needs of the students and the industry. By focusing on skills
           development, real-world application, and ethical standards, we aim to produce graduates who are
           well-prepared for the challenges of the future. We encourage all students to approach their studies
@@ -90,7 +90,7 @@ export default function ExaminationPolicyPage() {
           academic journey.
         </p>
 
-        <p className="font-semibold text-gray-800">Sincerely,<br/>The Sikkim Global Technical University</p>
+        <p className="font-semibold text-gray-800">Sincerely,<br/>The Atal Bihari Vajpayee Skill University</p>
       </div>
     </section>
   );

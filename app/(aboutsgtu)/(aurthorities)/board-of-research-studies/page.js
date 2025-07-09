@@ -36,7 +36,7 @@ const Page = () => {
               Functions of the Board of Studies
             </h2>
             <p className="text-gray-700 leading-7">
-              The Board of Studies at Sikkim Global Technical University (SGTU)
+              The Board of Studies at Atal Bihari Vajpayee Skill University (SGTU)
               serves as a key academic body responsible for maintaining and
               improving educational standards across various disciplines...
             </p>

@@ -27,7 +27,7 @@ export default function PharmacyPage() {
     <div className="bg-white text-gray-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h1 className="text-3xl md:text-4xl font-bold text-center text-orange-600 mb-10 mt-8">
-          School of Pharmacy at Sikkim Global Technical University
+          School of Pharmacy at Atal Bihari Vajpayee Skill University
         </h1>
 
         {/* About, Mission, Vision Section */}
@@ -45,7 +45,7 @@ export default function PharmacyPage() {
                 About the School
               </h3>
               <p className="text-sm leading-relaxed">
-                The School of Pharmacy at Sikkim Global Technical University is
+                The School of Pharmacy at Atal Bihari Vajpayee Skill University is
                 dedicated to excellence in pharmaceutical education, research,
                 and industry collaboration. Our programs nurture skilled
                 professionals for healthcare, research, and service.

@@ -12,7 +12,7 @@ export default function UniversityCentralFacilitiesPage() {
           </h2>
 
           <p>
-            At The Sikkim Global Technical University, we believe that world-class infrastructure is essential to providing a cutting-edge education. Our Central Facilities have been designed with the future in mind, offering students and faculty access to state-of-the-art resources that foster an environment of innovation, creativity, and practical learning.
+            At The Atal Bihari Vajpayee Skill University, we believe that world-class infrastructure is essential to providing a cutting-edge education. Our Central Facilities have been designed with the future in mind, offering students and faculty access to state-of-the-art resources that foster an environment of innovation, creativity, and practical learning.
           </p>
 
           <p>
@@ -54,7 +54,7 @@ export default function UniversityCentralFacilitiesPage() {
           </ul>
 
           <p>
-            The Sikkim Global Technical University’s Central Facilities are designed to create a nurturing, dynamic, and future-ready learning environment. With world-class infrastructure and opportunities for hands-on learning, we empower students to explore, innovate, and lead.
+            The Atal Bihari Vajpayee Skill University’s Central Facilities are designed to create a nurturing, dynamic, and future-ready learning environment. With world-class infrastructure and opportunities for hands-on learning, we empower students to explore, innovate, and lead.
           </p>
 
           <p>
@@ -67,7 +67,7 @@ export default function UniversityCentralFacilitiesPage() {
 
           <p>
             <strong>Sincerely,</strong><br />
-            The Sikkim Global Technical University
+            The Atal Bihari Vajpayee Skill University
           </p>
         </div>
       </section>

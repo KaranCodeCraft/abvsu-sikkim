@@ -36,7 +36,7 @@ export default function AlumniAssociationPage() {
         </h2>
 
         <p className="mb-6 text-gray-700 leading-relaxed text-justify">
-          At The Sikkim Global Technical University, we recognize that our alumni
+          At The Atal Bihari Vajpayee Skill University, we recognize that our alumni
           are an invaluable part of our community and play a key role in the
           university’s continued growth and success. The University Alumni
           Association aims to keep our graduates connected, engaged, and empowered,
@@ -226,7 +226,7 @@ export default function AlumniAssociationPage() {
         </p>
 
         <p className="mb-8 text-gray-700 leading-relaxed text-justify">
-          The Sikkim Global Technical University Alumni Association is designed to
+          The Atal Bihari Vajpayee Skill University Alumni Association is designed to
           foster a lifelong connection between graduates and their alma mater. As we
           continue to build a futuristic, skills-led educational environment, the
           contributions of our alumni will play an essential role in shaping the

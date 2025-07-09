@@ -13,7 +13,7 @@ export default function SedgCellPage() {
         </h1>
 
         <p className="mb-8 text-gray-700 leading-relaxed">
-          At The Sikkim Global Technical University, we strive to empower students from diverse socio-economic backgrounds by providing equal opportunities and comprehensive support through the SEDG Cell.
+          At The Atal Bihari Vajpayee Skill University, we strive to empower students from diverse socio-economic backgrounds by providing equal opportunities and comprehensive support through the SEDG Cell.
         </p>
 
         <section className="mb-10">

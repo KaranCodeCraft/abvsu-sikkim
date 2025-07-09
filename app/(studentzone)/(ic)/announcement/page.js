@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { InformationCircleIcon, BellIcon } from "@heroicons/react/24/outline";
 
 const newsItems = [
-  "CM Lays foundation stone for Sikkim Global Technical University in Namchi",
+  "CM Lays foundation stone for Atal Bihari Vajpayee Skill University in Namchi",
   "New library inaugurated at Sikkim University campus",
   "Annual Tech Fest scheduled for December 2025",
   "Sikkim Government launches new scholarship program for students",

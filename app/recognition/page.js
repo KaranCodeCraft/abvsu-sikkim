@@ -11,31 +11,31 @@ const data = [
   {
     title: "Government of Sikkim Gazzete Notification",
     image: "/logo/sgov.png",
-    desc: "The Sikkim Global Technical University was established by the Sikkim Legislative Assembly through The SIKKIM GLOBAL TECHNICAL UNIVERSITY ACT, 2023 (Act No. 9 of 2023) on the 11th day of July, 2023.",
+    desc: "The Atal Bihari Vajpayee Skill University was established by the Sikkim Legislative Assembly through The Atal Bihari Vajpayee Skill University ACT, 2023 (Act No. 9 of 2023) on the 11th day of July, 2023.",
     document: "/docs/Government of Sikkim Gazzete Notification.pdf",
   },
   {
     title: "University Grants Commission",
     image: "/logo/ugc.png",
-    desc: "Sikkim Global Technical University is recognized by UGC as a Private University under Section 2(f) of the UGC Act 1956.",
+    desc: "Atal Bihari Vajpayee Skill University is recognized by UGC as a Private University under Section 2(f) of the UGC Act 1956.",
     document: "/docs/University Grants Commission.pdf",
   },
   {
     title: "Association of Indian Universities",
     image: "/logo/aiu.png",
-    desc: "Sikkim Global Technical University is a member of the Association of Indian Universities (AIU), an Apex Inter-University Organization engaged in the growth and development of Higher Education.",
+    desc: "Atal Bihari Vajpayee Skill University is a member of the Association of Indian Universities (AIU), an Apex Inter-University Organization engaged in the growth and development of Higher Education.",
     document: "/docs/aiu.jpg",
   },
   {
     title: "All India Council for Technical Education (AICTE)",
     image: "/logo/aicte.png",
-    desc: "Sikkim Global Technical University is AICTE (All India Council for Technical Education) approved.",
+    desc: "Atal Bihari Vajpayee Skill University is AICTE (All India Council for Technical Education) approved.",
     document: "/docs/All India Council.pdf",
   },
   {
     title: "PCI approval for SGTU, School of Pharmacy",
     image: "/logo/pci.png",
-    desc: "Sikkim Global Technical University / PCI-9508",
+    desc: "Atal Bihari Vajpayee Skill University / PCI-9508",
     // document: "/docs/sgtupci.pdf",
     document: "#",
   },
@@ -72,7 +72,7 @@ const Page = () => {
           Recognized by Reputed National Education Bodies
         </h2>
         <p className="text-gray-700 text-md md:text-lg leading-7">
-          Sikkim Global Technical University (SGTU) has received recognition and approval from esteemed regulatory and statutory bodies, affirming our commitment to high standards of education, credibility, and academic excellence.
+          Atal Bihari Vajpayee Skill University (SGTU) has received recognition and approval from esteemed regulatory and statutory bodies, affirming our commitment to high standards of education, credibility, and academic excellence.
         </p>
       </div> */}
 

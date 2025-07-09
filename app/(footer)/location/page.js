@@ -15,7 +15,7 @@ export default function HomePage() {
               Discover SGTU: <span className="text-amber-500">A Campus Like No Other</span>
             </h1>
             <h2 className="text-xl text-gray-800 font-semibold">
-              Why choose Sikkim Global Technical University
+              Why choose Atal Bihari Vajpayee Skill University
             </h2>
             <p className="text-lg text-gray-600">
               Welcome to <span className="font-semibold text-amber-500">SGTU</span>, where education extends beyond classrooms
@@ -115,7 +115,7 @@ export default function HomePage() {
       {/* Footer Banner */}
       <section className="bg-amber-500 py-6">
         <h2 className="text-center text-white text-xl md:text-2xl font-semibold">
-          🌟 Sikkim Global Technical University – Where Education Meets Innovation in the Heart of Nature! 🌍🎓
+          🌟 Atal Bihari Vajpayee Skill University – Where Education Meets Innovation in the Heart of Nature! 🌍🎓
         </h2>
       </section>
     </>

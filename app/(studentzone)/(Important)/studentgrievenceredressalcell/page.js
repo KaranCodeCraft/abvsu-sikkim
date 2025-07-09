@@ -80,7 +80,7 @@ export default function SGRCPage() {
               </div>
               <div className="flex gap-3 items-start">
                 <MapPinIcon className="w-5 h-5 text-orange-500 mt-1" />
-                <span>Sikkim Global Technical University, Tharpu, Melli Road, Namchi, Sikkim - 737126</span>
+                <span>Atal Bihari Vajpayee Skill University, Tharpu, Melli Road, Namchi, Sikkim - 737126</span>
               </div>
             </div>
           </div>

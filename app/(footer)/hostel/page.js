@@ -9,7 +9,7 @@ export default function HostelPage() {
       <section className="py-12 px-4 max-w-7xl mx-auto space-y-6">
         <h2 className="text-3xl font-bold">Hostel</h2>
         <p>
-          The hostel facilities at Sikkim Global Technical University (SGTU) provide a supportive and comfortable living environment for students, fostering a sense of community and enhancing their overall academic experience. Recognizing that a conducive living space is essential for personal development and academic success, SGTU has invested in modern, well-equipped hostels that cater to the diverse needs of its student population.
+          The hostel facilities at Atal Bihari Vajpayee Skill University (SGTU) provide a supportive and comfortable living environment for students, fostering a sense of community and enhancing their overall academic experience. Recognizing that a conducive living space is essential for personal development and academic success, SGTU has invested in modern, well-equipped hostels that cater to the diverse needs of its student population.
         </p>
       </section>
 

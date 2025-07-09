@@ -10,7 +10,7 @@ export default function CodeOfConductPage() {
           </h1>
 
           <p>
-            At <strong>Sikkim Global Technical University</strong>, we strive to create an environment
+            At <strong>Atal Bihari Vajpayee Skill University</strong>, we strive to create an environment
             that promotes excellence, integrity, and respect. As an institution committed to developing
             the leaders of tomorrow, we emphasize a code of conduct that fosters a culture of
             responsibility, ethical behavior, and mutual respect among students, faculty, staff, and all
@@ -114,7 +114,7 @@ export default function CodeOfConductPage() {
           <p className="pt-6 font-medium">
             <strong>Sincerely,</strong>
             <br />
-            The Sikkim Global Technical University
+            The Atal Bihari Vajpayee Skill University
           </p>
         </div>
       </section>

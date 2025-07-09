@@ -90,7 +90,7 @@ export default function SecurityDisciplineSection() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-extrabold text-gray-900">Security and Discipline</h2>
           <p className="mt-4 text-lg text-gray-600">
-            Sikkim Global Technical University is committed to providing a secure, disciplined, and respectful environment for all students and staff.
+            Atal Bihari Vajpayee Skill University is committed to providing a secure, disciplined, and respectful environment for all students and staff.
           </p>
         </div>
         <div className="grid gap-10 md:grid-cols-2">

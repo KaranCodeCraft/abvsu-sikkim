@@ -48,7 +48,7 @@ const Page = () => {
           {/* Left Intro Text - full width on mobile, 2/3 on desktop */}
           <div className="md:col-span-2 space-y-6">
             <p>
-              The Student Welfare Committee at Sikkim Global Technical University (SGTU) is dedicated to fostering a supportive and enriching environment that enhances the overall well-being, development, and success of the student body. This committee is a bridge between the university administration and the students, addressing student needs, concerns, and interests to ensure a fulfilling university experience.
+              The Student Welfare Committee at Atal Bihari Vajpayee Skill University (SGTU) is dedicated to fostering a supportive and enriching environment that enhances the overall well-being, development, and success of the student body. This committee is a bridge between the university administration and the students, addressing student needs, concerns, and interests to ensure a fulfilling university experience.
             </p>
             <p>
               The committee's primary responsibility is to promote and support student well-being across multiple dimensions, including academic support, mental and emotional health, career guidance, and social engagement. By organizing workshops, counseling sessions, and mentorship programs, the committee ensures that students have access to resources that help them thrive academically and personally. Furthermore, the committee offers peer support and professional counseling services, allowing students to navigate challenges with confidence and resilience.

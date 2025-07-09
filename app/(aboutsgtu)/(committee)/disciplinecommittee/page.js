@@ -39,7 +39,7 @@ const Page = () => {
           {/* Left Content */}
           <div className="md:w-1/2 text-gray-700 text-lg leading-relaxed space-y-6">
             <p>
-              At <strong>Sikkim Global Technical University (SGTU)</strong>, we uphold the values of respect, integrity, and responsibility. The Discipline Committee ensures these values are preserved, creating a safe and respectful learning environment.
+              At <strong>Atal Bihari Vajpayee Skill University (SGTU)</strong>, we uphold the values of respect, integrity, and responsibility. The Discipline Committee ensures these values are preserved, creating a safe and respectful learning environment.
             </p>
             <p>
               The committee comprises faculty, administrators, and student representatives who collaborate to maintain order, resolve disputes, and reinforce ethical behavior through fair processes and transparent decisions.

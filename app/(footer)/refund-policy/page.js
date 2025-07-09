@@ -8,7 +8,7 @@ export default function NoRefundPolicyPage() {
       <div className="space-y-6">
         <h1 className="text-3xl md:text-4xl font-bold text-red-600">NO REFUND POLICY</h1>
         <p>
-          At Sikkim Global Technical University (SGTU), we maintain transparency and integrity in our
+          At Atal Bihari Vajpayee Skill University (SGTU), we maintain transparency and integrity in our
           admission and fee-related procedures. The following No Refund Policy applies to all applicants
           and enrolled students:
         </p>
@@ -73,7 +73,7 @@ export default function NoRefundPolicyPage() {
           <br />
           <strong>Registrar</strong>
           <br />
-          <strong>Sikkim Global Technical University</strong>
+          <strong>Atal Bihari Vajpayee Skill University</strong>
         </p>
       </div>
     </section>

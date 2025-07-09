@@ -31,7 +31,7 @@ const ReservationRoster = () => {
           className="bg-white shadow-xl rounded-2xl p-6 md:p-10 text-gray-700 space-y-5"
         >
           <p>
-            The Reservation Roster at Sikkim Global Technical University (SGTU) is designed to ensure the proper implementation of reservation policies as per government guidelines. The roster system helps in maintaining transparency and fairness in admissions, faculty recruitment, and other institutional processes.
+            The Reservation Roster at Atal Bihari Vajpayee Skill University (SGTU) is designed to ensure the proper implementation of reservation policies as per government guidelines. The roster system helps in maintaining transparency and fairness in admissions, faculty recruitment, and other institutional processes.
           </p>
 
           <p>

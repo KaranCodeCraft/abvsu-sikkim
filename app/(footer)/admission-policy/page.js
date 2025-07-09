@@ -7,7 +7,7 @@ export default function AdmissionAndRefundPolicyPage() {
         <div>
           <h2 className="text-3xl font-bold text-orange-700">Overview</h2>
           <p>
-            Sikkim Global Technical University is committed to follow the regulations and guidelines on admissions stipulated by statutory bodies such as UGC, AIU, and others. The University forms an Admission Committee which provides guidance and ensures prospective candidates' needs are addressed.
+            Atal Bihari Vajpayee Skill University is committed to follow the regulations and guidelines on admissions stipulated by statutory bodies such as UGC, AIU, and others. The University forms an Admission Committee which provides guidance and ensures prospective candidates' needs are addressed.
           </p>
         </div>
 

@@ -12,7 +12,7 @@ export default function TrainingAndPlacementPage() {
           </h2>
 
           <p>
-            At The Sikkim Global Technical University, we understand that academic excellence is just one part of a successful career. Equally important is equipping our students with the practical skills, industry knowledge, and professional networks that will propel them to success in today’s competitive job market.
+            At The Atal Bihari Vajpayee Skill University, we understand that academic excellence is just one part of a successful career. Equally important is equipping our students with the practical skills, industry knowledge, and professional networks that will propel them to success in today’s competitive job market.
           </p>
 
           <p>
@@ -51,7 +51,7 @@ export default function TrainingAndPlacementPage() {
           </ul>
 
           <p>
-            At The Sikkim Global Technical University, our Training and Placement Cell is committed to ensuring that every student is not only academically prepared but also industry-ready. By focusing on skill development, industry exposure, and personalized career guidance, we empower our students to confidently step into the workforce, equipped with the knowledge, experience, and networks needed to succeed.
+            At The Atal Bihari Vajpayee Skill University, our Training and Placement Cell is committed to ensuring that every student is not only academically prepared but also industry-ready. By focusing on skill development, industry exposure, and personalized career guidance, we empower our students to confidently step into the workforce, equipped with the knowledge, experience, and networks needed to succeed.
           </p>
 
           <p>
@@ -61,7 +61,7 @@ export default function TrainingAndPlacementPage() {
           <p>
             <strong>Sincerely,</strong><br />
             Head, Training and Placement Cell<br />
-            The Sikkim Global Technical University
+            The Atal Bihari Vajpayee Skill University
           </p>
         </div>
       </section>

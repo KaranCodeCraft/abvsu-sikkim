@@ -36,7 +36,7 @@ const Page = () => {
           
           {/* Content */}
           <div className="p-6">
-            <h3 className="text-lg font-semibold mb-4">Subject: Constitution of Anti-ragging Committee, Sikkim Global Technical University (SGTU) – Namchi, South Sikkim reg.</h3>
+            <h3 className="text-lg font-semibold mb-4">Subject: Constitution of Anti-ragging Committee, Atal Bihari Vajpayee Skill University (SGTU) – Namchi, South Sikkim reg.</h3>
             <p className="mb-4 text-gray-700">Reference: UGC Anti-Ragging Regulations 2009 - Compliances.</p>
             <p className="mb-6 text-gray-700">
               The SGTU, Sikkim has constituted the Anti-Ragging Committee for the Academic Year of the Campus as per the clause 6.3 (a) of UGC Regulations on Curbing the Menace of Ragging in Higher Education, 2009. Following are the members of the Anti-Ragging Committee:
@@ -78,7 +78,7 @@ const Page = () => {
             
             <p className="mt-4 text-gray-700">The tenure of the Committee will be 1 year.</p>
             <div className="mt-6 pt-4 border-t border-gray-300 text-right">
-              <p className="font-semibold">Registrar, Sikkim Global Technical University</p>
+              <p className="font-semibold">Registrar, Atal Bihari Vajpayee Skill University</p>
             </div>
           </div>
         </div>
@@ -134,7 +134,7 @@ const Page = () => {
             
             <p className="mt-4 text-gray-700">The tenure of the Committee will be 1 year.</p>
             <div className="mt-6 pt-4 border-t border-gray-300 text-right">
-              <p className="font-semibold">Registrar, Sikkim Global Technical University</p>
+              <p className="font-semibold">Registrar, Atal Bihari Vajpayee Skill University</p>
             </div>
           </div>
         </div>

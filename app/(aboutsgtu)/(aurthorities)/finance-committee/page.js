@@ -34,7 +34,7 @@ const Page = () => {
               Finance Committee – SGTU Ensuring Financial Sustainability & Growth
             </h2>
             <p className="text-gray-700 leading-7">
-              The Finance Committee of Sikkim Global Technical University (SGTU) plays a crucial role in overseeing the financial planning, budgeting, and resource allocation to ensure the university's long-term sustainability and growth. The committee is responsible for maintaining fiscal discipline, financial transparency, and accountability while supporting the institution's vision of providing world-class education and research opportunities.
+              The Finance Committee of Atal Bihari Vajpayee Skill University (SGTU) plays a crucial role in overseeing the financial planning, budgeting, and resource allocation to ensure the university's long-term sustainability and growth. The committee is responsible for maintaining fiscal discipline, financial transparency, and accountability while supporting the institution's vision of providing world-class education and research opportunities.
             </p>
 
             <p className="text-gray-700 leading-7">

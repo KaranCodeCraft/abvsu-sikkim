@@ -106,7 +106,7 @@ const Page = () => {
       <section className="py-16 px-4 md:px-16 bg-white">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold mb-6 text-orange-600">
-            Why Choose Sikkim Global Technical University (SGTU)
+            Why Choose Atal Bihari Vajpayee Skill University (SGTU)
           </h2>
           <p className="text-gray-700 text-lg leading-7">
             Welcome to SGTU, where education transcends traditional boundaries. At our university, we’re committed to empowering students to become future-ready leaders who drive innovation, inspire change, and make meaningful contributions to society. Here, we cultivate excellence, foster a sense of community, and equip our students with the skills they need to thrive in an ever-evolving world.

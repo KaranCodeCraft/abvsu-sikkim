@@ -20,8 +20,8 @@ const MobileNav = () => {
           <Image src={logo} alt="SGTU" width={28} height={28} />
           <div className="text-[11px] leading-2 text-orange-500">
             
-            <p className="font-bold uppercase text-[15px]">sikkim global</p><br/>
-            <p className="font-bold uppercase text-[10px]">technical university</p>
+            <p className="font-bold uppercase text-[15px]">Atal Bihari</p><br/>
+            <p className="font-bold uppercase text-[10px]">Vajpayee Skill University</p>
           </div>
         </div>
         <div className="text-black uppercase hidden md:block">

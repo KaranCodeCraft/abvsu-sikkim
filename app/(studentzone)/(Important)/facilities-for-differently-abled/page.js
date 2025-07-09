@@ -19,7 +19,7 @@ export default function DifferentlyAbledFacilitiesPage() {
         </h1>
 
         <p>
-          At The Sikkim Global Technical University, we are committed to fostering
+          At The Atal Bihari Vajpayee Skill University, we are committed to fostering
           an inclusive and accessible environment for all students, including those
           with physical, sensory, and cognitive disabilities. As part of our vision
           to build a futuristic model of education, we strive to ensure that every
@@ -148,13 +148,13 @@ export default function DifferentlyAbledFacilitiesPage() {
         </p>
 
         <p>
-          The Sikkim Global Technical University is proud to provide an environment
+          The Atal Bihari Vajpayee Skill University is proud to provide an environment
           where every student has the opportunity to unlock their full potential.
         </p>
 
         <p>
           <strong>Sincerely,</strong> <br />
-          The Sikkim Global Technical University
+          The Atal Bihari Vajpayee Skill University
         </p>
       </article>
 

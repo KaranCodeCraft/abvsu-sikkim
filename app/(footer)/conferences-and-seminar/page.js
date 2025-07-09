@@ -14,7 +14,7 @@ export default function ConferencePage() {
             Welcome to the Hub of Knowledge Exchange & Innovation
           </h3>
           <p className="text-gray-700">
-            At Sikkim Global Technical University (SGTU), we foster a culture of
+            At Atal Bihari Vajpayee Skill University (SGTU), we foster a culture of
             research, collaboration, and continuous learning through our
             conferences, seminars, and workshops. Join us as we bring together
             academicians, researchers, industry experts, and students to discuss

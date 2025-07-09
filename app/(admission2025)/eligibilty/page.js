@@ -5,7 +5,7 @@ export default function EligibilityCriteria() {
         <header className="bg-white shadow">
           <div className="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
             <h1 className="text-3xl font-bold text-gray-900">Eligibility Criteria</h1>
-            <p className="text-sm text-gray-600 mt-1">Sikkim Global Technical University</p>
+            <p className="text-sm text-gray-600 mt-1">Atal Bihari Vajpayee Skill University</p>
           </div>
         </header>
   
@@ -46,7 +46,7 @@ export default function EligibilityCriteria() {
   
         {/* Footer */}
         <footer className="bg-gray-800 text-gray-100 py-6 text-center text-sm">
-          © 2025 Sikkim Global Technical University. All rights reserved.
+          © 2025 Atal Bihari Vajpayee Skill University. All rights reserved.
         </footer>
       </main>
     );

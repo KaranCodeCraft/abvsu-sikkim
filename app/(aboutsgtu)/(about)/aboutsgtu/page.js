@@ -56,11 +56,11 @@ const Page = () => {
     <div className="grid md:grid-cols-2 gap-12 items-start max-w-7xl mx-auto">
       <div>
         <h2 className="text-3xl md:text-4xl font-bold mb-6 text-orange-600">
-          About Sikkim Global Technical University (SGTU)
+          About Atal Bihari Vajpayee Skill University (SGTU)
         </h2>
         <div className="space-y-5 text-gray-700 text-base leading-7 text-justify">
           <p>
-            Sikkim Global Technical University (SGTU), established in 2023, is a premier private institution located in Namchi, the vibrant capital of South Sikkim, India. Constituted by the Sikkim State Legislature and officially recognized through its state gazette, SGTU proudly holds recognition under Section 2(f) of the UGC Act, 1956. It is also registered under the University Grants Commission (UGC) and is a proud member of the Association of Indian Universities (AIU).
+            Atal Bihari Vajpayee Skill University (SGTU), established in 2023, is a premier private institution located in Namchi, the vibrant capital of South Sikkim, India. Constituted by the Sikkim State Legislature and officially recognized through its state gazette, SGTU proudly holds recognition under Section 2(f) of the UGC Act, 1956. It is also registered under the University Grants Commission (UGC) and is a proud member of the Association of Indian Universities (AIU).
           </p>
           <p>
             The foundation stone of SGTU was laid by the Hon'ble Chief Minister of Sikkim, Shri Prem Singh Tamang (Golay), marking a momentous beginning of a new era in higher education for the region.SGTU has acquired 10-acre land and is set to expand it up to 45 acres, perfectly positioned in the heart of Namchi. The university currently houses four constituent campuses, featuring a modern built-up area of approx. 75,000 sq. ft., designed to foster excellence in learning and innovation.
@@ -211,7 +211,7 @@ const Page = () => {
           </div>
         </div>
         <p className="text-shadow-white text-shadow-2xl mt-8 font-medium italic">
-          Welcome to Student Life at Sikkim Global Technical University. Your journey of learning, exploration, and growth begins here.
+          Welcome to Student Life at Atal Bihari Vajpayee Skill University. Your journey of learning, exploration, and growth begins here.
         </p>
       </div>
     </div>

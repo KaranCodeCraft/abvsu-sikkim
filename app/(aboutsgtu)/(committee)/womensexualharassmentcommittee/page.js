@@ -47,7 +47,7 @@ const Page = () => {
           {/* Text Content */}
           <div className="md:col-span-2 space-y-6">
             <p>
-              The Women Sexual Harassment Committee at Sikkim Global Technical University (SGTU) is established to create a safe and supportive environment for all female students, faculty, and staff. The committee is committed to preventing and addressing incidents of sexual harassment and ensuring that the university upholds the dignity and rights of every individual. By fostering a culture of respect and equality, the committee plays a vital role in empowering women within the academic community.
+              The Women Sexual Harassment Committee at Atal Bihari Vajpayee Skill University (SGTU) is established to create a safe and supportive environment for all female students, faculty, and staff. The committee is committed to preventing and addressing incidents of sexual harassment and ensuring that the university upholds the dignity and rights of every individual. By fostering a culture of respect and equality, the committee plays a vital role in empowering women within the academic community.
             </p>
             <p>
               One of the primary objectives of the committee is to raise awareness about sexual harassment and educate the university community about its implications. Through workshops, seminars, and awareness campaigns, the committee aims to inform students and staff about what constitutes sexual harassment, the laws surrounding it, and the importance of reporting such incidents. This proactive approach helps to create an informed and vigilant community that can effectively recognize and respond to harassment.

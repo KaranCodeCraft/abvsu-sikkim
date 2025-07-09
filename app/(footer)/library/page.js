@@ -10,7 +10,7 @@ export default function LibraryPage() {
       <section className="py-10 px-6 max-w-7xl mx-auto">
         <h2 className="text-3xl font-bold mb-4">Library</h2>
         <p className="text-lg text-gray-700">
-          The library at Sikkim Global Technical University (SGTU) stands as a vital resource for students, faculty, and researchers, fostering an environment of knowledge and academic excellence.
+          The library at Atal Bihari Vajpayee Skill University (SGTU) stands as a vital resource for students, faculty, and researchers, fostering an environment of knowledge and academic excellence.
         </p>
       </section>
 

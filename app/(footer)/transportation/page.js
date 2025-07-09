@@ -10,7 +10,7 @@ export default function TransportationPage() {
         <div className="space-y-4">
           <h2 className="text-3xl font-bold">Transportation</h2>
           <p>
-            Transportation plays a crucial role in the overall campus experience at Sikkim Global Technical University (SGTU). The university is committed to providing efficient and reliable transportation services that ensure students and faculty can easily access the campus and its surrounding areas.
+            Transportation plays a crucial role in the overall campus experience at Atal Bihari Vajpayee Skill University (SGTU). The university is committed to providing efficient and reliable transportation services that ensure students and faculty can easily access the campus and its surrounding areas.
           </p>
           <p>
             This focus on transportation not only facilitates smooth commutes but also enhances the overall educational experience, promoting safety, convenience, and accessibility.

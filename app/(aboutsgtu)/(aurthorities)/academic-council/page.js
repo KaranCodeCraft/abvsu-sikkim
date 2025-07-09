@@ -14,7 +14,7 @@ const Page = () => {
       title: "Driving Academic Excellence & Innovation",
       animation: "/animations/education.json",
       points: [
-        "The Academic Council of Sikkim Global Technical University (SGTU) is the principal academic authority responsible for shaping and overseeing educational policies, curriculum development, and research initiatives.",
+        "The Academic Council of Atal Bihari Vajpayee Skill University (SGTU) is the principal academic authority responsible for shaping and overseeing educational policies, curriculum development, and research initiatives.",
         "Comprising distinguished academicians, industry experts, and senior faculty members, the council ensures high academic standards, innovation in learning, and global alignment.",
         "It plays a pivotal role in decision-making related to teaching, research, student evaluation, and academic collaborations to create a dynamic, future-ready learning environment.",
       ],
@@ -88,7 +88,7 @@ const Page = () => {
 
       {/* Introduction */}
       <section className="py-16 px-4 md:px-16 bg-white">
-        <h2 className="text-3xl font-bold mb-4 text-orange-600">Academic Council – Sikkim Global Technical University (SGTU)</h2>
+        <h2 className="text-3xl font-bold mb-4 text-orange-600">Academic Council – Atal Bihari Vajpayee Skill University (SGTU)</h2>
         <p className="text-gray-700 leading-7 mb-4">
           Welcome to the Academic Council of SGTU — the principal body that drives academic excellence and innovation across the university. We are committed to shaping dynamic education strategies that align with global standards and foster research, collaboration, and inclusive learning.
         </p>

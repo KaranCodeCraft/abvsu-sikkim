@@ -2,8 +2,8 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "SIKKIM GLOBAL TECHNICAL UNIVERSITY",
-  description: "Sikkim Global Technical University",
+  title: "Atal Bihari Vajpayee Skill University",
+  description: "Atal Bihari Vajpayee Skill University",
 };
 
 export default function RootLayout({ children }) {
