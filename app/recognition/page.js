@@ -11,7 +11,7 @@ const data = [
   {
     title: "Government of Sikkim Gazzete Notification",
     image: "/logo/sgov.png",
-    desc: "The Atal Bihari Vajpayee Skill University was established by the Sikkim Legislative Assembly through The Atal Bihari Vajpayee Skill University ACT, 2023 (Act No. 9 of 2023) on the 11th day of July, 2025.",
+    desc: "The Atal Bihari Vajpayee Skill University was established by the Sikkim Legislative Assembly through The Atal Bihari Vajpayee Skill University ACT, 2025 (Act No. 13 of 2025) on the 25th day of June, 2025.",
     document: "/docs/Government of Sikkim Gazzete Notification.pdf",
     target: "_blank",
     document: "/docs/Government of Sikkim Gazzete Notification.pdf",
