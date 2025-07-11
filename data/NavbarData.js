@@ -73,12 +73,12 @@ const MainNavData = [
     flyoutData: admission,
     align: "right", // 👈 align flyout to the right
   },
-  {
-    title: "Contact",
-    href: "/contact",
-    flyout: null,
-    flyout: null,
-  },
+  // {
+  //   title: "Contact",
+  //   href: "/contact",
+  //   flyout: null,
+  //   flyout: null,
+  // },
 ];
 
 export { HangingNavData, MainNavData };

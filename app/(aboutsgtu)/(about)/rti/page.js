@@ -72,7 +72,7 @@ export default function RTIPolicyPage() {
               <br />
               Tharpu, Melli Road,
               <br />
-              District: Namchi, Sikkim - 737126
+              District: Pakyong, Sikkim - 737126
             </p>
           </div>
         </div>

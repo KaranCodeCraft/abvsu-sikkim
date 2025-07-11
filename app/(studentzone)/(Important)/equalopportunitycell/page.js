@@ -87,7 +87,7 @@ export default function EqualOpportunityPage() {
         <div className="space-y-4 text-gray-700">
           <p className="flex items-start gap-2">
             <MapPinIcon className="w-5 h-5 text-orange-500 mt-1" />
-            <span><strong>Location:</strong> Equal Opportunity Cell, ABVSU Campus, Namchi, Sikkim</span>
+            <span><strong>Location:</strong> Equal Opportunity Cell, ABVSU Campus, Pakyong, Sikkim</span>
           </p>
           <p className="flex items-start gap-2">
             <EnvelopeIcon className="w-5 h-5 text-orange-500 mt-1" />

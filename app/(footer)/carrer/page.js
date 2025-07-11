@@ -157,7 +157,7 @@ export default function CareerPage() {
         </div>
 
         <div className="text-center mt-10 text-lg font-medium">
-          📍 Location: Namchi, Sikkim, India
+          📍 Location: Pakyong, Sikkim, India
         </div>
       </section>
     </main>

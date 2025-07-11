@@ -22,7 +22,7 @@ const Page = () => {
       title: "A Unique Campus Experience in the Heart of Nature",
       animation: "/animations/campus.json",
       points: [
-        "Our campus, located in the scenic and peaceful town of Namchi, Sikkim, offers an inspiring environment with sweeping views of lush valleys, majestic mountains, and sprawling green landscapes.",
+        "Our campus, located in the scenic and peaceful town of Pakyong, Sikkim, offers an inspiring environment with sweeping views of lush valleys, majestic mountains, and sprawling green landscapes.",
         "This pollution-free environment is an ideal setting for focused study, reflection, and personal growth.",
         "Here, students find not only a place to learn but a sanctuary that fosters creativity, tranquility, and a deep appreciation for nature.",
       ],

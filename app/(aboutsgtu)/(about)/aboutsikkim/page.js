@@ -155,7 +155,7 @@ const Page = () => {
             </h2>
             <p className="text-gray-700 leading-7">
               Sikkim is divided into four districts — East, West, North, and
-              South. Gangtok, the capital, lies in the East. Namchi leads the
+              South. Gangtok, the capital, lies in the East. Pakyong leads the
               South, Mangan in the North, and Gyalshing in the West. Each
               district holds its own charm, stories, and unforgettable sights.
             </p>

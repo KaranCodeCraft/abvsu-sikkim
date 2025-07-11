@@ -15,7 +15,7 @@ const NewsAndUpdates = () => {
     },
     {
       img: news2,
-      text: "Hon. Chancellor Dr. Saurabh Singhal along with the Pro-chancellor Dr. Ankur Johari briefed the Hon. Chief Minister on ABVSU's recent developments at its Namchi campus including the launch of D.Pharm and B.Pharm programs, along with strategic preparedness for upcoming Nursing and Law courses.",
+      text: "Hon. Chancellor Dr. Saurabh Singhal along with the Pro-chancellor Dr. Ankur Johari briefed the Hon. Chief Minister on ABVSU's recent developments at its Pakyong campus including the launch of D.Pharm and B.Pharm programs, along with strategic preparedness for upcoming Nursing and Law courses.",
     },
   ];
   const newsRight = [

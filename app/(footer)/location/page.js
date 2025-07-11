@@ -48,7 +48,7 @@ export default function HomePage() {
           {/* Left: Image */}
           <div className="text-center">
             <Image
-              src="/images/Gallery/namchilocation.jpg"
+              src="/images/Gallery/Pakyonglocation.jpg"
               alt="Nature View"
               className="rounded-xl shadow-lg mx-auto"
               width={600}
@@ -62,7 +62,7 @@ export default function HomePage() {
               A Unique Campus Experience in the <span className="text-amber-500">Heart of Nature</span>
             </h1>
             <p className="text-lg text-gray-600">
-              Nestled in the <span className="font-semibold text-amber-500">breathtaking town of Namchi, Sikkim</span>,
+              Nestled in the <span className="font-semibold text-amber-500">breathtaking town of Pakyong, Sikkim</span>,
               the <span className="font-semibold text-amber-500">ABVSU campus</span> offers a <span className="font-semibold">one-of-a-kind</span>
               learning environment with <span className="font-semibold">majestic mountains, lush valleys, and green landscapes</span>.
             </p>

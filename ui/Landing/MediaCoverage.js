@@ -73,7 +73,7 @@ const MediaCoverage = () => {
         <div className="w-full lg:w-1/2 p-6">
           <div className="aspect-video w-full">
             <img
-              src="/images/Gallery/namchilocation.jpg"
+              src="/images/Gallery/Pakyonglocation.jpg"
               alt={news[currentIndex].title}
               className="w-full h-full object-cover rounded-xl"
             />

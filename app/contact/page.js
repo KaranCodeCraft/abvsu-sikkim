@@ -139,7 +139,7 @@ const Page = () => {
                     Address
                   </p>
                   <p>
-                    Tharpu, Melli Road, District: Namchi,
+                    Tharpu, Melli Road, District: Pakyong,
                     <br />
                     Sikkim -737126
                   </p>
