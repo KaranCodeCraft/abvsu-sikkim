@@ -76,10 +76,10 @@ export default function RecruitmentProcessPage() {
         <div className="text-center space-y-4">
           <h2 className="text-3xl md:text-4xl font-bold text-orange-600">
             Recruitment Process -{" "}
-            <span className="text-black">SGTU</span>
+            <span className="text-black">ABVSU</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            At SGTU, we bridge the gap between academic excellence and professional success. Our structured recruitment process ensures students are well-prepared for exciting career opportunities.
+            At ABVSU, we bridge the gap between academic excellence and professional success. Our structured recruitment process ensures students are well-prepared for exciting career opportunities.
           </p>
         </div>
 
@@ -110,9 +110,9 @@ export default function RecruitmentProcessPage() {
 
         <div className="mt-16 text-center space-y-4">
           <h4 className="text-xl font-semibold text-rose-600">📩 For Placement Assistance, Contact:</h4>
-          <p>📧 <strong>Email:</strong> <a href="mailto:placements@sgtu.edu.in" className="text-blue-600 underline">placements@sgtu.edu.in</a></p>
-          <p>📍 Placement Cell, SGTU Campus, Sikkim</p>
-          <p>🌐 <a href="https://www.sgtu.edu.in" target="_blank" rel="noopener" className="text-blue-600 underline">www.sgtu.edu.in</a></p>
+          <p>📧 <strong>Email:</strong> <a href="mailto:placements@ABVSU.edu.in" className="text-blue-600 underline">placements@ABVSU.edu.in</a></p>
+          <p>📍 Placement Cell, ABVSU Campus, Sikkim</p>
+          <p>🌐 <a href="https://www.ABVSU.edu.in" target="_blank" rel="noopener" className="text-blue-600 underline">www.ABVSU.edu.in</a></p>
         </div>
       </section>
     </main>

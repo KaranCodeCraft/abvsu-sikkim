@@ -71,7 +71,7 @@ const Navbar = () => {
         {/* Sticky Bar */}
         <div className="bg-blue-950 flex justify-between px-2 md:px-8 py-1 text-xs md:text-sm items-center">
           <div className="flex gap-1 xl:gap-2 text-white font-bold">
-            {/* <EnvelopeIcon className="h-4 w-4" /> info@sgtu.ac.in */}
+            {/* <EnvelopeIcon className="h-4 w-4" /> info@ABVSU.ac.in */}
             <PhoneIcon className="h-4 w-4 md:h-5 md:w-5" />
             HELPDESK: info@abvsu.ac.in
           </div>
@@ -102,7 +102,7 @@ const Navbar = () => {
             <Link href={"/"}>
               <Image
                 src={logo}
-                alt="SGTU"
+                alt="ABVSU"
                 height={hideTopBar ? 800 : 200}
                 width={hideTopBar ? 800 :200}
                 priority={true}
@@ -154,9 +154,9 @@ const Navbar = () => {
             </div>
 
             <div className="w-full h-full">
-              <div className="w-full h-full relative z-50">
-                <nav className="flex justify-between w-full items-center px-6 font-medium h-full">
-                  <ul className="flex gap-4 items-center">
+              <div className="w-full h-full relative z-50 ">
+                <nav className="flex justify-between w-full items-center font-medium h-full">
+                  <ul className="flex gap-4 justify-center px-8 w-full">
                     {/* Todo solve for the last Nav overflow issue */}
                     {MainNavData.map((item, index) => (
                       <li key={index}>

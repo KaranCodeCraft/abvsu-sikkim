@@ -5,8 +5,8 @@ const AboutData = [
       title: "Pharmacy",
       items: [
         {
-          name: 'School of Pharmacy, SGTU',
-          link: '/pharmacysgtu'
+          name: 'School of Pharmacy, ABVSU',
+          link: '/pharmacyABVSU'
         },
         {
           name: 'CCDDH Campus',

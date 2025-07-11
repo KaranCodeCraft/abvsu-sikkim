@@ -46,6 +46,10 @@ body {
   animation: fade-slide-in 1s ease-out both;
 }
 
+.dev{
+  border: red 2px solid;
+  background: #9ef59e;
+}
 
 /* Clip-diagonal for desktop */
 .clip-diagonal {

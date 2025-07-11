@@ -12,7 +12,8 @@ const AboutData = [
         },
         {
           name: 'Admission Login',
-          link: 'https://www.oldcode.sgtu.ac.in/manager/pub/publiclanding'
+          link: '/#'
+          // link: 'https://www.oldcode.ABVSU.ac.in/manager/pub/publiclanding'
         },
         {
           name: 'Academic Calendar',
@@ -28,7 +29,8 @@ const AboutData = [
         },
         {
           name: 'Verify Enrollment',
-          link: 'https://www.oldcode.sgtu.ac.in/manager/pub/enrollmentverification.php'
+          link: '/#'
+          // link: 'https://www.oldcode.ABVSU.ac.in/manager/pub/enrollmentverification.php'
         },
         {
           name: 'Scholarships',

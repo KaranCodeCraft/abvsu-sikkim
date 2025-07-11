@@ -3,7 +3,7 @@ import { ShieldCheckIcon, UsersIcon, ExclamationTriangleIcon, ChatBubbleOvalLeft
 const points = [
   {
     title: "Comprehensive Security Measures",
-    subtitle: "SGTU employs a multi-faceted approach to security that includes:",
+    subtitle: "ABVSU employs a multi-faceted approach to security that includes:",
     icon: ShieldCheckIcon,
     items: [
       {
@@ -26,7 +26,7 @@ const points = [
   },
   {
     title: "Promoting Discipline and Respect",
-    subtitle: "SGTU emphasizes discipline through structured guidelines and a culture of respect:",
+    subtitle: "ABVSU emphasizes discipline through structured guidelines and a culture of respect:",
     icon: UsersIcon,
     items: [
       {

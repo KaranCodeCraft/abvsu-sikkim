@@ -32,13 +32,13 @@ const Page = () => {
 
             <div className="space-y-5 text-base leading-7 text-gray-700">
               <p>
-                At <strong>SGTU</strong>, our journey is inspired by India's rich cultural heritage, holistic values, and a collective vision for empowering individuals through education. Rooted in the belief that education is both a universal right and a pathway to societal transformation.
+                At <strong>ABVSU</strong>, our journey is inspired by India's rich cultural heritage, holistic values, and a collective vision for empowering individuals through education. Rooted in the belief that education is both a universal right and a pathway to societal transformation.
               </p>
               <p>
-                The spirit of India, with its diversity, resilience, and commitment to harmony, profoundly influences our mission at SGTU. Sikkim, in particular, stands as an emblem of natural beauty and cultural heritage.
+                The spirit of India, with its diversity, resilience, and commitment to harmony, profoundly influences our mission at ABVSU. Sikkim, in particular, stands as an emblem of natural beauty and cultural heritage.
               </p>
               <p>
-                Another core inspiration for SGTU is the innovative spirit that defines modern India. As the world moves forward with advancements in science, technology, and research, SGTU aims to stay at the forefront of change.
+                Another core inspiration for ABVSU is the innovative spirit that defines modern India. As the world moves forward with advancements in science, technology, and research, ABVSU aims to stay at the forefront of change.
               </p>
              <p>
                 Our esteemed founder, <strong>Dr. Saurabh Singhal</strong>, further fuels our inspiration. With over 15 years of dedication to skill development and a lifelong passion for education, his vision guides every step we take.
@@ -59,14 +59,14 @@ const Page = () => {
               <p>
                 Above all, we are inspired by our students, who embody the aspirations and dreams of a nation looking toward a brighter future.
               
-                At SGTU, our inspiration is as vast and multifaceted as India itself. Drawn from the country's rich cultural heritage, innovative spirit, and our students' dreams, we continue to evolve with purpose.
+                At ABVSU, our inspiration is as vast and multifaceted as India itself. Drawn from the country's rich cultural heritage, innovative spirit, and our students' dreams, we continue to evolve with purpose.
               </p>
 
               <Link
-                href="/aboutsgtu"
+                href="/aboutABVSU"
                 className="inline-flex items-center gap-2 text-orange-600 font-semibold hover:underline transition"
               >
-                Learn More About SGTU
+                Learn More About ABVSU
                 <ArrowRight size={16} />
               </Link>
           </div>

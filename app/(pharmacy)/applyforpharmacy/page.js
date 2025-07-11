@@ -72,7 +72,7 @@ export default function ApplicationForm() {
     try {
       setSubmitting(true);
 
-      const res = await fetch("https://api.sgtu.ac.in/api/pharmacyForm/create", {
+      const res = await fetch("https://api.ABVSU.ac.in/api/pharmacyForm/create", {
         method: "POST",
         body: formData, 
         

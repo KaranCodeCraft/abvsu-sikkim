@@ -10,7 +10,7 @@ export default function TransportationPage() {
         <div className="space-y-4">
           <h2 className="text-3xl font-bold">Transportation</h2>
           <p>
-            Transportation plays a crucial role in the overall campus experience at Atal Bihari Vajpayee Skill University (SGTU). The university is committed to providing efficient and reliable transportation services that ensure students and faculty can easily access the campus and its surrounding areas.
+            Transportation plays a crucial role in the overall campus experience at Atal Bihari Vajpayee Skill University (ABVSU). The university is committed to providing efficient and reliable transportation services that ensure students and faculty can easily access the campus and its surrounding areas.
           </p>
           <p>
             This focus on transportation not only facilitates smooth commutes but also enhances the overall educational experience, promoting safety, convenience, and accessibility.
@@ -27,7 +27,7 @@ export default function TransportationPage() {
               Campus Shuttle <span className="text-orange-500">Services</span>
             </h3>
             <p className="mb-3">
-              SGTU operates a dedicated campus shuttle service designed to transport students between the university and key locations within the region. These shuttles are scheduled to accommodate class timings, ensuring that students can arrive on campus in a timely manner.
+              ABVSU operates a dedicated campus shuttle service designed to transport students between the university and key locations within the region. These shuttles are scheduled to accommodate class timings, ensuring that students can arrive on campus in a timely manner.
             </p>
             <p>
               The shuttle service is particularly beneficial for students living off-campus, as it provides a convenient and cost-effective means of transportation. The shuttles are well-maintained, equipped with comfortable seating, and adhere to safety regulations.
@@ -67,7 +67,7 @@ export default function TransportationPage() {
               Accessibility and <span className="text-orange-500">Convenience</span>
             </h3>
             <p className="mb-3">
-              The transportation services at SGTU are designed to cater to the diverse needs of the student body. The university ensures that transportation options are accessible to all students, including those with disabilities.
+              The transportation services at ABVSU are designed to cater to the diverse needs of the student body. The university ensures that transportation options are accessible to all students, including those with disabilities.
             </p>
             <p>
               Furthermore, the university is strategically located near major roads and public transport hubs, making it easy for students and staff to access the campus via public transport if preferred.
@@ -85,7 +85,7 @@ export default function TransportationPage() {
               Safety and Security <span className="text-orange-500">Measures</span>
             </h3>
             <p className="mb-3">
-              SGTU places a strong emphasis on the safety and security of its students during transit. All transportation services adhere to stringent safety standards.
+              ABVSU places a strong emphasis on the safety and security of its students during transit. All transportation services adhere to stringent safety standards.
             </p>
             <p>
               The university also employs qualified drivers and offers communication channels for students to report any transportation-related issues.
@@ -98,7 +98,7 @@ export default function TransportationPage() {
               Promoting Sustainable <span className="text-orange-500">Transportation</span>
             </h3>
             <p>
-              Recognizing the importance of sustainability, SGTU promotes eco-friendly options like cycling and carpooling. Dedicated bike lanes and secure parking are provided, encouraging greener commuting.
+              Recognizing the importance of sustainability, ABVSU promotes eco-friendly options like cycling and carpooling. Dedicated bike lanes and secure parking are provided, encouraging greener commuting.
             </p>
           </div>
 
@@ -108,7 +108,7 @@ export default function TransportationPage() {
               Integrated Transportation <span className="text-orange-500">Solutions</span>
             </h3>
             <p>
-              SGTU collaborates with local transport providers to offer students discounted fares and special routes. These partnerships enhance the commuting experience for the university community.
+              ABVSU collaborates with local transport providers to offer students discounted fares and special routes. These partnerships enhance the commuting experience for the university community.
             </p>
           </div>
 
@@ -118,7 +118,7 @@ export default function TransportationPage() {
               Support for Local and <span className="text-orange-500">Regional Connectivity</span>
             </h3>
             <p>
-              SGTU supports connectivity to nearby towns and cities for internships, workshops, and recreational activities. Reliable transport options empower students to explore opportunities beyond the campus.
+              ABVSU supports connectivity to nearby towns and cities for internships, workshops, and recreational activities. Reliable transport options empower students to explore opportunities beyond the campus.
             </p>
           </div>
         </div>

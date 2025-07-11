@@ -33,22 +33,22 @@ const Page = () => {
           {[
             {
               title: "Admission",
-              email: "admission@sgtu.ac.in",
+              email: "admission@ABVSU.ac.in",
               phone: "9821777618",
             },
             {
               title: "Enrollment",
-              email: "enrollment@sgtu.ac.in",
+              email: "enrollment@ABVSU.ac.in",
               phone: "9821777621",
             },
             {
               title: "Verification",
-              email: "verification@sgtu.ac.in",
+              email: "verification@ABVSU.ac.in",
               phone: "9821777617",
             },
             {
               title: "Collaboration",
-              email: "collaboration@sgtu.ac.in",
+              email: "collaboration@ABVSU.ac.in",
               phone: "8055337783",
             },
           ].map((item) => (
@@ -85,8 +85,8 @@ const Page = () => {
             {/* <div className="mb-4">
               <p className="text-sm mb-1 flex items-center gap-2">
                 <EnvelopeIcon className={IconStyle} />
-                <a href="mailto:collaboration@sgtu.ac.in">
-                  collaboration@sgtu.ac.in
+                <a href="mailto:collaboration@ABVSU.ac.in">
+                  collaboration@ABVSU.ac.in
                 </a>
               </p>
               <p className="text-sm flex items-center gap-2">
@@ -173,7 +173,7 @@ const Page = () => {
                     Email ID
                   </p>
                   <p className="font-bold">
-                    <a href="mailto:info@sgtu.ac.in">info@sgtu.ac.in</a>
+                    <a href="mailto:info@ABVSU.ac.in">info@ABVSU.ac.in</a>
                   </p>
                 </div>
               </div>

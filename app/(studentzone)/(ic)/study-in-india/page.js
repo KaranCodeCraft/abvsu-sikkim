@@ -196,10 +196,10 @@ export default function StudyInIndiaPage() {
               <h4 className="font-bold text-lg">Email Us</h4>
               <p>Get direct help from our admissions office</p>
               <a
-                href="mailto:info@sgtu.ac.in"
+                href="mailto:info@ABVSU.ac.in"
                 className="inline-block mt-3 text-orange-500 underline"
               >
-                info@sgtu.ac.in
+                info@ABVSU.ac.in
               </a>
             </div>
             <div className="p-6 bg-white rounded shadow text-center">
@@ -207,12 +207,12 @@ export default function StudyInIndiaPage() {
               <h4 className="font-bold text-lg">Visit Website</h4>
               <p>Explore programs and application details</p>
               <a
-                href="https://www.sgtu.ac.in"
+                href="https://www.ABVSU.ac.in"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block mt-3 text-orange-500 underline"
               >
-                www.sgtu.ac.in
+                www.ABVSU.ac.in
               </a>
             </div>
           </div>

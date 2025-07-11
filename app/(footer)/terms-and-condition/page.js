@@ -110,8 +110,8 @@ export default function TermsPage() {
         <p>
           If you have any questions, concerns, or require further clarification regarding these terms
           and conditions, feel free to reach out to us. You can contact us via email at{" "}
-          <a href="mailto:info@sgtu.ac.in" className="text-blue-600 underline">
-            info@sgtu.ac.in
+          <a href="mailto:info@ABVSU.ac.in" className="text-blue-600 underline">
+            info@ABVSU.ac.in
           </a>
           .
         </p>

@@ -25,7 +25,7 @@ const Welcome = () => {
             className="w-full"
             style={{ transformStyle: "preserve-3d" }}
           >
-            <Image src={"https://placehold.co/600x400.png?text=ATAL Bihari Vajpayee University"} height={100} width={700} alt="about sgtu" />
+            <Image src={"/images/Gallery/about.jpg"} height={100} width={700} alt="about ABVSU" />
           </motion.div>
         </div>
 

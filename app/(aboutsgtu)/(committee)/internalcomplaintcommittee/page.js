@@ -130,7 +130,7 @@ const Page = () => {
               Unbiased, Independent, Simple, and Fair processes.
             </div>
             <div className="p-4 border-b border-gray-300 bg-gray-50 text-gray-700 font-medium">
-              No opinion expressed about any ICC at SGTU outside the Committee.
+              No opinion expressed about any ICC at ABVSU outside the Committee.
             </div>
             <div className="p-4 border-b border-gray-300 bg-gray-50 text-gray-700 font-medium">
               All members must be available and approachable at all times.
@@ -255,10 +255,10 @@ const Page = () => {
             Complaints must be submitted in a “Complaint Registration Form”
             which is provided on the respective website at{" "}
             <a
-              href="mailto:icc.cell@sgtu.sc.in"
+              href="mailto:icc.cell@ABVSU.sc.in"
               className="text-blue-600 underline"
             >
-              icc.cell@sgtu.sc.in
+              icc.cell@ABVSU.sc.in
             </a>
             .
           </p>

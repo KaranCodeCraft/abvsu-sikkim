@@ -114,10 +114,10 @@ export default function PhdProgrammePage() {
             Newspapers & website followed by a mandatory entrance examination.
             Please visit{" "}
             <a
-              href="https://www.sgtu.ac.in"
+              href="https://www.ABVSU.ac.in"
               className="text-orange-500 underline"
             >
-              www.sgtu.ac.in
+              www.ABVSU.ac.in
             </a>{" "}
             for latest updates.
           </p>

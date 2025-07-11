@@ -26,7 +26,7 @@ const Page = () => {
       <section className="py-20 px-4 md:px-16 bg-white">
         <div className="max-w-6xl mx-auto space-y-10">
           <h2 className="text-3xl md:text-4xl font-bold text-orange-600">
-            SGTU x CIDC Collaboration
+            ABVSU x CIDC Collaboration
           </h2>
 
           {/* Collaboration Portrait Image */}
@@ -34,7 +34,7 @@ const Page = () => {
             <div className="w-full max-w-sm md:max-w-md rounded-xl overflow-hidden shadow-lg">
               <Image
                 src="/docs/industryCollaboration.jpeg" 
-                alt="SGTU and CIDC Collaboration"
+                alt="ABVSU and CIDC Collaboration"
                 width={400}
                 height={600}
                 className="w-full h-auto object-cover"
@@ -43,7 +43,7 @@ const Page = () => {
           </div>
 
           <p className="text-gray-700 leading-7 text-lg">
-            <strong>Atal Bihari Vajpayee Skill University (SGTU)</strong> has
+            <strong>Atal Bihari Vajpayee Skill University (ABVSU)</strong> has
             collaborated with the
             <strong> Construction Industry Development Council (CIDC)</strong>,
             an apex organization established in 1996 by the Planning Commission
@@ -59,7 +59,7 @@ const Page = () => {
           </p>
 
           <p className="text-gray-700 leading-7 text-lg">
-            On <strong>11th June 2025</strong>, SGTU was honoured with the
+            On <strong>11th June 2025</strong>, ABVSU was honoured with the
             distinction of establishing the{" "}
             <strong>First National CIDC Affiliated Centre</strong> in Sikkim,
             inaugurated by
@@ -68,7 +68,7 @@ const Page = () => {
 
           <p className="text-gray-700 leading-7 text-lg">
             CIDC has consistently led impactful Human Resource Development
-            programs focused on employability, and the partnership with SGTU
+            programs focused on employability, and the partnership with ABVSU
             opens new doors for the youth of the state.
           </p>
 
@@ -78,7 +78,7 @@ const Page = () => {
             </h3>
             <ul className="list-disc list-inside text-gray-800 text-base space-y-3">
               <li>
-                <strong>Internship Opportunities:</strong> SGTU students will
+                <strong>Internship Opportunities:</strong> ABVSU students will
                 gain hands-on project experience through internships with top
                 industry organizations.
               </li>
@@ -100,7 +100,7 @@ const Page = () => {
 
           <p className="text-gray-700 leading-7 text-lg">
             This initiative marks a milestone in bridging the gap between
-            academics and industry, ensuring that SGTU students are
+            academics and industry, ensuring that ABVSU students are
             well-equipped to contribute to the infrastructure development sector
             both regionally and nationally.
           </p>

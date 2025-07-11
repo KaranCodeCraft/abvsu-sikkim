@@ -36,7 +36,7 @@ export default function CreditTradesPolicy() {
         className="bg-white p-10 rounded-lg shadow-lg"
       >
         <h1 className="text-4xl font-extrabold text-orange-500 mb-8">
-          SGTU Credit Trades Policy
+          ABVSU Credit Trades Policy
         </h1>
 
         <p className="mb-6 text-gray-700 leading-relaxed text-lg">

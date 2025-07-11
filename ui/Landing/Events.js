@@ -1,9 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import img1 from '@/public/images/Events/event-img01.png';
-import img2 from '@/public/images/Events/event-img02.png';
-import img3 from '@/public/images/Events/event-img03.png';
-import img4 from '@/public/images/Events/event-img04.png';
+
 import { caveat } from '@/lib/fonts/Caveat';
 
 const Events = () => {

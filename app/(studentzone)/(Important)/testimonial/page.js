@@ -10,13 +10,13 @@ import "swiper/css/autoplay";
 const testimonials = [
   {
     name: "Kishan Gupta",
-    image: "https://www.sgtu.ac.in/images/student1.jpg",
+    image: "https://www.ABVSU.ac.in/images/student1.jpg",
     text:
       "The Training & Placement Cell equipped me with the right skills and opportunities, leading to my dream job. I’m grateful for their constant support!",
   },
   {
     name: "Shubham Mishra",
-    image: "https://www.sgtu.ac.in/images/student0.jpg",
+    image: "https://www.ABVSU.ac.in/images/student0.jpg",
     text:
       "The placement process was seamless. With the guidance from the Placement Cell, I landed an amazing role at a top company. It truly made a difference!",
   },
@@ -28,13 +28,13 @@ const testimonials = [
   },
   {
     name: "Ankita Pathak",
-    image: "https://www.sgtu.ac.in/images/young-woman.jpg",
+    image: "https://www.ABVSU.ac.in/images/young-woman.jpg",
     text:
       "The support from the T&P Cell throughout the recruitment process was incredible. It helped me secure my first job and set me on the right path.",
   },
   {
     name: "Nitika",
-    image: "https://www.sgtu.ac.in/images/student3.jpg",
+    image: "https://www.ABVSU.ac.in/images/student3.jpg",
     text:
       "With the guidance and preparation I received, I was able to connect with top recruiters and start my professional journey on a high note.",
   },
@@ -50,7 +50,7 @@ export default function Testimonial() {
         <h2 className="text-4xl sm:text-5xl font-extrabold text-gray-800">
           What Students{" "}
           <span className="text-orange-500 drop-shadow-sm">Say</span> About{" "}
-          <span className="text-orange-500 drop-shadow-sm">SGTU</span>
+          <span className="text-orange-500 drop-shadow-sm">ABVSU</span>
         </h2>
       </div>
 

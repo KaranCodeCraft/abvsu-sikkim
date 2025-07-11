@@ -6,25 +6,25 @@ import Link from "next/link";
 export default function HomePage() {
   return (
     <>
-      {/* Discover SGTU Section */}
+      {/* Discover ABVSU Section */}
       <section className="bg-white py-12">
         <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
           {/* Left: Text Content */}
           <div className="space-y-6">
             <h1 className="text-3xl md:text-4xl font-bold text-gray-900">
-              Discover SGTU: <span className="text-amber-500">A Campus Like No Other</span>
+              Discover ABVSU: <span className="text-amber-500">A Campus Like No Other</span>
             </h1>
             <h2 className="text-xl text-gray-800 font-semibold">
               Why choose Atal Bihari Vajpayee Skill University
             </h2>
             <p className="text-lg text-gray-600">
-              Welcome to <span className="font-semibold text-amber-500">SGTU</span>, where education extends beyond classrooms
+              Welcome to <span className="font-semibold text-amber-500">ABVSU</span>, where education extends beyond classrooms
               into a dynamic, inspiring, and serene environment. Our university is dedicated to <span className="font-semibold text-amber-500">empowering students</span>
               with <span className="font-semibold text-amber-500">future-ready skills</span>, fostering innovation, and equipping them
               with the values needed to make a meaningful impact on society.
             </p>
             <p className="text-lg text-gray-600">
-              At <span className="font-semibold text-amber-500">SGTU</span>, students don’t just learn; they <span className="font-semibold text-amber-500">experience education</span>
+              At <span className="font-semibold text-amber-500">ABVSU</span>, students don’t just learn; they <span className="font-semibold text-amber-500">experience education</span>
               in a setting that blends <span className="font-semibold text-amber-500">academic excellence with the beauty of nature</span>.
             </p>
           </div>
@@ -33,7 +33,7 @@ export default function HomePage() {
           <div className="text-center">
             <Image
               src="/Background/footerbg.jpeg"
-              alt="SGTU Campus"
+              alt="ABVSU Campus"
               className="rounded-xl shadow-lg mx-auto"
               width={600}
               height={400}
@@ -63,7 +63,7 @@ export default function HomePage() {
             </h1>
             <p className="text-lg text-gray-600">
               Nestled in the <span className="font-semibold text-amber-500">breathtaking town of Namchi, Sikkim</span>,
-              the <span className="font-semibold text-amber-500">SGTU campus</span> offers a <span className="font-semibold">one-of-a-kind</span>
+              the <span className="font-semibold text-amber-500">ABVSU campus</span> offers a <span className="font-semibold">one-of-a-kind</span>
               learning environment with <span className="font-semibold">majestic mountains, lush valleys, and green landscapes</span>.
             </p>
             <p className="text-lg text-gray-600">
@@ -94,19 +94,19 @@ export default function HomePage() {
         <h1 className="text-3xl md:text-4xl font-bold text-amber-500">💡 Your Journey Begins Here</h1>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto mt-4">
           Ready to experience transformative education in a serene yet innovative environment?
-          SGTU offers the perfect blend of academic rigor, career opportunities, and holistic development.
+          ABVSU offers the perfect blend of academic rigor, career opportunities, and holistic development.
         </p>
         <div className="mt-6 space-y-2">
           <p className="text-lg">
             <strong>🌐 Website:</strong>{" "}
-            <Link href="https://www.sgtu.ac.in" className="text-amber-500 hover:underline">
-              www.sgtu.ac.in
+            <Link href="https://www.ABVSU.ac.in" className="text-amber-500 hover:underline">
+              www.ABVSU.ac.in
             </Link>
           </p>
           <p className="text-lg">
             <strong>📧 Email:</strong>{" "}
-            <a href="mailto:admissions@sgtu.ac.in" className="text-amber-500 hover:underline">
-              admissions@sgtu.ac.in
+            <a href="mailto:admissions@ABVSU.ac.in" className="text-amber-500 hover:underline">
+              admissions@ABVSU.ac.in
             </a>
           </p>
         </div>

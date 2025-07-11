@@ -9,7 +9,7 @@ export default function CareerPage() {
             Join Our Team and Shape the Future of Education
           </h2>
           <p className="mb-4">
-            At SGTU, we are committed to excellence in education, research, and
+            At ABVSU, we are committed to excellence in education, research, and
             innovation. We believe in fostering a dynamic and inclusive work
             environment where talent thrives, ideas flourish, and careers grow.
           </p>
@@ -125,7 +125,7 @@ export default function CareerPage() {
       >
         <h2 className="text-3xl font-bold text-orange-500 mb-4">How to Apply?</h2>
         <p className="text-lg mb-8">
-          Join SGTU and be a part of a prestigious institution shaping the
+          Join ABVSU and be a part of a prestigious institution shaping the
           leaders of tomorrow.
         </p>
         <div className="grid md:grid-cols-2 gap-6">
@@ -134,10 +134,10 @@ export default function CareerPage() {
             <h5 className="text-xl font-semibold mb-2">Email Your Resume</h5>
             <p>Send your CV to our HR team.</p>
             <a
-              href="mailto:hr@sgtu.ac.in"
+              href="mailto:hr@ABVSU.ac.in"
               className="inline-block mt-4 px-4 py-2 bg-yellow-500 text-white rounded hover:bg-yellow-600"
             >
-              hr@sgtu.ac.in
+              hr@ABVSU.ac.in
             </a>
           </div>
 
@@ -146,7 +146,7 @@ export default function CareerPage() {
             <h5 className="text-xl font-semibold mb-2">Visit Our Careers Portal</h5>
             <p>Explore job openings on our website.</p>
             <a
-              href="https://www.sgtu.ac.in/careers"
+              href="https://www.ABVSU.ac.in/careers"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-4 px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600"

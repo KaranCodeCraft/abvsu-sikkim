@@ -15,31 +15,31 @@ const AnimatedFooter = () => {
     {
       title: "Quick Links",
       links: [
-        { name: "About Sikkim", link: "/aboutsikkim" },
-        {
-          name: "PHD Admission",
-          link: "/research",
-        },
-        { name: "Pharmacy", link: "/pharmacysgtu" },
-        { name: "Feedback Form", link: "/contact" },
+        { name: "About Sikkim", link: "/#" },
+        // {
+        //   name: "PHD Admission",
+        //   link: "/research",
+        // },
+        // { name: "Pharmacy", link: "/pharmacyABVSU" },
+        { name: "Feedback Form", link: "/#" },
         {
           name: "Grievence Redressal Cell",
-          link: "/studentgrievenceredressalcell",
+          link: "/#",
         },
-        { name: "Academic Collaboration", link: "/academic-collaboration" },
-        { name: "Document Verification", link: "/verify-documents" },
+        { name: "Academic Collaboration", link: "/#" },
+        { name: "Document Verification", link: "/#" },
         // { name: "Flexible Learning", link: "#" },
         // { name: "Fee Confirmation ", link: "#" },
         {
           name: "International Collaboration",
-          link: "/international-collaboration",
+          link: "/#",
         },
       ],
     },
     {
       title: "Important Links",
       links: [
-        { name: "PCI", link: "https://www.pci.nic.in/", target: "_blank" },
+        { name: "PCI", link: "/#", target: "_blank" },
         // {
         //   name: "NCTE",
         //   link: "https://ncte.gov.in/ncte_new/",
@@ -47,21 +47,21 @@ const AnimatedFooter = () => {
         // },
         {
           name: "BCI",
-          link: "https://www.barcouncilofindia.org/home",
+          link: "/#",
           target: "_blank",
         },
-        { name: "AYUSH", link: "https://ayush.gov.in/#!/", target: "_blank" },
+        { name: "AYUSH", link: "/#", target: "_blank" },
         {
           name: "INC",
-          link: "https://www.indiannursingcouncil.org/",
+          link: "/#",
           target: "_blank",
         },
-        { name: "RTI", link: "/rti" },
+        { name: "RTI", link: "/#" },
         // { name: "Annual Reports", link: "#" },
-        { name: "Terms and Condition", link: "/terms-and-condition" },
+        { name: "Terms and Condition", link: "/#" },
         {
           name: "UGC E-SAMADHAN",
-          link: "https://samadhaan.ugc.ac.in/",
+          link: "/#",
           target: "_blank",
         },
       ],
@@ -69,23 +69,23 @@ const AnimatedFooter = () => {
     {
       title: "Helpful Links",
       links: [
-        { name: "Admission Policy", link: "/admission-policy" },
-        { name: "Ombudsperson", link: "/docs/ombudsman.pdf", target: "_blank" },
+        { name: "Admission Policy", link: "/#" },
+        { name: "Ombudsperson", link: "/#", target: "_blank" },
         {
           name: "Old Student Verification",
-          link: "https://erp.sgtu.ac.in/enrollmentverification",
+          link: "/#",
           target: "_blank",
         },
         {
           name: "Refund Policy",
-          link: "/refund-policy",
+          link: "/#",
         },
         {
           name: "Holiday List",
-          link: "/docs/Holiday-List-2025.pdf",
+          link: "/#",
           target: "_blank",
         },
-        { name: "Anti-Ragging", link: "/antiraggingcomitee" },
+        { name: "Anti-Ragging", link: "/#" },
         {
           name: "Student Speak",
           link: "/testimonial",

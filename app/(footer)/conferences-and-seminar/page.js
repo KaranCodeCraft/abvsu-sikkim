@@ -14,7 +14,7 @@ export default function ConferencePage() {
             Welcome to the Hub of Knowledge Exchange & Innovation
           </h3>
           <p className="text-gray-700">
-            At Atal Bihari Vajpayee Skill University (SGTU), we foster a culture of
+            At Atal Bihari Vajpayee Skill University (ABVSU), we foster a culture of
             research, collaboration, and continuous learning through our
             conferences, seminars, and workshops. Join us as we bring together
             academicians, researchers, industry experts, and students to discuss
@@ -36,7 +36,7 @@ export default function ConferencePage() {
           <div className="w-full h-72 md:h-96 rounded-xl overflow-hidden shadow-lg bg-gray-100">
             <Image
               src="/images/Graphic/conference.jpg"
-              alt="Conference at SGTU"
+              alt="Conference at ABVSU"
               width={800}
               height={600}
               className="object-cover w-full h-full"
@@ -79,7 +79,7 @@ export default function ConferencePage() {
               <strong>📅 Date:</strong> June 5, 2025
             </p>
             <p className="text-gray-700">
-              <strong>📍 Venue:</strong> Computer Science Auditorium, SGTU
+              <strong>📍 Venue:</strong> Computer Science Auditorium, ABVSU
             </p>
             <p className="text-gray-700">
               <strong>👨‍🏫 Trainer:</strong> Industry Experts & Data Scientists
@@ -125,10 +125,10 @@ export default function ConferencePage() {
           <li className="flex items-center gap-2">
             📧 <strong>Email:</strong>{" "}
             <a
-              href="mailto:info@sgtu.ac.in"
+              href="mailto:info@ABVSU.ac.in"
               className="text-blue-600 hover:underline"
             >
-              info@sgtu.ac.in
+              info@ABVSU.ac.in
             </a>
           </li>
         </ul>
@@ -137,7 +137,7 @@ export default function ConferencePage() {
       {/* Closing Statement */}
       <section className="py-8 px-4 max-w-5xl mx-auto">
         <h3 className="text-2xl font-bold text-gray-900 text-center">
-          🚀 Join us in shaping the future of research & innovation at SGTU!
+          🚀 Join us in shaping the future of research & innovation at ABVSU!
         </h3>
       </section>
     </main>

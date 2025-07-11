@@ -8,7 +8,7 @@ export default function NoRefundPolicyPage() {
       <div className="space-y-6">
         <h1 className="text-3xl md:text-4xl font-bold text-red-600">NO REFUND POLICY</h1>
         <p>
-          At Atal Bihari Vajpayee Skill University (SGTU), we maintain transparency and integrity in our
+          At Atal Bihari Vajpayee Skill University (ABVSU), we maintain transparency and integrity in our
           admission and fee-related procedures. The following No Refund Policy applies to all applicants
           and enrolled students:
         </p>
@@ -63,7 +63,7 @@ export default function NoRefundPolicyPage() {
 
         <p>
           <strong>Note:</strong> Students and parents are advised to thoroughly review the admission
-          guidelines and fee structure before making any payment. By enrolling at SGTU, you agree to abide
+          guidelines and fee structure before making any payment. By enrolling at ABVSU, you agree to abide
           by this No Refund Policy.
         </p>
 

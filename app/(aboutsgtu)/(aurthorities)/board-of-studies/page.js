@@ -28,14 +28,14 @@ const Page = () => {
               Academic Excellence Through Innovation & Expertise
             </h2>
             <p className="text-gray-700 leading-7">
-              The Board of Studies (BoS) at SGTU ensures that our curriculum
+              The Board of Studies (BoS) at ABVSU ensures that our curriculum
               remains industry-relevant, research-driven, and aligned with
               global⚠️ standards. Comprising distinguished academicians,
               industry experts, and faculty members, the BoS plays a pivotal
               role in shaping academic frameworks.
             </p>
             <p className="text-gray-700 leading-7">
-              Each School at SGTU has a dedicated Board of Studies responsible
+              Each School at ABVSU has a dedicated Board of Studies responsible
               for designing, reviewing, and updating syllabi to keep pace with
               the latest advancements.
             </p>
@@ -90,7 +90,7 @@ const Page = () => {
         <div className="w-full mt-12">
           <div className="p-6 md:p-8 rounded-lg">
             <h3 className="text-2xl md:text-3xl font-bold text-orange-600 mb-6">
-              Schools Under the Board of Studies at SGTU
+              Schools Under the Board of Studies at ABVSU
             </h3>
             <ul className="list-disc pl-5 space-y-2 text-gray-700">
               <li>School of Computer Science & IT</li>

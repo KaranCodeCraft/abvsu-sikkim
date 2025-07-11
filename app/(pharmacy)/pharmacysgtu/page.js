@@ -266,7 +266,7 @@ export default function PharmacyPage() {
               <h3 className="text-xl font-semibold text-orange-500 mb-4">
                 Industry Collaboration & Internships
               </h3>
-              <p className="text-sm mb-2">SGTU partners with:</p>
+              <p className="text-sm mb-2">ABVSU partners with:</p>
               <ul className="list-disc list-inside space-y-2 text-sm">
                 <li>Leading pharmaceutical companies</li>
                 <li>Hospitals and healthcare providers</li>

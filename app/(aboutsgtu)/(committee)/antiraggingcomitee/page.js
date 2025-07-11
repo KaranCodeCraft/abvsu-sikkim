@@ -27,7 +27,7 @@ const Page = () => {
           <div className="bg-gray-800 text-white px-6 py-3">
             <div className="flex justify-between items-center">
               <div>
-                <p className="text-sm">Ref: No: SGTU/ND/25/281</p>
+                <p className="text-sm">Ref: No: ABVSU/ND/25/281</p>
                 <p className="text-sm">Date: 27th June 2025</p>
               </div>
               <h2 className="text-xl font-bold">NOTIFICATION</h2>
@@ -36,10 +36,10 @@ const Page = () => {
           
           {/* Content */}
           <div className="p-6">
-            <h3 className="text-lg font-semibold mb-4">Subject: Constitution of Anti-ragging Committee, Atal Bihari Vajpayee Skill University (SGTU) – Namchi, South Sikkim reg.</h3>
+            <h3 className="text-lg font-semibold mb-4">Subject: Constitution of Anti-ragging Committee, Atal Bihari Vajpayee Skill University (ABVSU) – Namchi, South Sikkim reg.</h3>
             <p className="mb-4 text-gray-700">Reference: UGC Anti-Ragging Regulations 2009 - Compliances.</p>
             <p className="mb-6 text-gray-700">
-              The SGTU, Sikkim has constituted the Anti-Ragging Committee for the Academic Year of the Campus as per the clause 6.3 (a) of UGC Regulations on Curbing the Menace of Ragging in Higher Education, 2009. Following are the members of the Anti-Ragging Committee:
+              The ABVSU, Sikkim has constituted the Anti-Ragging Committee for the Academic Year of the Campus as per the clause 6.3 (a) of UGC Regulations on Curbing the Menace of Ragging in Higher Education, 2009. Following are the members of the Anti-Ragging Committee:
             </p>
             
             {/* Committee Table */}
@@ -89,7 +89,7 @@ const Page = () => {
           <div className="bg-gray-800 text-white px-6 py-3">
             <div className="flex justify-between items-center">
               <div>
-                <p className="text-sm">Ref: SGTU/RO/2024/014</p>
+                <p className="text-sm">Ref: ABVSU/RO/2024/014</p>
                 <p className="text-sm">Date: 14th June 2024</p>
               </div>
               <h2 className="text-xl font-bold">Anti-Ragging Squad</h2>
@@ -116,9 +116,9 @@ const Page = () => {
                 <tbody>
                   {[
                     [1, "Representative Of Teaching Staff", "Sweety, Assistant Professor", "sweetympharmcology@gmail.com, 9999389921"],
-                    [2, "Representative Of Non-Teaching Staff", "Vikash Yadav", "Manager Administration, SGTU, suvikash4591@gmail.com, 8076939777"],
-                    [3, "Representative Of Non-Teaching Staff", "Ms. Rabina Chettri", "Program Manager, SGTU, programmanagersgtu@gmail.com, 7584905374"],
-                    [4, "Representative Of Non-Teaching Staff", "Bishal Basnett", "System Administrator, SGTU, bishalchettri1590@gmail.com, 7584937139"],
+                    [2, "Representative Of Non-Teaching Staff", "Vikash Yadav", "Manager Administration, ABVSU, suvikash4591@gmail.com, 8076939777"],
+                    [3, "Representative Of Non-Teaching Staff", "Ms. Rabina Chettri", "Program Manager, ABVSU, programmanagerABVSU@gmail.com, 7584905374"],
+                    [4, "Representative Of Non-Teaching Staff", "Bishal Basnett", "System Administrator, ABVSU, bishalchettri1590@gmail.com, 7584937139"],
                     [5, "Representative Of Non-Teaching Staff", "Geeta Rai", "Admin cum Office Executive, 7318906324"],
                     [6, "Representative Of Non-Teaching Staff", "Kushal Gurung", "Admin cum Office Executive, 7431957544"]
                   ].map((row, index) => (

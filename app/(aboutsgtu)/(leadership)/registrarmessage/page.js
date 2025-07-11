@@ -32,7 +32,7 @@ const Page = () => {
 
             <p>
               I am delighted to extend my warmest greetings to all of you as the
-              Registrar of Atal Bihari Vajpayee Skill University (SGTU). It is an
+              Registrar of Atal Bihari Vajpayee Skill University (ABVSU). It is an
               honour to be a part of this esteemed University, and I am
               committed to ensuring that our university becomes a beacon of
               knowledge, innovation, and excellence.
@@ -40,7 +40,7 @@ const Page = () => {
 
             <p>
               As the Registrar, my primary focus is to facilitate and enhance
-              the academic experience for all members of the SGTU family. Our
+              the academic experience for all members of the ABVSU family. Our
               university is dedicated to providing a nurturing and stimulating
               environment that fosters holistic development and empowers
               students to become future-ready professionals.
@@ -75,7 +75,7 @@ const Page = () => {
 
           <p>
             Our esteemed faculty members are the pillars of academic excellence
-            at SGTU. I express my gratitude for your tireless dedication to
+            at ABVSU. I express my gratitude for your tireless dedication to
             imparting quality education and mentoring our students. Your
             expertise and guidance are invaluable in shaping the minds of the
             future leaders and innovators of our society.
@@ -89,7 +89,7 @@ const Page = () => {
           </p>
 
           <p>
-            SGTU is committed to promoting research and innovation. As the
+            ABVSU is committed to promoting research and innovation. As the
             Registrar, I will work closely with the academic departments and
             research centers to encourage interdisciplinary research,
             collaborations, and partnerships with industries and organizations.
@@ -125,7 +125,7 @@ const Page = () => {
           <div className="pt-8 font-semibold leading-relaxed">
             <p>With warm regards,</p>
             <p>Mr. Sanjeev Kumar</p>
-            <p>registrar@sgtu.ac.in</p>
+            <p>registrar@ABVSU.ac.in</p>
             <p>Registrar</p>
             <p>Atal Bihari Vajpayee Skill University</p>
           </div>

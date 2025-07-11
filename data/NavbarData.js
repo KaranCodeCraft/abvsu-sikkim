@@ -7,7 +7,8 @@ import researchData from "./researchData";
 import admission from "./admission";
 
 const HangingNavData = [
-  {name: "Industry Collaboration", link: "/industry-collaboration",},
+  {name: "Industry Collaboration", link: "/#",},
+  // {name: "Industry Collaboration", link: "/industry-collaboration",},
   {name: "PCI" ,link: "https://www.pci.nic.in",  target: "_blank"},
   {name: "BCI" ,link: "https://www.barcouncilofindia.org/home",  target: "_blank"},
   {name: "AYUSH" ,link: "https://ayush.gov.in/",  target: "_blank"},
@@ -25,7 +26,7 @@ const MainNavData = [
   },
   {
     title: "About ABVSU",
-    href: "/aboutsgtu",
+    href: "/aboutABVSU",
     flyout: () => <FlyoutContent data={AboutData} />,
     flyoutData: AboutData,
     align: "center",
@@ -51,13 +52,13 @@ const MainNavData = [
     flyoutData: researchData,
     align: "center",
   },
-  {
-    title: "Pharmacy",
-    href: "#",
-    flyout: ()=> <FlyoutContent data={pharmacyData}/>,
-    flyoutData: pharmacyData,
-    align: "center",
-  },
+  // {
+  //   title: "Pharmacy",
+  //   href: "#",
+  //   flyout: ()=> <FlyoutContent data={pharmacyData}/>,
+  //   flyoutData: pharmacyData,
+  //   align: "center",
+  // },
   {
     title: "Student Zone",
     href: "#",

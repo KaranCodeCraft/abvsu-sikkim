@@ -73,7 +73,7 @@ const Page = () => {
 
       {/* Introduction */}
       <section className="py-16 px-4 md:px-16 bg-white">
-        <h2 className="text-3xl font-bold mb-4 text-orange-600">Authorities of the SGTU</h2>
+        <h2 className="text-3xl font-bold mb-4 text-orange-600">Authorities of the ABVSU</h2>
         <p className="text-gray-700 leading-7 mb-4">
           The Atal Bihari Vajpayee Skill University operates through several key authorities that govern its academic, administrative, and planning functions. These bodies work in coordination to ensure the smooth functioning and continuous development of the university.
         </p>

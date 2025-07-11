@@ -15,9 +15,9 @@ const MobileNav = () => {
   return (
     <>
       <div className="lg:hidden flex justify-between items-center px-4 py-2 bg-white z-50 shadow-md">
-        {/* Left - SGTU and mini info */}
+        {/* Left - ABVSU and mini info */}
         <div className="flex items-center gap-2">
-          <Image src={logo} alt="SGTU" width={28} height={28} />
+          <Image src={logo} alt="ABVSU" width={28} height={28} />
           <div className="text-[11px] leading-2 text-orange-500">
             
             <p className="font-bold uppercase text-[15px]">Atal Bihari</p><br/>
@@ -90,7 +90,7 @@ const MobileNav = () => {
 
         {/* Logo and Name */}
         <div className="flex items-center gap-2 px-4 py-3 bg-white border-b">
-          <Image src={logo} alt="SGTU" width={50} height={50} />
+          <Image src={logo} alt="ABVSU" width={50} height={50} />
           <div>
             <p className="text-orange-500 text-base font-bold leading-none">
               Sikkim Global

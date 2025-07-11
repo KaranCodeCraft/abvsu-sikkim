@@ -31,10 +31,10 @@ const Page = () => {
           {/* Left: Text Content */}
           <div className="md:w-1/2 space-y-6">
             <h2 className="text-3xl md:text-4xl font-bold text-orange-600">
-              Finance Committee – SGTU Ensuring Financial Sustainability & Growth
+              Finance Committee – ABVSU Ensuring Financial Sustainability & Growth
             </h2>
             <p className="text-gray-700 leading-7">
-              The Finance Committee of Atal Bihari Vajpayee Skill University (SGTU) plays a crucial role in overseeing the financial planning, budgeting, and resource allocation to ensure the university's long-term sustainability and growth. The committee is responsible for maintaining fiscal discipline, financial transparency, and accountability while supporting the institution's vision of providing world-class education and research opportunities.
+              The Finance Committee of Atal Bihari Vajpayee Skill University (ABVSU) plays a crucial role in overseeing the financial planning, budgeting, and resource allocation to ensure the university's long-term sustainability and growth. The committee is responsible for maintaining fiscal discipline, financial transparency, and accountability while supporting the institution's vision of providing world-class education and research opportunities.
             </p>
 
             <p className="text-gray-700 leading-7">
@@ -42,7 +42,7 @@ const Page = () => {
             </p>
 
             <p className="text-gray-700 leading-7">
-              With a commitment to financial integrity and excellence, SGTU continues to invest in state-of-the-art infrastructure, cutting-edge research, and student-centric initiatives, ensuring a sustainable and thriving academic environment.
+              With a commitment to financial integrity and excellence, ABVSU continues to invest in state-of-the-art infrastructure, cutting-edge research, and student-centric initiatives, ensuring a sustainable and thriving academic environment.
             </p>
           </div>
 

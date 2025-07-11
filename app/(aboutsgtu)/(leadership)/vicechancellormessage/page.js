@@ -35,14 +35,14 @@ const Page = () => {
 
             <p>
               I am thrilled and honoured to extend my heartfelt greetings as the
-              Vice-Chancellor of Atal Bihari Vajpayee Skill University (SGTU). As
+              Vice-Chancellor of Atal Bihari Vajpayee Skill University (ABVSU). As
               we embark on this exciting journey of knowledge, innovation, and
               growth, I am filled with a profound sense of responsibility and
               enthusiasm.
             </p>
 
             <p>
-              SGTU represents a new dawn in the realm of technical education,
+              ABVSU represents a new dawn in the realm of technical education,
               and I am humbled to be a part of this esteemed institution. Our
               university’s foundation rests on the principles of academic
               excellence, research prowess, and a commitment to nurturing
@@ -89,7 +89,7 @@ const Page = () => {
             Our staff members form the backbone of the university, ensuring that
             our administrative and support systems function smoothly. I extend
             my gratitude for your tireless efforts and commitment to creating a
-            conducive environment for all stakeholders. SGTU will be a hub of
+            conducive environment for all stakeholders. ABVSU will be a hub of
             research and innovation, fostering a culture that encourages
             original thinking and problem-solving. We will collaborate with
             industries and research institutions to provide our students with
@@ -126,7 +126,7 @@ const Page = () => {
             <p>With warm regards,</p>
             <p>Dr. (Prof.) Swami Prasad Sinha</p>
             <p>Vice-Chancellor</p>
-            <p>vc@sgtu.ac.in</p>
+            <p>vc@ABVSU.ac.in</p>
             <p>Atal Bihari Vajpayee Skill University</p>
           </div>
           

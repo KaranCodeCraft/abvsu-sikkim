@@ -15,7 +15,7 @@ export default function PlacementContactPage() {
               Placement <span className="text-black">Contact</span>
             </h1>
             <p>
-              The Placement Cell at Atal Bihari Vajpayee Skill University (SGTU) is dedicated to assisting students in securing job opportunities with top recruiters. We collaborate with companies and organizations to enable campus placements, internships, and career development programs.
+              The Placement Cell at Atal Bihari Vajpayee Skill University (ABVSU) is dedicated to assisting students in securing job opportunities with top recruiters. We collaborate with companies and organizations to enable campus placements, internships, and career development programs.
             </p>
             <p>
               For inquiries related to placements, students and recruiters can contact us through the details below:
@@ -28,8 +28,8 @@ export default function PlacementContactPage() {
               </p>
               <p>
                 <strong>Email:</strong>{" "}
-                <a href="mailto:info@sgtu.ac.in" className="text-blue-600 underline">
-                  info@sgtu.ac.in
+                <a href="mailto:info@ABVSU.ac.in" className="text-blue-600 underline">
+                  info@ABVSU.ac.in
                 </a>
               </p>
               <p>

@@ -31,11 +31,11 @@ const ReservationRoster = () => {
           className="bg-white shadow-xl rounded-2xl p-6 md:p-10 text-gray-700 space-y-5"
         >
           <p>
-            The Reservation Roster at Atal Bihari Vajpayee Skill University (SGTU) is designed to ensure the proper implementation of reservation policies as per government guidelines. The roster system helps in maintaining transparency and fairness in admissions, faculty recruitment, and other institutional processes.
+            The Reservation Roster at Atal Bihari Vajpayee Skill University (ABVSU) is designed to ensure the proper implementation of reservation policies as per government guidelines. The roster system helps in maintaining transparency and fairness in admissions, faculty recruitment, and other institutional processes.
           </p>
 
           <p>
-            SGTU follows the prescribed reservation norms for Scheduled Castes (SC), Scheduled Tribes (ST), Other Backward Classes (OBC), Economically Weaker Sections (EWS), and Persons with Disabilities (PWD). The reservation roster provides a systematic way to allocate reserved seats and positions while ensuring compliance with regulatory mandates.
+            ABVSU follows the prescribed reservation norms for Scheduled Castes (SC), Scheduled Tribes (ST), Other Backward Classes (OBC), Economically Weaker Sections (EWS), and Persons with Disabilities (PWD). The reservation roster provides a systematic way to allocate reserved seats and positions while ensuring compliance with regulatory mandates.
           </p>
 
           <p>

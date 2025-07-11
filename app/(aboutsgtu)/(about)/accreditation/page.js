@@ -53,14 +53,14 @@ const Page = () => {
             <h2 className="text-3xl font-bold mb-4 text-orange-600">Certification & Recognition</h2>
             <p className="text-gray-700 leading-7">
               Certification and recognition play a crucial role in ensuring that educational institutions meet predefined standards of quality and excellence.
-              At Atal Bihari Vajpayee Skill University (SGTU), these processes serve as a mark of credibility and academic integrity.
+              At Atal Bihari Vajpayee Skill University (ABVSU), these processes serve as a mark of credibility and academic integrity.
             </p>
             <p className="text-gray-700 mt-4 leading-7">
-              SGTU is recognized by national and international accrediting bodies, which evaluate curriculum, faculty, research, infrastructure, and student outcomes.
+              ABVSU is recognized by national and international accrediting bodies, which evaluate curriculum, faculty, research, infrastructure, and student outcomes.
               These recognitions ensure students receive education that meets global benchmarks and enhances career opportunities.
             </p>
             <p className="text-gray-700 mt-4 leading-7">
-              Through rigorous self-assessment and peer-review processes, SGTU continuously upgrades its academic offerings,
+              Through rigorous self-assessment and peer-review processes, ABVSU continuously upgrades its academic offerings,
               adopts modern methodologies, and integrates industry-relevant curricula to uphold quality and recognition.
             </p>
             <p className="text-gray-700 mt-4 leading-7">

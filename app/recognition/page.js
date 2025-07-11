@@ -13,39 +13,46 @@ const data = [
     image: "/logo/sgov.png",
     desc: "The Atal Bihari Vajpayee Skill University was established by the Sikkim Legislative Assembly through The Atal Bihari Vajpayee Skill University ACT, 2023 (Act No. 9 of 2023) on the 11th day of July, 2023.",
     document: "/docs/Government of Sikkim Gazzete Notification.pdf",
+    target: "_blank",
+    document: "/docs/Government of Sikkim Gazzete Notification.pdf",
   },
   {
     title: "University Grants Commission",
     image: "/logo/ugc.png",
     desc: "Atal Bihari Vajpayee Skill University is recognized by UGC as a Private University under Section 2(f) of the UGC Act 1956.",
-    document: "/docs/University Grants Commission.pdf",
+    target: "_self",
+    document: "#",
+    // document: "/docs/University Grants Commission.pdf",
   },
   {
     title: "Association of Indian Universities",
     image: "/logo/aiu.png",
     desc: "Atal Bihari Vajpayee Skill University is a member of the Association of Indian Universities (AIU), an Apex Inter-University Organization engaged in the growth and development of Higher Education.",
-    document: "/docs/aiu.jpg",
+    target: "_self",
+    document: "#",
+    // document: "/docs/aiu.jpg",
   },
   {
     title: "All India Council for Technical Education (AICTE)",
     image: "/logo/aicte.png",
     desc: "Atal Bihari Vajpayee Skill University is AICTE (All India Council for Technical Education) approved.",
+    target: "_blank",
     document: "/docs/All India Council.pdf",
   },
-  {
-    title: "PCI approval for SGTU, School of Pharmacy",
-    image: "/logo/pci.png",
-    desc: "Atal Bihari Vajpayee Skill University / PCI-9508",
-    // document: "/docs/sgtupci.pdf",
-    document: "#",
-  },
-  {
-    title: "PCI approval for CCDDH",
-    image: "/logo/pci.png",
-    desc: "Chardham College of Drug Development and Healthcare (CCDDH) / PCI-10557",
-    document: "#",
-    // document: "/docs/chardham.pdf",
-  },
+  // {
+  //   title: "PCI approval for ABVSU, School of Pharmacy",
+  //   image: "/logo/pci.png",
+  //   desc: "Atal Bihari Vajpayee Skill University / PCI-9508",
+  //   document: "/docs/ABVSUpci.pdf",
+  //   document: "#",
+  // },
+  // {
+  //   title: "PCI approval for CCDDH",
+  //   image: "/logo/pci.png",
+  //   desc: "Chardham College of Drug Development and Healthcare (CCDDH) / PCI-10557",
+  //   document: "#",
+  // document: "/docs/chardham.pdf",
+  // },
 ];
 
 const Page = () => {
@@ -72,7 +79,7 @@ const Page = () => {
           Recognized by Reputed National Education Bodies
         </h2>
         <p className="text-gray-700 text-md md:text-lg leading-7">
-          Atal Bihari Vajpayee Skill University (SGTU) has received recognition and approval from esteemed regulatory and statutory bodies, affirming our commitment to high standards of education, credibility, and academic excellence.
+          Atal Bihari Vajpayee Skill University (ABVSU) has received recognition and approval from esteemed regulatory and statutory bodies, affirming our commitment to high standards of education, credibility, and academic excellence.
         </p>
       </div> */}
 
@@ -98,14 +105,13 @@ const Page = () => {
 
               <p className="text-sm text-gray-700 mb-6 line-clamp-4">{item.desc}</p>
 
-              <a
+              <Link
                 href={item.document}
-                target="_blank"
-                rel="noopener noreferrer"
+                target={item.target}
                 className="bg-orange-500 hover:bg-orange-600 text-white py-1 px-4 rounded-md text-sm font-medium w-fit mx-auto"
               >
                 VIEW
-              </a>
+              </Link>
             </div>
           ))}
         </div>

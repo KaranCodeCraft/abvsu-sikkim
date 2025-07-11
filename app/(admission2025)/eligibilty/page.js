@@ -37,7 +37,7 @@ export default function EligibilityCriteria() {
               <p className="text-gray-700">
                 For clarification or assistance regarding eligibility, please contact our Admissions Office at{' '}
                 <a href="/contact" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">
-                  www.sgtu.ac.in/contact-us
+                  www.ABVSU.ac.in/contact-us
                 </a>.
               </p>
             </div>

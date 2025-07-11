@@ -6,7 +6,7 @@ const AboutData = [
       items: [
         {
           name: 'About ABVSU',
-          link: '/aboutsgtu'
+          link: '/aboutABVSU'
         },
         {
           name: 'About Sikkim',
@@ -26,16 +26,16 @@ const AboutData = [
         },
         {
           name: 'Why ABVSU',
-          link: '/whysgtu'
+          link: '/whyABVSU'
         },
         {
           name: 'Vision and Mission',
           link: '/visionandmission'
         },
-        {
-          name: 'Awards and Acheivements',
-          link: '/awardsandachievements'
-        },
+        // {
+        //   name: 'Awards and Acheivements',
+        //   link: '/awardsandachievements'
+        // },
       ],
     },
     {

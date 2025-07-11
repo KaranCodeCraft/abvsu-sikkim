@@ -43,7 +43,7 @@ const RecentEventAchievementPage = () => {
           <Card
             Icon={NewspaperIcon}
             title="Latest News"
-            text="Stay updated with the latest happenings at SGTU."
+            text="Stay updated with the latest happenings at ABVSU."
             button="Read More"
           />
           <Card

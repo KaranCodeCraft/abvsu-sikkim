@@ -32,18 +32,18 @@ const Counter = () => {
     style={{ backgroundImage: "url('/Background/counter.webp')" }}
   >
     <div className="max-w-full md:px-16 mx-auto grid grid-cols-2 lg:grid-cols-4 gap-6 text-left">
-      <CounterCard end={92} suffix="%" label="Qualification Success Rate" />
+      <CounterCard end={92} suffix="%" label="Expected Qualification Success Rate" />
       <CounterCard
         end={20}
         suffix="+"
-        label="No. of Programmes"
+        label="Expected No. of Programmes"
       />
       <CounterCard
         end={100}
         suffix="+"
-        label="Number of Placement/Employment Tie-Ups"
+        label="Expected Number of Placement/Employment Tie-Ups"
       />
-      <CounterCard end={100} suffix="+" label="Number of Faculty/Guest Faculty" />
+      <CounterCard end={100} suffix="+" label="Expected Number of Faculty/Guest Faculty" />
     </div>
   </div>
   

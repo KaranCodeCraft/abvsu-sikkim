@@ -47,7 +47,7 @@ const Page = () => {
           {/* Left Intro Text */}
           <div className="md:col-span-2 space-y-6">
             <p>
-              The Seminar Committee at Atal Bihari Vajpayee Skill University (SGTU) is a dedicated team focused on organizing academic seminars, workshops, and symposiums that enhance the learning experience and professional growth of students and faculty alike. By hosting a wide range of events, the committee aims to bring valuable insights from industry leaders, researchers, and experts to the university campus, fostering an environment of knowledge-sharing and innovation.
+              The Seminar Committee at Atal Bihari Vajpayee Skill University (ABVSU) is a dedicated team focused on organizing academic seminars, workshops, and symposiums that enhance the learning experience and professional growth of students and faculty alike. By hosting a wide range of events, the committee aims to bring valuable insights from industry leaders, researchers, and experts to the university campus, fostering an environment of knowledge-sharing and innovation.
             </p>
             <p>
               One of the primary objectives of the Seminar Committee is to provide a platform for intellectual engagement and skill development. The committee curates a lineup of guest speakers, experts, and researchers from diverse fields, ensuring that students gain exposure to current industry trends, research advancements, and emerging technologies. Through these sessions, students have the opportunity to interact directly with professionals, gaining insights that go beyond the classroom.
@@ -82,7 +82,7 @@ const Page = () => {
             In its commitment to creating meaningful learning experiences, the Seminar Committee continuously evaluates the impact of its events. Feedback from attendees is collected to improve future seminars and address any evolving interests or needs within the university community. This responsive approach ensures that the committee remains aligned with the goals of the university and the aspirations of its students.
           </p>
           <p>
-            Overall, the Seminar Committee at SGTU is dedicated to creating an engaging, informative, and interactive platform for academic and professional growth. By hosting seminars that bridge the gap between academic learning and industry practices, the committee contributes to a dynamic university environment that empowers students to excel in their chosen fields.
+            Overall, the Seminar Committee at ABVSU is dedicated to creating an engaging, informative, and interactive platform for academic and professional growth. By hosting seminars that bridge the gap between academic learning and industry practices, the committee contributes to a dynamic university environment that empowers students to excel in their chosen fields.
           </p>
         </div>
       </div>

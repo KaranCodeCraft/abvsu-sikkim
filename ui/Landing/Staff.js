@@ -34,7 +34,7 @@ const Staff = () => {
     >
       <div className="font-bold text-2xl mb-8 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
         <p className="text-3xl md:text-5xl italic font-serif">
-          Meet Our Staff At SGTU
+          Meet Our Staff At ABVSU
         </p>
         <div className="flex space-x-4">
           <ChevronLeftIcon

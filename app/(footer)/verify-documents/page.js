@@ -14,20 +14,20 @@ export default function DocumentVerificationPage() {
       {/* Welcome Section */}
       <section className="mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-orange-600 mb-4">
-          Welcome to SGTU's Official Document Verification Portal
+          Welcome to ABVSU's Official Document Verification Portal
         </h1>
         <p className="text-gray-700 mb-4">
           This portal allows students, employers, and verification agencies to authenticate
           certificates, transcripts, and other official documents issued by Sikkim Global Technical
-          University (SGTU).
+          University (ABVSU).
         </p>
         <p className="text-gray-700 mb-4">
-          SGTU ensures the authenticity of academic credentials through a secure and reliable
+          ABVSU ensures the authenticity of academic credentials through a secure and reliable
           verification process. Users are required to submit a physical copy of the document along
           with the verification request for thorough review.
         </p>
         <p className="text-gray-700">
-          As a prestigious institution, SGTU is committed to maintaining transparency and trust in
+          As a prestigious institution, ABVSU is committed to maintaining transparency and trust in
           academic records. Our dedicated verification team carefully examines each request,
           cross-checking details before providing official confirmation. This process helps prevent
           fraudulent claims and reinforces the credibility of issued certificates, transcripts, and
@@ -76,8 +76,8 @@ export default function DocumentVerificationPage() {
             <Mail className="text-yellow-500" size={18} />
             <span>
               <strong>Email:</strong>{" "}
-              <a href="mailto:info@sgtu.ac.in" className="text-blue-600 hover:underline">
-                info@sgtu.ac.in
+              <a href="mailto:info@ABVSU.ac.in" className="text-blue-600 hover:underline">
+                info@ABVSU.ac.in
               </a>
             </span>
           </li>
@@ -85,8 +85,8 @@ export default function DocumentVerificationPage() {
             <Globe className="text-green-500" size={18} />
             <span>
               <strong>Website:</strong>{" "}
-              <a href="https://www.sgtu.ac.in" target="_blank" className="text-blue-600 hover:underline">
-                www.sgtu.ac.in
+              <a href="https://www.ABVSU.ac.in" target="_blank" className="text-blue-600 hover:underline">
+                www.ABVSU.ac.in
               </a>
             </span>
           </li>
@@ -94,7 +94,7 @@ export default function DocumentVerificationPage() {
         <p className="mt-4 text-sm text-gray-600 font-semibold">
           Ensuring transparency and authenticity in education.
         </p>
-        <p className="mt-1 text-orange-600 font-bold text-lg">SGTU – A Name You Can Trust!</p>
+        <p className="mt-1 text-orange-600 font-bold text-lg">ABVSU – A Name You Can Trust!</p>
       </section>
     </main>
   );

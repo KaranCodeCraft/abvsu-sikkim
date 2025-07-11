@@ -22,25 +22,25 @@ const Page = () => {
         {
       id: 4,
       title:
-        "SGTU received Letter of Appreciation from Minister - Kunga Nima Lepcha",
+        "ABVSU received Letter of Appreciation from Minister - Kunga Nima Lepcha",
       image: "/images/Award/award4.jpg",
     },
     {
       id: 5,
       title:
-        "SGTU received Letter of Appreciation from Ministry of Rural Development & Panchayati Raj",
+        "ABVSU received Letter of Appreciation from Ministry of Rural Development & Panchayati Raj",
       image: "/images/Award/award5.jpg",
     },
     {
       id: 2,
       title:
-        "SGTU won Indian Glory Award 2024 under Best Emerging University Category",
+        "ABVSU won Indian Glory Award 2024 under Best Emerging University Category",
       image: "/images/Award/award2.jpeg",
     },
     {
       id: 3,
       title:
-        "SGTU won International Excellence Award for Best Emerging University in North East",
+        "ABVSU won International Excellence Award for Best Emerging University in North East",
       image: "/images/Award/award3.jpeg",
     },
 

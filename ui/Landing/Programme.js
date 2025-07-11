@@ -26,7 +26,7 @@ const Programme = () => {
         <p className="mb-6 text-4xl italic underline font-serif font-semibold h-[40px]">
           {isInView ? (
             <Typewriter
-              words={["Our Programmes"]}
+              words={["Our Coming Programmes"]}
               typeSpeed={90}
               delaySpeed={500}
             />

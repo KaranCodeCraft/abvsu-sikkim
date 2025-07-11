@@ -7,7 +7,7 @@ export default function IncubationCenterPage() {
     <main className="bg-white text-gray-800">
       <section className="max-w-6xl mx-auto px-4 md:px-6 py-10">
         <div className="space-y-6">
-          <h2 className="text-3xl md:text-4xl font-bold text-orange-600">SGTU Incubation Center</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-orange-600">ABVSU Incubation Center</h2>
 
           <p>
             At The Atal Bihari Vajpayee Skill University, we recognize that the future belongs to those who dare to innovate and turn ideas into impactful solutions. As part of our mission to foster a culture of creativity, entrepreneurship, and technological advancement, we are proud to introduce our University Incubation Center.

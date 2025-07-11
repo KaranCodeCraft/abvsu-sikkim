@@ -8,13 +8,13 @@ export default function EqualOpportunityPage() {
       {/* Section 1 */}
       <section className="bg-gray-50 py-16 px-6 sm:px-12 lg:px-24 space-y-6">
         <h1 className="text-3xl font-bold text-orange-500">
-          Equal Opportunity Cell (EOC) – Promoting Inclusion & Diversity at SGTU
+          Equal Opportunity Cell (EOC) – Promoting Inclusion & Diversity at ABVSU
         </h1>
         <h3 className="text-xl text-gray-800 font-semibold">
           Ensuring Fairness, Equity, and Inclusion for All
         </h3>
         <p className="text-gray-700 leading-7">
-          At Atal Bihari Vajpayee Skill University (SGTU), we firmly believe in the power of diversity and equal opportunity.
+          At Atal Bihari Vajpayee Skill University (ABVSU), we firmly believe in the power of diversity and equal opportunity.
           Our Equal Opportunity Cell (EOC) is dedicated to fostering an inclusive, bias-free, and accessible environment
           where every student, faculty, and staff member is empowered to achieve their full potential.
         </p>
@@ -87,11 +87,11 @@ export default function EqualOpportunityPage() {
         <div className="space-y-4 text-gray-700">
           <p className="flex items-start gap-2">
             <MapPinIcon className="w-5 h-5 text-orange-500 mt-1" />
-            <span><strong>Location:</strong> Equal Opportunity Cell, SGTU Campus, Namchi, Sikkim</span>
+            <span><strong>Location:</strong> Equal Opportunity Cell, ABVSU Campus, Namchi, Sikkim</span>
           </p>
           <p className="flex items-start gap-2">
             <EnvelopeIcon className="w-5 h-5 text-orange-500 mt-1" />
-            <span><strong>Email:</strong> info@sgtu.ac.in</span>
+            <span><strong>Email:</strong> info@ABVSU.ac.in</span>
           </p>
           <p className="flex items-start gap-2">
             <CheckCircleIcon className="w-5 h-5 text-orange-500 mt-1" />
@@ -112,7 +112,7 @@ export default function EqualOpportunityPage() {
             Let’s work together to build a fair, inclusive, and empowering learning environment!
           </h4>
           <h4 className="text-md text-gray-600">
-            SGTU – Where Everyone Has the Right to Learn, Grow, and Succeed! 🌍🎓
+            ABVSU – Where Everyone Has the Right to Learn, Grow, and Succeed! 🌍🎓
           </h4>
         </div>
       </section>

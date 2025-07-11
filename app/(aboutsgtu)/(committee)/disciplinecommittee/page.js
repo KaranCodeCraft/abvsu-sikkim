@@ -39,7 +39,7 @@ const Page = () => {
           {/* Left Content */}
           <div className="md:w-1/2 text-gray-700 text-lg leading-relaxed space-y-6">
             <p>
-              At <strong>Atal Bihari Vajpayee Skill University (SGTU)</strong>, we uphold the values of respect, integrity, and responsibility. The Discipline Committee ensures these values are preserved, creating a safe and respectful learning environment.
+              At <strong>Atal Bihari Vajpayee Skill University (ABVSU)</strong>, we uphold the values of respect, integrity, and responsibility. The Discipline Committee ensures these values are preserved, creating a safe and respectful learning environment.
             </p>
             <p>
               The committee comprises faculty, administrators, and student representatives who collaborate to maintain order, resolve disputes, and reinforce ethical behavior through fair processes and transparent decisions.
@@ -91,7 +91,7 @@ const Page = () => {
         {/* Closing Note */}
         <div className="text-gray-700 text-lg leading-relaxed space-y-4 mt-12">
           <p>
-            The <strong>Discipline Committee</strong> at SGTU aims to foster an environment where learning thrives through mutual respect and responsibility. Our efforts go beyond policing behavior—we educate and guide students toward becoming ethical, thoughtful individuals.
+            The <strong>Discipline Committee</strong> at ABVSU aims to foster an environment where learning thrives through mutual respect and responsibility. Our efforts go beyond policing behavior—we educate and guide students toward becoming ethical, thoughtful individuals.
           </p>
           <p>
             By embedding discipline into the student journey, we help shape responsible professionals and leaders of tomorrow who respect rules and uphold values in every walk of life.

@@ -33,7 +33,7 @@ export default function SGRCPage() {
             <h2 className="text-2xl font-semibold flex items-center gap-2 text-orange-500">
               <DocumentTextIcon className="h-6 w-6" /> PROCEDURES
             </h2>
-            <p className="mt-2">Students can submit grievances via the Dean's suggestion box or email (<a href="mailto:deputyprovc@sgtu.ac.in" className="text-blue-600">deputyprovc@sgtu.ac.in</a>).</p>
+            <p className="mt-2">Students can submit grievances via the Dean's suggestion box or email (<a href="mailto:deputyprovc@ABVSU.ac.in" className="text-blue-600">deputyprovc@ABVSU.ac.in</a>).</p>
             <ul className="list-disc pl-6 mt-2 space-y-2 text-gray-700">
               <li>Delays in exam results or scholarship disbursement.</li>
               <li>False/misleading prospectus content.</li>
@@ -74,7 +74,7 @@ export default function SGRCPage() {
             <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-4 text-gray-700">
               <div className="flex gap-3 items-start">
                 <EnvelopeIcon className="w-5 h-5 text-orange-500 mt-1" />
-                <span>deputyprovc@sgtu.ac.in</span>
+                <span>deputyprovc@ABVSU.ac.in</span>
               </div>
               <div className="flex gap-3 items-start">
               </div>

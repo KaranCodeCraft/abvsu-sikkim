@@ -9,7 +9,7 @@ export default function HostelPage() {
       <section className="py-12 px-4 max-w-7xl mx-auto space-y-6">
         <h2 className="text-3xl font-bold">Hostel</h2>
         <p>
-          The hostel facilities at Atal Bihari Vajpayee Skill University (SGTU) provide a supportive and comfortable living environment for students, fostering a sense of community and enhancing their overall academic experience. Recognizing that a conducive living space is essential for personal development and academic success, SGTU has invested in modern, well-equipped hostels that cater to the diverse needs of its student population.
+          The hostel facilities at Atal Bihari Vajpayee Skill University (ABVSU) provide a supportive and comfortable living environment for students, fostering a sense of community and enhancing their overall academic experience. Recognizing that a conducive living space is essential for personal development and academic success, ABVSU has invested in modern, well-equipped hostels that cater to the diverse needs of its student population.
         </p>
       </section>
 
@@ -22,7 +22,7 @@ export default function HostelPage() {
               Modern Accommodation <span className="text-orange-500">Facilities</span>
             </h3>
             <p>
-              SGTU offers a range of hostel accommodations designed to provide students with a safe, comfortable, and homely environment. The hostels are equipped with essential amenities, including well-furnished rooms, study areas, common lounges, and recreational spaces.
+              ABVSU offers a range of hostel accommodations designed to provide students with a safe, comfortable, and homely environment. The hostels are equipped with essential amenities, including well-furnished rooms, study areas, common lounges, and recreational spaces.
             </p>
             <p>
               Each room is designed for privacy and comfort with single, double, and triple occupancy options. Facilities such as 24/7 security, Wi-Fi, laundry services, and hygienic dining areas offering nutritious meals support students' well-being.
@@ -33,7 +33,7 @@ export default function HostelPage() {
           <div className="w-full h-72 md:h-96 rounded-xl overflow-hidden shadow-lg">
             <Image
               src="/images/Graphic/hostel.jpg"
-              alt="Hostel at SGTU"
+              alt="Hostel at ABVSU"
               className="object-cover w-full h-full"
               width={600}
               height={400}
@@ -60,7 +60,7 @@ export default function HostelPage() {
             Study and Recreational <span className="text-orange-500">Spaces</span>
           </h3>
           <p>
-            SGTU hostels are equipped with study rooms for focused learning and collaborative areas for group projects. Recreation areas like game rooms, lounges, and outdoor spaces help students relax and maintain a balanced lifestyle.
+            ABVSU hostels are equipped with study rooms for focused learning and collaborative areas for group projects. Recreation areas like game rooms, lounges, and outdoor spaces help students relax and maintain a balanced lifestyle.
           </p>
         </div>
 

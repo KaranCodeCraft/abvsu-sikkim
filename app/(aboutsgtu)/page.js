@@ -27,8 +27,8 @@ export default function Home() {
       <NewsAndUpdates/>
       <Highlight/>
       {/* <Staff/> */}
-      <Testimonial/>
-      <Events/>
+      {/* <Testimonial/> */}
+      {/* <Events/> */}
     </div>
   );
 }

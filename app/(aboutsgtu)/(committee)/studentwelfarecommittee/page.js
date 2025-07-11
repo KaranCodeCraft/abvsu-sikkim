@@ -48,7 +48,7 @@ const Page = () => {
           {/* Left Intro Text - full width on mobile, 2/3 on desktop */}
           <div className="md:col-span-2 space-y-6">
             <p>
-              The Student Welfare Committee at Atal Bihari Vajpayee Skill University (SGTU) is dedicated to fostering a supportive and enriching environment that enhances the overall well-being, development, and success of the student body. This committee is a bridge between the university administration and the students, addressing student needs, concerns, and interests to ensure a fulfilling university experience.
+              The Student Welfare Committee at Atal Bihari Vajpayee Skill University (ABVSU) is dedicated to fostering a supportive and enriching environment that enhances the overall well-being, development, and success of the student body. This committee is a bridge between the university administration and the students, addressing student needs, concerns, and interests to ensure a fulfilling university experience.
             </p>
             <p>
               The committee's primary responsibility is to promote and support student well-being across multiple dimensions, including academic support, mental and emotional health, career guidance, and social engagement. By organizing workshops, counseling sessions, and mentorship programs, the committee ensures that students have access to resources that help them thrive academically and personally. Furthermore, the committee offers peer support and professional counseling services, allowing students to navigate challenges with confidence and resilience.
@@ -80,10 +80,10 @@ const Page = () => {
             Inclusivity and diversity are core values of the Student Welfare Committee. Efforts are made to celebrate and respect the diverse backgrounds, cultures, and perspectives represented within the student body. Cultural events, festivals, and diversity workshops are organized to promote mutual respect and understanding among students. This inclusive approach not only enriches the university culture but also prepares students to be socially responsible and empathetic individuals.
           </p>
           <p>
-            The Student Welfare Committee's commitment extends beyond academics and career support; it also encourages students to participate in sports, arts, and other extracurricular activities. Through these activities, students build interpersonal skills, teamwork abilities, and a balanced lifestyle. By fostering holistic growth, the committee contributes significantly to a well-rounded educational experience at SGTU.
+            The Student Welfare Committee's commitment extends beyond academics and career support; it also encourages students to participate in sports, arts, and other extracurricular activities. Through these activities, students build interpersonal skills, teamwork abilities, and a balanced lifestyle. By fostering holistic growth, the committee contributes significantly to a well-rounded educational experience at ABVSU.
           </p>
           <p>
-            Overall, the Student Welfare Committee at SGTU works tirelessly to provide a nurturing, inclusive, and empowering environment for all students. By addressing diverse needs and promoting overall well-being, the committee plays a crucial role in enhancing the quality of student life and ensuring that each student feels supported, engaged, and prepared for a bright future.
+            Overall, the Student Welfare Committee at ABVSU works tirelessly to provide a nurturing, inclusive, and empowering environment for all students. By addressing diverse needs and promoting overall well-being, the committee plays a crucial role in enhancing the quality of student life and ensuring that each student feels supported, engaged, and prepared for a bright future.
           </p>
         </div>
       </div>

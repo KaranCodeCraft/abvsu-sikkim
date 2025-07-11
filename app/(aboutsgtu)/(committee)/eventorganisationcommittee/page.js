@@ -33,7 +33,7 @@ const Page = () => {
 
             <p>
               The Event Organisation Committee at Sikkim Global Technical
-              University (SGTU) plays a pivotal role in coordinating and
+              University (ABVSU) plays a pivotal role in coordinating and
               executing a variety of events and activities that foster learning,
               engagement, and unity within the university community. Comprising
               faculty members, student representatives, and administrative
@@ -99,7 +99,7 @@ const Page = () => {
           </p>
 
           <p>
-            Overall, the Event Organisation Committee at SGTU is committed to
+            Overall, the Event Organisation Committee at ABVSU is committed to
             creating memorable, enriching, and impactful events that contribute
             to the holistic development of the university's community. Their
             dedication ensures that each event not only aligns with the mission

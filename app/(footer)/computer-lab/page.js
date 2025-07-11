@@ -11,7 +11,7 @@ export default function ComputerLabPage() {
           Computer <span className="text-orange-500">Lab</span>
         </h2>
         <p>
-          The Computer Lab at Atal Bihari Vajpayee Skill University (SGTU) is a cornerstone of the
+          The Computer Lab at Atal Bihari Vajpayee Skill University (ABVSU) is a cornerstone of the
           institution’s commitment to providing high-quality education in technology and
           engineering. Equipped with state-of-the-art hardware and software, the lab serves as an
           essential resource for students across various disciplines, particularly in computer
@@ -27,7 +27,7 @@ export default function ComputerLabPage() {
               State-of-the-Art <span className="text-orange-500">Facilities</span>
             </h3>
             <p>
-              SGTU’s Computer Lab boasts modern infrastructure, featuring high-performance
+              ABVSU’s Computer Lab boasts modern infrastructure, featuring high-performance
               computers equipped with the latest operating systems and software applications.
               Regular updates ensure relevance to industry standards.
             </p>
@@ -71,7 +71,7 @@ export default function ComputerLabPage() {
         {[
           [
             "Hands-On Learning",
-            "One of the primary objectives of the Computer Lab at SGTU is to provide a hands-on learning environment where students can apply theoretical concepts in practical scenarios. Students collaborate on projects, enhancing real-world readiness."
+            "One of the primary objectives of the Computer Lab at ABVSU is to provide a hands-on learning environment where students can apply theoretical concepts in practical scenarios. Students collaborate on projects, enhancing real-world readiness."
           ],
           [
             "Supportive Learning",
@@ -83,7 +83,7 @@ export default function ComputerLabPage() {
           ],
           [
             "Workshops and Training Sessions",
-            "SGTU hosts regular workshops led by industry experts, covering AI, cybersecurity, data science, and more, keeping students updated with current tech trends."
+            "ABVSU hosts regular workshops led by industry experts, covering AI, cybersecurity, data science, and more, keeping students updated with current tech trends."
           ],
           [
             "Promoting Collaboration and Teamwork",
