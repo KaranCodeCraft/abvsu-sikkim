@@ -6,8 +6,8 @@ export default function TransportationPage() {
   return (
     <main className="bg-white text-gray-800">
       {/* Overview Section */}
-      <section className="py-12 px-4 max-w-7xl mx-auto">
-        <div className="space-y-4">
+      <section className="py-12 px-4">
+        <div className=" max-w-7xl mx-auto space-y-4">
           <h2 className="text-3xl font-bold">Transportation</h2>
           <p>
             Transportation plays a crucial role in the overall campus experience at Atal Bihari Vajpayee Skill University (ABVSU). The university is committed to providing efficient and reliable transportation services that ensure students and faculty can easily access the campus and its surrounding areas.

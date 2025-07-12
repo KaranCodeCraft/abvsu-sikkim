@@ -32,8 +32,8 @@ const Page = () => {
 
             <p>
               I am delighted to extend my warmest greetings to all of you as the
-              Registrar of Atal Bihari Vajpayee Skill University (ABVSU). It is an
-              honour to be a part of this esteemed University, and I am
+              Registrar of Atal Bihari Vajpayee Skill University (ABVSU). It is
+              an honour to be a part of this esteemed University, and I am
               committed to ensuring that our university becomes a beacon of
               knowledge, innovation, and excellence.
             </p>
@@ -117,15 +117,13 @@ const Page = () => {
 
           <p>
             I extend my best wishes to all of you for a successful and
-            fulfilling academic year ahead. Together, let us make Sikkim Global
-            Technical University a place where dreams are nurtured and
+            fulfilling academic year ahead. Together, let us make Atal Bihari
+            Vajpayee Skill University a place where dreams are nurtured and
             potentials are realized.
           </p>
 
           <div className="pt-8 font-semibold leading-relaxed">
             <p>With warm regards,</p>
-            <p>Mr. Sanjeev Kumar</p>
-            <p>registrar@ABVSU.ac.in</p>
             <p>Registrar</p>
             <p>Atal Bihari Vajpayee Skill University</p>
           </div>

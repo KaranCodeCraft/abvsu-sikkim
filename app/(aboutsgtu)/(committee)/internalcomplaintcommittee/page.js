@@ -29,9 +29,8 @@ const Page = () => {
           </h2>
           <p className="text-gray-700 leading-relaxed">
             As per the Sexual Harassment of Women at Workplace (Prevention,
-            Prohibition, and Redressal) Act, 2013, Sikkim Global Technical
-            University has formed the Internal Complaint Committee (ICC) at the
-            University level in the year 2023.
+            Prohibition, and Redressal) Act, 2013, Atal Bihari Vajapyee Skill University has formed the Internal Complaint Committee (ICC) at the
+            University level in the year 2025.
           </p>
         </div>
 

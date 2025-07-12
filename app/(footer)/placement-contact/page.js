@@ -29,15 +29,10 @@ export default function PlacementContactPage() {
               <p>
                 <strong>Email:</strong>{" "}
                 <a href="mailto:info@ABVSU.ac.in" className="text-blue-600 underline">
-                  info@ABVSU.ac.in
+                  info@abvsu.ac.in
                 </a>
               </p>
-              <p>
-                <strong>Phone:</strong>{" "}
-                <a href="tel:+919818841348" className="text-blue-600 underline">
-                  +91 9818841348
-                </a>
-              </p>
+             
               <p>
                 <strong>Office Hours:</strong> Monday to Friday, 9:00 AM – 5:00 PM
               </p>

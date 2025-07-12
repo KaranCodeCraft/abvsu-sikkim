@@ -40,10 +40,10 @@ const AboutData = [
           name: 'Sports Activity',
           link: '/sports-activity'
         },
-        {
-          name: 'Downloads',
-          link: '/downloads'
-        },
+        // {
+        //   name: 'Downloads',
+        //   link: '/downloads'
+        // },
       ],
     },
     // {

@@ -4,13 +4,13 @@ import Image from 'next/image';
 import { motion } from 'framer-motion';
 
 const galleryImages = [
-  '/images/Gallery/gallery-1.jpeg',
-  '/images/Gallery/gallery-2.jpeg',
-  '/images/Gallery/gallery-3.jpeg',
-  '/images/Gallery/gallery-4.jpeg',
+  // '/images/Gallery/gallery-1.jpeg',
+  // '/images/Gallery/gallery-2.jpeg',
+  // '/images/Gallery/gallery-3.jpeg',
+  // '/images/Gallery/gallery-4.jpeg',
   '/images/Gallery/gallery-6.jpg',
   '/images/Highlight/01.jpg',
-  '/images/Gallery/lab3.jpeg',
+  // '/images/Gallery/lab3.jpeg',
   '/images/Gallery/lab2.jpeg',
   '/images/Gallery/lab4.jpeg',
   '/images/Gallery/lab5.jpeg',

@@ -26,10 +26,10 @@ const Page = () => {
           {/* Header */}
           <div className="bg-gray-800 text-white px-6 py-3">
             <div className="flex justify-between items-center">
-              <div>
+              {/* <div>
                 <p className="text-sm">Ref: No: ABVSU/ND/25/281</p>
                 <p className="text-sm">Date: 27th June 2025</p>
-              </div>
+              </div> */}
               <h2 className="text-xl font-bold">NOTIFICATION</h2>
             </div>
           </div>
@@ -88,10 +88,10 @@ const Page = () => {
           {/* Header */}
           <div className="bg-gray-800 text-white px-6 py-3">
             <div className="flex justify-between items-center">
-              <div>
+              {/* <div>
                 <p className="text-sm">Ref: ABVSU/RO/2024/014</p>
                 <p className="text-sm">Date: 14th June 2024</p>
-              </div>
+              </div> */}
               <h2 className="text-xl font-bold">Anti-Ragging Squad</h2>
             </div>
           </div>
@@ -110,17 +110,16 @@ const Page = () => {
                     <th className="border border-gray-300 px-4 py-2 text-left whitespace-nowrap">Sr. No.</th>
                     <th className="border border-gray-300 px-4 py-2 text-left whitespace-nowrap">Composition</th>
                     <th className="border border-gray-300 px-4 py-2 text-left whitespace-nowrap">Name & Designation</th>
-                    <th className="border border-gray-300 px-4 py-2 text-left whitespace-nowrap">E-mail ID & Contact</th>
                   </tr>
                 </thead>
                 <tbody>
                   {[
-                    [1, "Representative Of Teaching Staff", "Sweety, Assistant Professor", "sweetympharmcology@gmail.com, 9999389921"],
-                    [2, "Representative Of Non-Teaching Staff", "Vikash Yadav", "Manager Administration, ABVSU, suvikash4591@gmail.com, 8076939777"],
-                    [3, "Representative Of Non-Teaching Staff", "Ms. Rabina Chettri", "Program Manager, ABVSU, programmanagerABVSU@gmail.com, 7584905374"],
-                    [4, "Representative Of Non-Teaching Staff", "Bishal Basnett", "System Administrator, ABVSU, bishalchettri1590@gmail.com, 7584937139"],
-                    [5, "Representative Of Non-Teaching Staff", "Geeta Rai", "Admin cum Office Executive, 7318906324"],
-                    [6, "Representative Of Non-Teaching Staff", "Kushal Gurung", "Admin cum Office Executive, 7431957544"]
+                    [1, "Representative Of Teaching Staff", "Sweety, Assistant Professor"],
+                    [2, "Representative Of Non-Teaching Staff", "Vikash Yadav"],
+                    [3, "Representative Of Non-Teaching Staff", "Ms. Rabina Chettri"],
+                    [4, "Representative Of Non-Teaching Staff", "Bishal Basnett"],
+                    [5, "Representative Of Non-Teaching Staff", "Geeta Rai"],
+                    [6, "Representative Of Non-Teaching Staff", "Kushal Gurung"]
                   ].map((row, index) => (
                     <tr key={index} className={index % 2 === 0 ? "bg-white" : "bg-gray-50"}>
                       {row.map((cell, cellIndex) => (

@@ -69,21 +69,19 @@ const Page = () => {
                   Universities (AIU).
                 </p>
                 <p>
-                  The foundation stone of ABVSU was laid by the Hon'ble Chief
-                  Minister of Sikkim, Shri Prem Singh Tamang (Golay), marking a
-                  momentous beginning of a new era in higher education for the
-                  region.ABVSU has acquired 10-acre land and is set to expand it
-                  up to 45 acres, perfectly positioned in the heart of Pakyong.
-                  The university currently houses four constituent campuses,
-                  featuring a modern built-up area of approx. 75,000 sq. ft.,
-                  designed to foster excellence in learning and innovation.
+                  ABVSU is strategically located in the picturesque state of
+                  Sikkim, surrounded by the majestic Himalayas, offering a
+                  tranquil and inspiring environment for learning. The university
+                  is dedicated to providing high-quality education and skill
+                  development programs that cater to the evolving needs of the
+                  global job market.
                 </p>
                 <p>
                   The university is equipped with state-of-the-art laboratories
                   supporting academic and research endeavors in Physics,
                   Chemistry, Biology, Law, and Pharmacy etc. enabling students
                   to gain practical and industry-relevant experience. ABVSU is
-                  driven by a highly qualified academic team comprising of 600+
+                  driven by a highly qualified academic team comprising of 100+
                   faculties, including regular & guest faclities offering a
                   blend of academic rigor and industry expertise in every
                   classroom.
@@ -108,15 +106,14 @@ const Page = () => {
                   benefits of quality education reach the local community.
                 </p>
                 <p>
-                  ABVSU is sponsored by the Indira Gandhi Computer Saksharta
-                  Mission (IGCSM), an organization established in 2008, renowned
+                  ABVSU is sponsored by the Skill Initiative Assessment Council (SIAC), renowned
                   for its impactful work in skill development, digital literacy
                   and educational innovation.
                 </p>
                 <p>
-                  The Indira Gandhi Computer Saksharta Mission (IGCSM), aims to
+                  The Skill Initiative Assessment Council (SIAC), aims to
                   Educate, Enable, and Empower. Operating across 21 states,
-                  IGCSM has impacted more than 3 Lakh lives by focusing on
+                  SIAC has impacted more than 3 Lakh lives by focusing on
                   educating children, enhancing youth skills and empowering
                   girls and young women. Individual and governmental efforts are
                   crucial in bridging this gap for India's successful

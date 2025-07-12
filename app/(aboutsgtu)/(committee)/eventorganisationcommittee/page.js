@@ -32,7 +32,7 @@ const Page = () => {
             </h2>
 
             <p>
-              The Event Organisation Committee at Sikkim Global Technical
+              The Event Organisation Committee at Atal Bihari Vajpayee Skill
               University (ABVSU) plays a pivotal role in coordinating and
               executing a variety of events and activities that foster learning,
               engagement, and unity within the university community. Comprising

@@ -88,15 +88,15 @@ const AnimatedFooter = () => {
         { name: "Anti-Ragging", link: "/#" },
         {
           name: "Student Speak",
-          link: "/testimonial",
+          link: "/#",
         },
         {
           name: "Code of Conduct",
-          link: "/code-of-conduct",
+          link: "/#",
         },
         {
           name: "Carrer @ ABVSU",
-          link: "/carrer",
+          link: "/#",
         },
       ],
     },
@@ -106,26 +106,26 @@ const AnimatedFooter = () => {
         { name: "Campus Life", link: "/testimonial" },
         {
           name: "Computer Lab",
-          link: "/computer-lab",
+          link: "/#",
         },
         { name: "Library", link: "/library" },
         {
           name: "Hostel Details",
-          link: "/hostel",
+          link: "/#",
         },
         // { name: "NCC/NSS Details", link: "/#" },
-        { name: "Transportation", link: "/transportation" },
-        { name: "Conference/Seminar", link: "/conferences-and-seminar" },
-        { name: "Sports Activity", link: "/sports-activity" },
-        { name: "Location", link: "/location" },
+        { name: "Transportation", link: "/#" },
+        { name: "Conference/Seminar", link: "/#" },
+        { name: "Sports Activity", link: "/#" },
+        { name: "Location", link: "/#" },
       ],
     },
     {
       title: "Research",
       links: [
-        { name: "Research and Development", link: "/research" },
-        { name: "Incubation Centre", link: "/incubation-centre" },
-        { name: "Central Facilities", link: "/central-facilities" },
+        { name: "Research and Development", link: "/#" },
+        { name: "Incubation Centre", link: "/#" },
+        { name: "Central Facilities", link: "/#" },
       ],
     },
     {
@@ -133,14 +133,14 @@ const AnimatedFooter = () => {
       links: [
         {
           name: "Training and Placement Cell",
-          link: "training-and-placement-cell",
+          link: "/#",
         },
         {
           name: "Our Recruiter",
-          link: "our-recruiter",
+          link: "/#",
         },
-        { name: "Recruitment Process", link: "/recruitment-process" },
-        { name: "Placement Contact", link: "/placement-contact" },
+        { name: "Recruitment Process", link: "/#" },
+        { name: "Placement Contact", link: "/#" },
       ],
     },
   ];

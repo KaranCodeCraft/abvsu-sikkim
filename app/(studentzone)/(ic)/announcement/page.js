@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 import { InformationCircleIcon, BellIcon } from "@heroicons/react/24/outline";
 
 const newsItems = [
-  "CM Lays foundation stone for Atal Bihari Vajpayee Skill University in Pakyong",
   "New library inaugurated at Sikkim University campus",
   "Annual Tech Fest scheduled for December 2025",
   "Sikkim Government launches new scholarship program for students",
@@ -17,8 +16,6 @@ const notifications = [
   "Law Courses will be available Soon",
   "Admissions for the 2025-26 batch are opening soon.",
   "Online application portal will close on 31st July 2025",
-  "Fee payment deadline extended till 15th August 2025",
-  "Campus reopening planned for 1st September 2025",
 ];
 
 const listItemVariants = {

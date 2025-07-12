@@ -27,7 +27,7 @@ export default function DifferentlyAbledFacilitiesPage() {
           they need to succeed.
         </p>
 
-        <h2>Vision and Mission</h2>
+        <h2 className="text-lg font-semibold my-2 underline">Vision and Mission</h2>
         <p>
           The university’s commitment to inclusivity and accessibility is reflected
           in our vision to create an equitable learning environment. By collaborating
@@ -35,7 +35,7 @@ export default function DifferentlyAbledFacilitiesPage() {
           barrier-free educational experience for students with disabilities.
         </p>
 
-        <h2>Key Objectives</h2>
+        <h2 className="text-lg font-semibold mt-2 underline">Key Objectives</h2>
         <ul className="list-disc list-inside space-y-3">
           <li>
             <strong>Ensure Equal Access to Education:</strong> Facilitate an inclusive
@@ -62,7 +62,7 @@ export default function DifferentlyAbledFacilitiesPage() {
           </li>
         </ul>
 
-        <h2>Accessible Infrastructure</h2>
+        <h2 className="text-lg font-semibold mt-2 underline">Accessible Infrastructure</h2>
         <ul className="list-disc list-inside space-y-3">
           <li>
             <strong>Wheelchair Access and Ramps:</strong> Buildings are equipped with
@@ -82,7 +82,7 @@ export default function DifferentlyAbledFacilitiesPage() {
           </li>
         </ul>
 
-        <h2>Assistive Technology and Learning Support</h2>
+        <h2 className="text-lg font-semibold mt-2 underline">Assistive Technology and Learning Support</h2>
         <ul className="list-disc list-inside space-y-3">
           <li>
             <strong>Screen Reader and Voice Recognition Tools:</strong> For visually
@@ -105,7 +105,7 @@ export default function DifferentlyAbledFacilitiesPage() {
           </li>
         </ul>
 
-        <h2>Specialized Support Services</h2>
+        <h2 className="text-lg font-semibold mt-2 underline">Specialized Support Services</h2>
         <ul className="list-disc list-inside space-y-3">
           <li>
             <strong>Dedicated Resource Center:</strong> Central hub for all disability
@@ -125,7 +125,7 @@ export default function DifferentlyAbledFacilitiesPage() {
           </li>
         </ul>
 
-        <h2>Co-Curricular and Extracurricular Participation</h2>
+        <h2 className="text-lg font-semibold mt-2 underline">Co-Curricular and Extracurricular Participation</h2>
         <ul className="list-disc list-inside space-y-3">
           <li>
             <strong>Inclusive Clubs and Activities:</strong> Opportunities to showcase
@@ -141,7 +141,7 @@ export default function DifferentlyAbledFacilitiesPage() {
           </li>
         </ul>
 
-        <h2>Awareness and Sensitization Programs</h2>
+        <h2 className="text-lg font-semibold mt-2 underline">Awareness and Sensitization Programs</h2>
         <p>
           Regular workshops and training sessions to promote disability awareness,
           empathy, and inclusiveness throughout the university community.

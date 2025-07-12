@@ -26,7 +26,7 @@ const AboutData = [
         },
         {
           name: 'Why ABVSU',
-          link: '/whyABVSU'
+          link: '/whyabvsu'
         },
         {
           name: 'Vision and Mission',
@@ -99,10 +99,10 @@ const AboutData = [
           name: 'Governing Body',
           link: '/governing-body'
         },
-        {
-          name: 'Executive Council',
-          link: '/research'
-        },
+        // {
+        //   name: 'Executive Council',
+        //   link: '/research'
+        // },
         {
           name: 'Academic Council',
           link: '/academic-council'

@@ -70,8 +70,7 @@ const Page = () => {
             To all our students, I offer my warmest welcome. Your presence on
             our campus adds vibrancy and diversity to our academic community. I
             urge you to be passionate about your studies, embrace curiosity, and
-            challenge conventional boundaries. At Sikkim Global Technical
-            University, we aim to empower you with the knowledge, skills, and
+            challenge conventional boundaries. At  Atal Bihari Vajpayee Skill University (ABVSU), we aim to empower you with the knowledge, skills, and
             values that will enable you to make meaningful contributions to
             society.
           </p>
@@ -104,8 +103,7 @@ const Page = () => {
           </p>
 
           <p>
-            As Vice-Chancellor, my vision is to see Sikkim Global Technical
-            University as a beacon of learning, transforming lives and
+            As Vice-Chancellor, my vision is to see Atal Bihari Vajpayee Skill University (ABVSU) as a beacon of learning, transforming lives and
             contributing positively to society. I am committed to creating an
             environment that nurtures creativity, empowers dreams, and provides
             the tools for success. Together, let us write a story of growth,
@@ -116,17 +114,14 @@ const Page = () => {
 
           <p>
             I am excited to witness the journey of each one of you as you unfold
-            your potential and chase your dreams at Sikkim Global Technical
-            University.
+            your potential and chase your dreams at Atal Bihari Vajpayee Skill University (ABVSU).
           </p>
 
           <p>Wishing you all a rewarding and enriching academic year!</p>
 
           <div className="pt-8 font-semibold leading-relaxed">
             <p>With warm regards,</p>
-            <p>Dr. (Prof.) Swami Prasad Sinha</p>
             <p>Vice-Chancellor</p>
-            <p>vc@ABVSU.ac.in</p>
             <p>Atal Bihari Vajpayee Skill University</p>
           </div>
           
