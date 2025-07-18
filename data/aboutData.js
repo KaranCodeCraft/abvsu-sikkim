@@ -56,7 +56,8 @@ const AboutData = [
       items: [
         {
           name: 'Anti-Ragging Commitee',
-          link: '/antiraggingcomitee'
+          link: '/#'
+          // link: '/antiraggingcomitee'
         },
         {
           name: 'Discipline Committee',

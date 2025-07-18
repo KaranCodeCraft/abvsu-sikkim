@@ -30,7 +30,7 @@ const Page = () => {
             <p className="text-gray-700 leading-7">
               The Board of Studies (BoS) at ABVSU ensures that our curriculum
               remains industry-relevant, research-driven, and aligned with
-              global⚠️ standards. Comprising distinguished academicians,
+              global standards. Comprising distinguished academicians,
               industry experts, and faculty members, the BoS plays a pivotal
               role in shaping academic frameworks.
             </p>

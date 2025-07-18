@@ -34,21 +34,7 @@ export default function PhdProgrammePage() {
             <h2 className="text-3xl font-bold text-gray-800">
               PhD <span className="text-orange-500">Programme</span>
             </h2>
-            <p>Notification for PhD Entrance Test.</p>
-            {/* <Link
-              target="_blank"
-              href="/docs/phdOld.pdf"
-              className="text-blue-500 underline cursor-pointer"
-            >
-              <p>Old notifications</p>
-            </Link> */}
-            <Link
-              target="_blank"
-              href="/docs/phdNew.pdf"
-              className="text-blue-500 underline cursor-pointer"
-            >
-              <p>Notification 2025</p>
-            </Link>
+           
             <h3 className="text-xl font-semibold text-gray-700 mt-2">Eligibility</h3>
             <p>
               Master&apos;s Degree (with minimum 55% marks or equivalent for
@@ -117,7 +103,7 @@ export default function PhdProgrammePage() {
               href="https://www.ABVSU.ac.in"
               className="text-orange-500 underline"
             >
-              www.ABVSU.ac.in
+              www.abvsu.ac.in
             </a>{" "}
             for latest updates.
           </p>

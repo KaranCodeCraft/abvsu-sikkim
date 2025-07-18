@@ -70,7 +70,7 @@ export default function RTIPolicyPage() {
             <p className="text-base text-gray-700 leading-relaxed">
               <strong>Atal Bihari Vajpayee Skill University</strong>
               <br />
-              Tharpu, Melli Road,
+              Karthok Road,
               <br />
               District: Pakyong, Sikkim - 737126
             </p>

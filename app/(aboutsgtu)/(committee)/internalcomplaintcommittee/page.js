@@ -246,7 +246,7 @@ const Page = () => {
         </div>
 
         {/* Filing Complaints Section */}
-        <div className="py-10 bg-white">
+        {/* <div className="py-10 bg-white">
           <h3 className="text-2xl font-semibold text-[#FF6900] mb-4">
             Filing Complaints
           </h3>
@@ -267,7 +267,7 @@ const Page = () => {
             to be processed by the committee. ICC will conduct a complete,
             unbiased investigation by maintaining strict confidentiality.
           </p>
-        </div>
+        </div> */}
 
         {/* ICC Composition Section */}
         <div className="py-10 ">

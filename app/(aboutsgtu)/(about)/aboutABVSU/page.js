@@ -64,8 +64,8 @@ const Page = () => {
                   Sikkim, India. Constituted by the Sikkim State Legislature and
                   officially recognized through its state gazette, ABVSU proudly
                   holds recognition under Section 2(f) of the UGC Act, 1956. It
-                  is also registered under the University Grants Commission
-                  (UGC) and is a proud member of the Association of Indian
+                  is going to be registered under the University Grants Commission
+                  (UGC) and to be a proud member of the Association of Indian
                   Universities (AIU).
                 </p>
                 <p>

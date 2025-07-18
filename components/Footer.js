@@ -15,7 +15,7 @@ const AnimatedFooter = () => {
     {
       title: "Quick Links",
       links: [
-        { name: "About Sikkim", link: "/#" },
+        { name: "About Sikkim", link: "/aboutsikkim" },
         // {
         //   name: "PHD Admission",
         //   link: "/research",
@@ -71,11 +71,11 @@ const AnimatedFooter = () => {
       links: [
         { name: "Admission Policy", link: "/#" },
         { name: "Ombudsperson", link: "/#", target: "_blank" },
-        {
-          name: "Old Student Verification",
-          link: "/#",
-          target: "_blank",
-        },
+        // {
+        //   name: "Old Student Verification",
+        //   link: "/#",
+        //   target: "_blank",
+        // },
         {
           name: "Refund Policy",
           link: "/#",
@@ -94,10 +94,10 @@ const AnimatedFooter = () => {
           name: "Code of Conduct",
           link: "/#",
         },
-        {
-          name: "Carrer @ ABVSU",
-          link: "/#",
-        },
+        // {
+        //   name: "Carrer @ ABVSU",
+        //   link: "/#",
+        // },
       ],
     },
     {

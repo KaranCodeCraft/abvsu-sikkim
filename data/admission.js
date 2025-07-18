@@ -2,7 +2,7 @@
 
 const AboutData = [
     {
-      title: "Admission 2025",
+      title: "Admission 2025 (Upcoming)",
       items: [
         {
           name: 'Application Form',
@@ -10,22 +10,25 @@ const AboutData = [
           target: "_blank"
           
         },
-        {
-          name: 'Admission Login',
-          link: '/#'
-          // link: 'https://www.oldcode.ABVSU.ac.in/manager/pub/publiclanding'
-        },
+        // {
+        //   name: 'Admission Login',
+        //   link: '/#'
+        // link: 'https://www.oldcode.ABVSU.ac.in/manager/pub/publiclanding'
+        // },
         {
           name: 'Academic Calendar',
-          link: '/calendar'
+          link: '/#'
+          // link: '/calendar'
         },
         {
           name: 'Security & Discipline',
-          link: '/security&discipline'
+          link: '/#'
+          // link: '/security&discipline'
         },
         {
           name: 'Admission Procedure',
-          link: '/admissionprocedure'
+          link: '/#'
+          // link: '/admissionprocedure'
         },
         {
           name: 'Verify Enrollment',
@@ -34,11 +37,13 @@ const AboutData = [
         },
         {
           name: 'Scholarships',
-          link: '/scholarship'
+          link: '/#'
+          // link: '/scholarship'
         },
         {
           name: 'Reservation',
-          link: '/reservation'
+          link: '/#'
+          // link: '/reservation'
         },
         // {
         //   name: 'Apply for Online Admission',

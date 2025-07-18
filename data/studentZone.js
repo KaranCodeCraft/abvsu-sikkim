@@ -4,10 +4,10 @@ const AboutData = [
     {
       title: "Important Links",
       items: [
-        {
-          name: 'Testimonials',
-          link: '/testimonial'
-        },
+        // {
+        //   name: 'Testimonials',
+        //   link: '/testimonial'
+        // },
         {
           name: 'Student Grievence Redressal Cell',
           link: '/studentgrievenceredressalcell'
@@ -34,7 +34,8 @@ const AboutData = [
         },
         {
           name: 'Gallery',
-          link: '/gallery'
+          link: '/#'
+          // link: '/gallery'
         },
         {
           name: 'Sports Activity',
@@ -55,35 +56,36 @@ const AboutData = [
     //     },
     //   ],
     // },
-    {
-      title: "Information Center",
-      items: [
-        {
-          name: 'Circular and Notices',
-          link: '/circular-and-notice'
-        },
-        {
-          name: 'Announcements',
-          link: '/announcement'
-        },
-        // {
-        //   name: 'Newsletters',
-        //   link: '#'
-        // },
-        // {
-        //   name: 'News, Recent Events & Achievements',
-        //   link: '/recent-event-achievement'
-        // },
-        {
-          name: 'Reservation Roster',
-          link: '/reservation-roaster'
-        },
-        {
-          name: 'Study in India',
-          link: '/study-in-india'
-        },
-      ],
-    },
+    // {
+    //   title: "Information Center",
+    //   items: [
+    //     {
+    //       name: 'Circular and Notices',
+    //       link: '/#'
+    //       // link: '/circular-and-notice'
+    //     },
+    //     {
+    //       name: 'Announcements',
+    //       link: '/announcement'
+    //     },
+    //     {
+    //       name: 'Newsletters',
+    //       link: '#'
+    //     },
+    //     {
+    //       name: 'News, Recent Events & Achievements',
+    //       link: '/recent-event-achievement'
+    //     },
+    //     {
+    //       name: 'Reservation Roster',
+    //       link: '/reservation-roaster'
+    //     },
+    //     {
+    //       name: 'Study in India',
+    //       link: '/study-in-india'
+    //     },
+    //   ],
+    // },
    
   ];
   

@@ -1,12 +1,4 @@
-"use client";
 import Link from "next/link";
-import dynamic from "next/dynamic";
-import { useEffect, useState } from "react";
-
-const Player = dynamic(() =>
-  import("@lottiefiles/react-lottie-player").then(mod => mod.Player),
-  { ssr: false }
-);
 
 const Page = () => {
   const authorities = [
@@ -22,7 +14,6 @@ const Page = () => {
         "- To recommend to the sponsoring body the dissolution of the University if necessary",
         "- Such other powers as may be specified by the statutes",
         "",
-        "The Governing Body shall meet at least 3 (three) times in a calendar year. The quorum of the meeting shall be 2/3 of the members."
       ],
     },
     {
@@ -31,7 +22,6 @@ const Page = () => {
       content: [
         "The Vice-Chancellor shall be the chairperson of the Board of Management. The powers and functions of the Board of Management shall be such as may be specified by the Statutes.",
         "",
-        "The quorum for the meeting of the Board of Management shall be at least 2/3 of the members. The Secretary to the Government, Education Department, Sikkim, or in his absence, the Director of Higher Education, shall be present in each meeting where decisions on government policies or instructions are to be taken."
       ],
     },
     {
@@ -73,7 +63,7 @@ const Page = () => {
 
       {/* Introduction */}
       <section className="py-16 px-4 md:px-16 bg-white">
-        <h2 className="text-3xl font-bold mb-4 text-orange-600">Authorities of the ABVSU</h2>
+        <h2 className="text-3xl font-bold mb-4 text-blue-800">Authorities of the ABVSU</h2>
         <p className="text-gray-700 leading-7 mb-4">
           The Atal Bihari Vajpayee Skill University operates through several key authorities that govern its academic, administrative, and planning functions. These bodies work in coordination to ensure the smooth functioning and continuous development of the university.
         </p>
@@ -82,17 +72,10 @@ const Page = () => {
       {/* Authorities Sections */}
       {authorities.map((item, index) => (
         <section key={index} className={`py-16 px-4 md:px-16 ${index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`}>
-          <div className="grid md:grid-cols-2 gap-8 items-center">
-            <div className={`${index % 2 !== 0 ? 'md:order-2' : ''}`}>
-              <Player
-                autoplay
-                loop
-                src={item.animation}
-                style={{ height: '300px', width: '100%' }}
-              />
-            </div>
+          <div className="grid gap-8 items-center">
+            
             <div className={`${index % 2 !== 0 ? 'md:order-1' : ''}`}>
-              <h2 className="text-2xl font-bold mb-4 text-orange-600">{item.title}</h2>
+              <h2 className="text-2xl font-bold mb-4 text-blue-800">{item.title}</h2>
               <div className="text-gray-700 space-y-2 leading-7">
                 {item.content.map((point, i) => (
                   <p key={i} className={point.startsWith('-') ? 'ml-4' : ''}>
