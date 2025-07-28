@@ -27,10 +27,8 @@ const Page = () => {
           {/* Left Intro Text */}
           <div className="md:col-span-3 space-y-6">
             <h2 className="text-3xl md:text-4xl font-bold leading-tight">
-              "Learning is the key that unlocks the door to changing the world."{" "}
-               <span className="text-orange-500">
-                – Dr. K.M. Dixit
-              </span>
+              "Learning is the key that unlocks the door to changing the world."
+               
             </h2>
 
             <p>
@@ -122,6 +120,7 @@ const Page = () => {
           <div className="pt-8 font-semibold leading-relaxed">
             <p>With warm regards,</p>
             <p>Vice-Chancellor</p>
+            <p>Dr. K.M. Dixit</p>
             <p>Atal Bihari Vajpayee Skill University</p>
           </div>
           

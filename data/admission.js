@@ -2,7 +2,7 @@
 
 const AboutData = [
     {
-      title: "Admission 2025 (Upcoming)",
+      title: "Admission 2025",
       items: [
         {
           name: 'Application Form',

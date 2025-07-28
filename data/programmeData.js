@@ -2,7 +2,7 @@
 
 const AboutData = [
     {
-      title: "Upcoming Programmes",
+      title: "Programmes",
       items: [
         {
           name: 'School of Computer Science & Information Technology',

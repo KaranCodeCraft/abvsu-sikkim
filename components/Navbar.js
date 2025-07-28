@@ -73,12 +73,12 @@ const Navbar = () => {
           <div className="flex gap-1 xl:gap-2 text-white font-bold">
             {/* <EnvelopeIcon className="h-4 w-4" /> info@ABVSU.ac.in */}
             <PhoneIcon className="h-4 w-4 md:h-5 md:w-5" />
-            HELPDESK: info@abvsu.ac.in
+            HELPDESK: 9821666832
           </div>
           <div className="text-white space-x-2 hidden md:flex w-3/5">
             <span className="flex-start font-bold">Announcement:</span>
             <marquee>
-              The Gazzete has been published. The admission process will open soon for all courses.
+              Admissions open for Session 2025-26
             </marquee>
           </div>
           <div
