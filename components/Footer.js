@@ -34,17 +34,17 @@ const AnimatedFooter = () => {
           name: "International Collaboration",
           link: "/#",
         },
+          {
+          name: "Privacy Policy",
+          link: "/privacy-policy",
+        },
       ],
     },
     {
       title: "Important Links",
       links: [
         { name: "PCI", link: "/#", target: "_blank" },
-        // {
-        //   name: "NCTE",
-        //   link: "https://ncte.gov.in/ncte_new/",
-        //   target: "_blank",
-        // },
+      
         {
           name: "BCI",
           link: "/#",
