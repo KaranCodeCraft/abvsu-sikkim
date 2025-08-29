@@ -254,17 +254,7 @@ const AnimatedFooter = () => {
       </div>
       <div className="relative hidden z-10 text-center py-4 text-xs text-white bg-black/70 flex-col md:flex-row justify-between items-center gap-2 px-4 md:px-12">
         <div>@2025 All Rights Reserved</div>
-        <div>
-          Designed & Developed by{" "}
-          <a
-            href="https://www.linkedin.com/in/devkaran-webdeveloper"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-blue-800 hover:underline"
-          >
-            Dev Karan
-          </a>
-        </div>
+       
       </div>
     </footer>
   );

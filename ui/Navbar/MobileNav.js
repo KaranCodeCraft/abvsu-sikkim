@@ -93,10 +93,10 @@ const MobileNav = () => {
           <Image src={logo} alt="ABVSU" width={50} height={50} />
           <div>
             <p className="text-orange-500 text-base font-bold leading-none">
-              Sikkim Global
+              Atal Bihari Vajpayee
             </p>
             <p className="text-xs uppercase tracking-wide font-semibold text-gray-600">
-              Technical University
+              Skill University
             </p>
           </div>
         </div>

@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import React from 'react';
-
 import { caveat } from '@/lib/fonts/Caveat';
 
 const Events = () => {

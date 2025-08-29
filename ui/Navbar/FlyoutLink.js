@@ -20,7 +20,7 @@ const FlyoutLink = ({ children, href, FlyoutContent }) => {
       onMouseEnter={() => setOpen(true)}
       onMouseLeave={() => setOpen(false)}
     >
-      <Link href={href} className="relative cursor-pointer font-medium">
+      <Link href={href} className="relative cursor-pointer">
         {children}
         <span
           className={`absolute -bottom-2 -left-2 -right-2 h-1 origin-left ${

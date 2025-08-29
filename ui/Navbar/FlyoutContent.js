@@ -1,8 +1,7 @@
 import Link from "next/link";
 
 const FlyoutContent = ({ data }) => {
-  const columnCount = Math.min(data.length, 6); // max 6 columns to avoid layout break
-
+  const columnCount = Math.min(data.length, 6); 
   const gridColsClass = {
     1: "grid-cols-1",
     2: "grid-cols-2",

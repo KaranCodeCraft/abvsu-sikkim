@@ -53,16 +53,16 @@ const NewsAndUpdates = () => {
         </div> */}
 
         {/* Center Column (Span 2 on large) */}
-        <div className="space-y-6 lg:col-span-2 flex gap-4">
+        <div className="flex lg:flex-row flex-col space-y-6 sm:items-center lg:col-span-2 gap-4">
           <Image
             src={"/images/Events/ribbon.jpg"}
             alt="ABVSU Gallery"
-            className="w-1/2 h-auto rounded"
+            className="lg:w-1/2 h-auto rounded"
             width={600}
             height={400}
           />
 
-          <p className="bg-[#555]/10 p-4 px-12  font-thin text-justify text-gray-600 tracking-tight text-sm md:text-base/loose mb-6 flex justify-center flex-col">
+          <p className="lg:w-1/2 bg-[#fff]/10 p-4 px-12  font-thin text-justify text-gray-600 tracking-tight text-sm md:text-base/loose mb-6 flex justify-center flex-col">
             <span className="font-bold text-xl text-black block my-12">
               Establishment of Atal Bihari Vajpayee Skill University in Sikkim
             </span>

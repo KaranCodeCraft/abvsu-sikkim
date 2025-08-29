@@ -42,3 +42,5 @@ export async function updateEnquiryStatus(id, status) {
 
   revalidatePath('/dashboard')
 }
+  
+
