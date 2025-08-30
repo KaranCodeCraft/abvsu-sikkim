@@ -113,7 +113,7 @@ const EnquiryFormDialog = forwardRef((props, ref) => {
             helperText={errors.message?.message}
           />
           <ReCAPTCHA
-            sitekey="6LdV1bcrAAAAAEh3iz7uoRUSfmIG_Ur_nyVz5nrA"
+            sitekey="6LcH_7crAAAAAAVhQSCGx6hjofo_ndmVb1WMhFOV"
             onChange={(val) => setCaptchaValue(val)}
             ref={recaptchaRef}
             className="mt-4"
