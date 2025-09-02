@@ -103,6 +103,10 @@ const stuZoneBoard = [
         link: "/ssceducation/Admission",
       },
       {
+        name: "Faculty Login",
+        link: "https://www.erp.abvsu.ac.in/centersignin",
+      },
+      {
         name: "Prospectus",
         link: "/ssceducation/#",
       },

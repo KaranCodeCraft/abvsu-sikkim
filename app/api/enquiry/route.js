@@ -17,7 +17,6 @@ export async function POST(req) {
 
   const response = await fetch(verificationUrl, { method: "POST" });
   const data = await response.json();
-
   if (!data.success) {
     return new Response(
       JSON.stringify({ error: "Failed captcha verification" }),
