@@ -4,6 +4,10 @@ import { ArrowDownTrayIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 
 const certificates = [
+    {
+    name: 'Prospectus Document',
+    pdf: '/ABVSU_Prospectus_25_26.pdf',
+  },
   {
     name: 'Provisional Certificate',
     pdf: '/docs/Provisional-Certificate.pdf',

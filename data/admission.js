@@ -5,6 +5,11 @@ const AboutData = [
       title: "Admission 2025",
       items: [
         {
+          name: 'Prospectus',
+          link: '/docs/ATAL_BIHARI_VAYPAYEE.pdf',
+          target: "_blank"
+        },
+        {
           name: 'Application Form',
           link: '/docs/Admission-Form.pdf',
           target: "_blank"
@@ -52,6 +57,7 @@ const AboutData = [
           link: '/#'
           // link: '/reservation'
         },
+        
         // {
         //   name: 'Apply for Online Admission',
         //   link: '#'
