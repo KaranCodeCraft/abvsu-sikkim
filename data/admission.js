@@ -13,7 +13,6 @@ const AboutData = [
           name: 'Application Form',
           link: '/docs/Admission-Form.pdf',
           target: "_blank"
-          
         },
         {
           name: 'Employee Login',

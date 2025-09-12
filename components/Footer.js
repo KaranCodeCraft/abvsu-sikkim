@@ -34,7 +34,7 @@ const AnimatedFooter = () => {
           name: "International Collaboration",
           link: "/#",
         },
-          {
+        {
           name: "Privacy Policy",
           link: "/privacy-policy",
         },
@@ -44,7 +44,7 @@ const AnimatedFooter = () => {
       title: "Important Links",
       links: [
         { name: "PCI", link: "/#", target: "_blank" },
-      
+
         {
           name: "BCI",
           link: "/#",
@@ -235,9 +235,7 @@ const AnimatedFooter = () => {
         <div className="col-span-4 p-4 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 text-sm">
           {footerLinks.map((section, idx) => (
             <div key={idx} className="space-y-1">
-              <p className="font-bold text-lg text-blue-500">
-                {section.title}
-              </p>
+              <p className="font-bold text-lg text-blue-500">{section.title}</p>
               {section.links.map((link, i) => (
                 <Link
                   href={link.link}
@@ -250,11 +248,15 @@ const AnimatedFooter = () => {
               ))}
             </div>
           ))}
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3544.5840204990614!2d88.6131107!3d27.326204399999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6a510495dc7ef%3A0x856650606c8852cb!2sAtal%20Bihari%20Vajpayee%20Skill%20University!5e0!3m2!1sen!2sin!4v1757672775685!5m2!1sen!2sin"
+            className="rounded-xl w-full h-[200px] max-[700px]:w-[350px] sm:w-[600px] md:w-[400px]"
+            loading="lazy"
+          />
         </div>
       </div>
       <div className="relative hidden z-10 text-center py-4 text-xs text-white bg-black/70 flex-col md:flex-row justify-between items-center gap-2 px-4 md:px-12">
         <div>@2025 All Rights Reserved</div>
-       
       </div>
     </footer>
   );
