@@ -19,30 +19,35 @@ const MobileNav = () => {
         <div className="flex items-center gap-2">
           <Image src={logo} alt="ABVSU" width={28} height={28} />
           <div className="text-[11px] leading-2 text-orange-500">
-            
-            <p className="font-bold uppercase text-[15px]">Atal Bihari</p><br/>
-            <p className="font-bold uppercase text-[10px]">Vajpayee Skill University</p>
+            <p className="font-bold uppercase text-[15px]">Atal Bihari</p>
+            <br />
+            <p className="font-bold uppercase text-[10px]">
+              Vajpayee Skill University
+            </p>
           </div>
         </div>
         <div className="text-black uppercase hidden md:block">
-        <Typewriter
-              words={["Admissions Open for session 2025-26", "Register Now!! Limited seats available"]}
-              typeSpeed={90}
-              delaySpeed={1500}
-              deleteSpeed={50}
-              loop={true}
-            />
+          <Typewriter
+            words={[
+              "Admissions Open for session 2025-26",
+              "Register Now!! Limited seats available",
+            ]}
+            typeSpeed={90}
+            delaySpeed={1500}
+            deleteSpeed={50}
+            loop={true}
+          />
         </div>
 
         {/* Right - Helpdesk and Menu */}
         <div className="flex items-center gap-3">
-          <a
+          {/* <a
             href="tel:+918055337783"
             className="flex items-center gap-1 text-xs"
           >
             <PhoneIcon className="h-4 w-4 text-orange-500" />
             <span>Helpdesk</span>
-          </a>
+          </a> */}
           <button
             onClick={() => setMobileMenuOpen(true)}
             aria-label="Open Menu"
@@ -69,10 +74,10 @@ const MobileNav = () => {
         {/* Header Bar */}
         <div className="bg-orange-500 text-white px-4 py-2">
           <div className="flex justify-between items-center text-xs">
-            <div className="flex items-center gap-1 font-bold">
+            {/* <div className="flex items-center gap-1 font-bold">
               <PhoneIcon className="h-4 w-4" />
               HELPDESK: +91 80 55 33 77 83
-            </div>
+            </div> */}
             <button
               onClick={() => setMobileMenuOpen(false)}
               aria-label="Close Menu"
@@ -179,5 +184,3 @@ const MobileNav = () => {
 };
 
 export default MobileNav;
-
-// export default MobileNav;
