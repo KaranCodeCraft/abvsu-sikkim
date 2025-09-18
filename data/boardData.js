@@ -110,10 +110,10 @@ const stuZoneBoard = [
         name: "Prospectus",
         link: "/ssceducation/#",
       },
-      {
-        name: "Fees Structure",
-        link: "/ssceducation/FeesStructure",
-      },
+      // {
+      //   name: "Fees Structure",
+      //   link: "/ssceducation/FeesStructure",
+      // },
       {
         name: "Examination",
         link: "/ssceducation/Examination",
