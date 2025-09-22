@@ -7,7 +7,7 @@ export const boardNav = [
     target: "_self",
   },
   { title: "Awards and Achievements", path: "#" },
-  { title: "COBSE", path: "https://www.cobse.org.in/" },
+  { title: "COBSE", path: "https://www.cobse.in/new/" },
   { title: "Accredited Institutions", path: "/ssceducation/AccreditedInstitution" },
 ];
 
