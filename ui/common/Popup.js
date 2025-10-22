@@ -68,7 +68,7 @@ export default function AdmissionAlertPopup() {
         </IconButton>
 
         <Image
-          src="/images/fest/Dhanteras - 2.jpg"
+          src="/images/fest/goverdhan.jpeg"
           alt="Admissions 2025"
           fill
           style={{
