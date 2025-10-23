@@ -1,33 +1,44 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import {
-  Dialog,
-  DialogContent,
-  IconButton,
-  useMediaQuery,
-} from "@mui/material";
+import { Dialog, DialogContent, IconButton, useMediaQuery } from "@mui/material";
 import CloseIcon from "@mui/icons-material/Close";
 import Image from "next/image";
 import { useTheme } from "@mui/material/styles";
+import dayjs from "dayjs";
+import axios from "axios";
 
 export default function AdmissionAlertPopup() {
   const [open, setOpen] = useState(false);
+  const [popup, setPopup] = useState(null);
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
 
   useEffect(() => {
-    const alreadyShown = sessionStorage.getItem("admission-popup");
-    if (!alreadyShown) {
-      const timer = setTimeout(() => {
-        setOpen(true);
-        sessionStorage.setItem("admission-popup", "shown");
-      }, 3000);
-      return () => clearTimeout(timer);
-    }
+    axios.get("/api/popup").then((res) => {
+      const data = res.data;
+      if (!data) return;
+
+      const now = dayjs();
+      const start = dayjs(data.startTime);
+      const end = dayjs(data.endTime);
+
+      if (data.isActive && now.isAfter(start) && now.isBefore(end)) {
+        const alreadyShown = sessionStorage.getItem("admission-popup");
+        if (!alreadyShown) {
+          setTimeout(() => {
+            setPopup(data);
+            setOpen(true);
+            sessionStorage.setItem("admission-popup", "shown");
+          }, 3000);
+        }
+      }
+    });
   }, []);
 
   const handleClose = () => setOpen(false);
+
+  if (!popup) return null;
 
   return (
     <Dialog
@@ -68,7 +79,7 @@ export default function AdmissionAlertPopup() {
         </IconButton>
 
         <Image
-          src="/images/fest/goverdhan.jpeg"
+          src={popup.imageUrl}
           alt="Admissions 2025"
           fill
           style={{

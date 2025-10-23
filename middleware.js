@@ -8,7 +8,7 @@ export default async function Middleware(req) {
   });
   const { pathname } = req.nextUrl;
 
-  const protectedPaths = ["", "/dashboard"];
+  const protectedPaths = ["", "/dashboard", "/dashboard/popup"];
 
   const isProtected = protectedPaths.includes(pathname);
 

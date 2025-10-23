@@ -39,3 +39,12 @@ model User {
 
   @@map("user")
 }
+
+model PopupSetting {
+  id Int @id @default(autoincrement())
+  imageUrl String
+  isActive  Boolean @default(false)
+  startTime DateTime
+  endTime DateTime
+  updatedAt DateTime @updatedAt
+}
