@@ -45,7 +45,7 @@ const Page = () => {
       {/* Banner Section */}
       <div className="relative bg-[#2f2c2c] text-white py-10 px-4 md:px-16">
         <div className="relative z-10">
-          <h1 className="text-3xl font-bold mb-2">Recognition & Approvals</h1>
+          <h1 className="text-3xl font-bold mb-2">Appreciation</h1>
           <div className="text-sm font-medium">
             <Link href="/" className="text-white hover:text-orange-400">
               Home
