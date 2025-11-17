@@ -16,22 +16,6 @@ const data = [
     target: "_blank",
     document: "/docs/Government of Sikkim Gazzete Notification.pdf",
   },
-  // {
-  //   title: "University Grants Commission",
-  //   image: "/logo/ugc.png",
-  //   desc: "Atal Bihari Vajpayee Skill University is recognized by UGC as a Private University under Section 2(f) of the UGC Act 1956.",
-  //   target: "_self",
-  //   document: "#",
-  //   // document: "/docs/University Grants Commission.pdf",
-  // },
-  // {
-  //   title: "Association of Indian Universities",
-  //   image: "/logo/aiu.png",
-  //   desc: "Atal Bihari Vajpayee Skill University is a member of the Association of Indian Universities (AIU), an Apex Inter-University Organization engaged in the growth and development of Higher Education.",
-  //   target: "_self",
-  //   document: "#",
-  //   // document: "/docs/aiu.jpg",
-  // },
   {
     title: "All India Council for Technical Education (AICTE)",
     image: "/logo/aicte.png",
@@ -39,20 +23,34 @@ const data = [
     target: "_blank",
     document: "/docs/All India Council.pdf",
   },
-  // {
-  //   title: "PCI approval for ABVSU, School of Pharmacy",
-  //   image: "/logo/pci.png",
-  //   desc: "Atal Bihari Vajpayee Skill University / PCI-9508",
-  //   document: "/docs/ABVSUpci.pdf",
-  //   document: "#",
-  // },
-  // {
-  //   title: "PCI approval for CCDDH",
-  //   image: "/logo/pci.png",
-  //   desc: "Chardham College of Drug Development and Healthcare (CCDDH) / PCI-10557",
-  //   document: "#",
-  // document: "/docs/chardham.pdf",
-  // },
+  {
+    title: "YOGI ADITYANATH Hon' ble CM of UP",
+    image: "/logo/2202291.jpg",
+    desc: "YOGI ADITYANATH Hon' ble CM of UP.",
+    target: "_blank",
+    document: "/docs/YOGI ADITYANATH Hon' ble CM of UP.pdf",
+  },
+  {
+    title: "Letter from Hon' ble CM of Haryana.",
+    image: "/logo/2202291.jpg",
+    desc: "Letter from Hon' ble CM of Haryana.",
+    target: "_blank",
+    document: "/docs/Letter from Hon' ble CM of Haryana.pdf",
+  },
+  {
+    title: "NITIN GADKRI, Minister transport and highways government of India.",
+    image: "/logo/2202291.jpg",
+    desc: "NITIN GADKRI, Minister transport and highways government of India.",
+    target: "_blank",
+    document: "/docs/NITIN GADKRI, Minister transport and highways government of India.pdf",
+  },
+  {
+    title: "Hon'Education Minister - RAJU BASNET",
+    image: "/logo/2202291.jpg",
+    desc: "Hon'Education Minister - RAJU BASNET",
+    target: "_blank",
+    document: "/docs/Hon'Education Minister - RAJU BASNET Letter - ABVSU.pdf",
+  },
 ];
 
 const Page = () => {
@@ -72,16 +70,6 @@ const Page = () => {
         </div>
         <div className="absolute top-0 right-0 w-[110px] md:w-[700px] h-full bg-[#FF6900] clip-diagonal-mobile md:clip-diagonal" />
       </div>
-
-      {/* Intro Section */}
-      {/* <div className="py-16 px-4 md:px-16 text-center max-w-4xl mx-auto">
-        <h2 className="text-2xl md:text-3xl font-bold text-orange-600 mb-4">
-          Recognized by Reputed National Education Bodies
-        </h2>
-        <p className="text-gray-700 text-md md:text-lg leading-7">
-          Atal Bihari Vajpayee Skill University (ABVSU) has received recognition and approval from esteemed regulatory and statutory bodies, affirming our commitment to high standards of education, credibility, and academic excellence.
-        </p>
-      </div> */}
 
       {/* Grid Cards */}
       <div className="py-12 px-4 md:px-16">
@@ -116,62 +104,6 @@ const Page = () => {
           ))}
         </div>
       </div>
-
-      {/* Swiper Carousel */}
-      {/* <div className="py-20 px-4 md:px-16 bg-gray-50">
-        <h2 className="text-center text-2xl md:text-3xl font-bold text-orange-600 mb-12">
-          Swipe Through Our Approvals
-        </h2>
-        <Swiper
-          effect="coverflow"
-          grabCursor
-          centeredSlides
-          slidesPerView={3}
-          breakpoints={{
-            768: { slidesPerView: 2 },
-            1024: { slidesPerView: 3 },
-          }}
-          coverflowEffect={{
-            rotate: 50,
-            stretch: 0,
-            depth: 100,
-            modifier: 1,
-            slideShadows: false,
-          }}
-          loop={true}
-          pagination={{ clickable: true }}
-          modules={[EffectCoverflow, Pagination]}
-          className="max-w-6xl mx-auto"
-        >
-          {data.map((item, index) => (
-            <SwiperSlide
-              key={index}
-              className="bg-white rounded-2xl shadow-lg transition-shadow p-6 text-center flex flex-col justify-between h-[400px]"
-            >
-              <div>
-                <h2 className="font-bold text-lg mb-4">{item.title}</h2>
-                <div className="flex justify-center items-center mb-4 w-[100px] h-[100px] mx-auto">
-                  <Image
-                    src={item.image}
-                    alt={item.title}
-                    width={100}
-                    height={100}
-                    className="object-contain w-full h-full"
-                  />
-                </div>
-              </div>
-              <a
-                href={item.document}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-orange-500 hover:bg-orange-600 text-white py-1 px-4 rounded-md text-sm font-medium w-fit mx-auto"
-              >
-                VIEW
-              </a>
-            </SwiperSlide>
-          ))}
-        </Swiper>
-      </div> */}
     </div>
   );
 };
