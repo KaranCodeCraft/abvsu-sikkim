@@ -10,30 +10,30 @@ import { Pagination, EffectCoverflow } from "swiper/modules";
 const data = [
 
   {
-    title: "YOGI ADITYANATH Hon' ble CM of UP",
+    title: "Appreciation from YOGI ADITYANATH Hon' ble CM of UP",
     image: "/logo/yogi.jpeg",
-    desc: "YOGI ADITYANATH Hon' ble CM of UP.",
+    desc: "Appreciation from YOGI ADITYANATH Hon' ble CM of UP.",
     target: "_blank",
     document: "/docs/YOGI ADITYANATH Hon' ble CM of UP.pdf",
   },
   {
-    title: "Letter from Hon' ble CM of Haryana.",
+    title: "Appreciation from Hon' ble CM of Haryana.",
     image: "/logo/nayab.jpg",
-    desc: "Letter from Hon' ble CM of Haryana.",
+    desc: "Appreciation from Hon' ble CM of Haryana.",
     target: "_blank",
     document: "/docs/Letter from Hon' ble CM of Haryana.pdf",
   },
   {
-    title: "NITIN GADKRI Minister, transport and highways government of India.",
+    title: "Appreciation from NITIN GADKRI Minister, transport and highways government of India.",
     image: "/logo/nitin.jpeg",
-    desc: "NITIN GADKRI, Minister transport and highways government of India.",
+    desc: "Appreciation from NITIN GADKRI, Minister transport and highways government of India.",
     target: "_blank",
     document: "/docs/NITIN GADKRI Minister transport and highways government of India.pdf",
   },
   {
-    title: "Hon'Education Minister - RAJU BASNET",
+    title: "Appreciation from Hon'Education Minister - RAJU BASNET",
     image: "/logo/raju.jpeg",
-    desc: "Hon'Education Minister - RAJU BASNET",
+    desc: "Appreciation from Hon'Education Minister - RAJU BASNET",
     target: "_blank",
     document: "/docs/Hon'Education Minister - RAJU BASNET Letter - ABVSU.pdf",
   },
