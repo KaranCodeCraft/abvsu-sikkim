@@ -32,10 +32,10 @@ const AboutData = [
           name: 'Vision and Mission',
           link: '/visionandmission'
         },
-        // {
-        //   name: 'Awards and Acheivements',
-        //   link: '/awardsandachievements'
-        // },
+        {
+          name: 'Appreciation',
+          link: '/appreciation'
+        },
       ],
     },
     {

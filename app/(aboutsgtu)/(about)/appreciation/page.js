@@ -8,21 +8,35 @@ import "swiper/css/navigation";
 import { Pagination, EffectCoverflow } from "swiper/modules";
 
 const data = [
+
   {
-    title: "Government of Sikkim Gazzete Notification",
-    image: "/logo/sgov.png",
-    desc: "The Atal Bihari Vajpayee Skill University was established by the Sikkim Legislative Assembly through The Atal Bihari Vajpayee Skill University ACT, 2025 (Act No. 13 of 2025) on the 25th day of June, 2025.",
-    document: "/docs/Government of Sikkim Gazzete Notification.pdf",
+    title: "YOGI ADITYANATH Hon' ble CM of UP",
+    image: "/logo/yogi.jpeg",
+    desc: "YOGI ADITYANATH Hon' ble CM of UP.",
     target: "_blank",
-    document: "/docs/Government of Sikkim Gazzete Notification.pdf",
+    document: "/docs/YOGI ADITYANATH Hon' ble CM of UP.pdf",
   },
   {
-    title: "All India Council for Technical Education (AICTE)",
-    image: "/logo/aicte.png",
-    desc: "Atal Bihari Vajpayee Skill University is AICTE (All India Council for Technical Education) approved.",
+    title: "Letter from Hon' ble CM of Haryana.",
+    image: "/logo/nayab.jpg",
+    desc: "Letter from Hon' ble CM of Haryana.",
     target: "_blank",
-    document: "/docs/All India Council.pdf",
-  }
+    document: "/docs/Letter from Hon' ble CM of Haryana.pdf",
+  },
+  {
+    title: "NITIN GADKRI Minister, transport and highways government of India.",
+    image: "/logo/nitin.jpeg",
+    desc: "NITIN GADKRI, Minister transport and highways government of India.",
+    target: "_blank",
+    document: "/docs/NITIN GADKRI Minister transport and highways government of India.pdf",
+  },
+  {
+    title: "Hon'Education Minister - RAJU BASNET",
+    image: "/logo/raju.jpeg",
+    desc: "Hon'Education Minister - RAJU BASNET",
+    target: "_blank",
+    document: "/docs/Hon'Education Minister - RAJU BASNET Letter - ABVSU.pdf",
+  },
 ];
 
 const Page = () => {
@@ -37,7 +51,7 @@ const Page = () => {
               Home
             </Link>
             <span className="mx-2">/</span>
-            <span className="text-white">Recognition / Approvals</span>
+            <span className="text-white">Appreciation</span>
           </div>
         </div>
         <div className="absolute top-0 right-0 w-[110px] md:w-[700px] h-full bg-[#FF6900] clip-diagonal-mobile md:clip-diagonal" />
@@ -53,12 +67,12 @@ const Page = () => {
             >
               <h2 className="font-bold text-lg mb-4">{item.title}</h2>
 
-              <div className="flex justify-center items-center mb-4 w-[100px] h-[100px] mx-auto">
+              <div className="flex justify-center items-center mb-4 w-[200px] h-[200px] mx-auto">
                 <Image
                   src={item.image}
                   alt={item.title}
-                  width={200}
-                  height={200}
+                  width={400}
+                  height={400}
                   className="object-contain w-full h-full"
                 />
               </div>
