@@ -10,30 +10,30 @@ import { Pagination, EffectCoverflow } from "swiper/modules";
 const data = [
 
   {
-    title: "Appreciation from YOGI ADITYANATH Hon' ble CM of UP",
+    title: "Appreciation from Shri YOGI ADITYANATH || Hon' ble CM of UP.",
     image: "/logo/yogi.jpeg",
-    desc: "Appreciation from YOGI ADITYANATH Hon' ble CM of UP.",
+    desc: "Appreciation from Shri YOGI ADITYANATH || Hon' ble CM of UP.",
     target: "_blank",
     document: "/docs/YOGI ADITYANATH Hon' ble CM of UP.pdf",
   },
   {
-    title: "Appreciation from Hon' ble CM of Haryana.",
+    title: "Appreciation from Hon' ble CM of Haryana || Shri. Nayab Singh Saini.",
     image: "/logo/nayab.jpg",
-    desc: "Appreciation from Hon' ble CM of Haryana.",
+    desc: "Appreciation from Hon' ble CM of Haryana || Shri. Nayab Singh Saini.",
     target: "_blank",
     document: "/docs/Letter from Hon' ble CM of Haryana.pdf",
   },
   {
-    title: "Appreciation from NITIN GADKRI Minister, transport and highways government of India.",
+    title: "Appreciation from Transport and Highways Government of India || Shri. NITIN GADKRI.",
     image: "/logo/nitin.jpeg",
-    desc: "Appreciation from NITIN GADKRI, Minister transport and highways government of India.",
+    desc: "Appreciation from Shri. NITIN GADKRI, Minister Transport and Highways Government of India.",
     target: "_blank",
     document: "/docs/NITIN GADKRI Minister transport and highways government of India.pdf",
   },
   {
-    title: "Appreciation from Hon'Education Minister - RAJU BASNET",
+    title: "Appreciation from Hon'Education Minister || Shri. RAJU BASNET.",
     image: "/logo/raju.jpeg",
-    desc: "Appreciation from Hon'Education Minister - RAJU BASNET",
+    desc: "Appreciation from Hon'Education Minister || Shri. RAJU BASNET.",
     target: "_blank",
     document: "/docs/Hon'Education Minister - RAJU BASNET Letter - ABVSU.pdf",
   },
