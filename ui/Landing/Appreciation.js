@@ -82,7 +82,7 @@ export default function AppreciationSectionFixed() {
           slidesPerView={1}           
           loop={true}
           autoplay={{ delay: 3000, disableOnInteraction: false }}
-          spaceBetween={10}            
+          spaceBetween={20}            
           coverflowEffect={{
             rotate: 0,
             stretch: 0,
@@ -94,7 +94,7 @@ export default function AppreciationSectionFixed() {
           breakpoints={{
             640: { slidesPerView: 1 },  
             768: { slidesPerView: 2 },   
-            1024: { slidesPerView: 4 }, 
+            1024: { slidesPerView: 3 }, 
           }}
           className="pb-12"
         >
