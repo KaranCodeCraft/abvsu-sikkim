@@ -10,32 +10,39 @@ import { Pagination, EffectCoverflow } from "swiper/modules";
 const data = [
 
   {
-    title: "Appreciation from Shri YOGI ADITYANATH || Hon' ble CM of UP.",
+    title: "Appreciation from Shri YOGI ADITYANATH || Hon' ble Cheif Minister of UP.",
     image: "/logo/yogi.jpeg",
-    desc: "Appreciation from Shri YOGI ADITYANATH || Hon' ble CM of UP.",
+    desc: "Appreciation from Shri YOGI ADITYANATH || Hon' ble Cheif Minister of UP.",
     target: "_blank",
     document: "/docs/YOGI ADITYANATH Hon' ble CM of UP.pdf",
   },
   {
-    title: "Appreciation from Hon' ble CM of Haryana || Shri. Nayab Singh Saini.",
+    title: "Appreciation from Shri. Nayab Singh Saini || Hon' ble Cheif Minister of Haryana",
     image: "/logo/nayab.jpg",
-    desc: "Appreciation from Hon' ble CM of Haryana || Shri. Nayab Singh Saini.",
+    desc: "Appreciation from Shri. Nayab Singh Saini || Hon' ble Cheif Minister of Haryana",
     target: "_blank",
     document: "/docs/Letter from Hon' ble CM of Haryana.pdf",
   },
   {
-    title: "Appreciation from Transport and Highways Government of India || Shri. NITIN GADKRI.",
+    title: "Appreciation from Shri. NITIN GADKRI || Hon'ble Minister Transport and Highways Government of India.",
     image: "/logo/nitin.jpeg",
-    desc: "Appreciation from Shri. NITIN GADKRI, Minister Transport and Highways Government of India.",
+    desc: "Appreciation from Shri. NITIN GADKRI, Hon'ble Minister Transport and Highways Government of India.",
     target: "_blank",
     document: "/docs/NITIN GADKRI Minister transport and highways government of India.pdf",
   },
   {
-    title: "Appreciation from Hon'Education Minister || Shri. RAJU BASNET.",
+    title: "Appreciation from Shri. RAJU BASNET || Hon'ble Education Minister, Sikkim",
     image: "/logo/raju.jpeg",
-    desc: "Appreciation from Hon'Education Minister || Shri. RAJU BASNET.",
+    desc: "Appreciation from Shri. RAJU BASNET || Hon'ble Education Minister, Sikkim.",
     target: "_blank",
     document: "/docs/Hon'Education Minister - RAJU BASNET Letter - ABVSU.pdf",
+  },
+   {
+    title: "Appreciation from  Shri. Vishnu Deo Sai || Hon'ble Chief Minister ,Chattisgarh",
+    image: "/logo/vishnu.jpeg",
+    desc: "Appreciation from  Shri. Vishnu Deo Sai || Hon'ble Chief Minister ,Chattisgarh.",
+    target: "_blank",
+    document: "/docs/blessing letter from cm of Chhattisgarh.pdf",
   },
 ];
 

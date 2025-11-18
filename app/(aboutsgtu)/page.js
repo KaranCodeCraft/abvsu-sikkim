@@ -19,8 +19,8 @@ export default function Home() {
       {/* <Slider/> */}
      
       <Welcome />
-      <Counter/>
       <AppreciationSection/>
+      <Counter/>
       <section id="programme">
 
         <Programme />

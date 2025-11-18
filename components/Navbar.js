@@ -75,8 +75,8 @@ const Navbar = () => {
             HELPDESK: 9821666832
           </div>
           <div className="text-white space-x-2 hidden md:flex w-3/5">
-            <span className="flex-start font-bold">Announcement:</span>
-            <marquee>Admissions open for Session 2025-26</marquee>
+            {/* <span className="flex-start font-bold">Announcement:</span> */}
+            {/* <marquee>Admissions open for Session 2025-26</marquee> */}
           </div>
           <div
             onClick={() => enquiryRef.current?.openDialog()}

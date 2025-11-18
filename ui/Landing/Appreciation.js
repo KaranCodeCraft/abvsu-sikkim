@@ -10,37 +10,65 @@ import "swiper/css/effect-coverflow";
 
 const appreciationData = [
   {
-    title: "Appreciation from Shri YOGI ADITYANATH || Hon' ble CM of UP.",
+    title: "Hon' ble Cheif Minister of UP",
+    name: "Shri.Yogi Adityanath",
     image: "/logo/yogi.jpeg",
     document: "/docs/YOGI ADITYANATH Hon' ble CM of UP.pdf",
     target: "_blank",
   },
+    {
+    title: "Hon'ble Education Minister ,Sikkim",
+    name: "Shri. Raju Basnet",
+    image: "/logo/raju.jpeg",
+    document: "/docs/Hon'Education Minister - RAJU BASNET Letter - ABVSU.pdf",
+    target: "_blank",
+  },
   {
-    title: "Appreciation from Hon' ble CM of Haryana || Shri. Nayab Singh Saini.",
+    title: "Hon' ble Cheif Minister of Haryana",
+    name: "Shri. Nayab Singh Saini",
     image: "/logo/nayab.jpg",
     document: "/docs/Letter from Hon' ble CM of Haryana.pdf",
     target: "_blank",
   },
   {
-    title: "Appreciation from Transport and Highways Government of India || Shri. NITIN GADKRI.",
+    title: `Hon'ble Minister MoRTH, GOI`,
+    name: "Shri. Nitin Jairam Gadkri",
     image: "/logo/nitin.jpeg",
     document: "/docs/NITIN GADKRI Minister transport and highways government of India.pdf",
     target: "_blank",
   },
+
+
   {
-    title: "Appreciation from Hon'Education Minister || Shri. RAJU BASNET.",
-    image: "/logo/raju.jpeg",
-    document: "/docs/Hon'Education Minister - RAJU BASNET Letter - ABVSU.pdf",
+    title: "Hon'ble Cheif Minister ,Sikkim",
+    name: "Shri. Prem Singh Tamang",
+    image: "/logo/tamang.jpg",
+    document: "#",
+    // target: "_blank",
+  },
+  
+  {
+    title: "Hon'ble Chief Minister ,Chattisgarh",
+    name: "Shri. Vishnu Deo Sai",
+    image: "/logo/vishnu.jpeg",
+    document: "/docs/blessing letter from cm of Chhattisgarh.pdf",
     target: "_blank",
+  },
+    {
+    title: "Hon'ble Governer ,Sikkim",
+    name: "Shri. Om Prakash Mathur",
+    image: "/logo/mathur.jpeg",
+    document: "#",
+    // target: "_blank",
   },
 ];
 
 export default function AppreciationSectionFixed() {
   return (
-    <section className="py-16 bg-white">
+    <section className="py-8 bg-white">
       <div className="px-4 md:px-16 text-center">
         <h2 className="text-3xl font-bold text-gray-800 mb-3">
-          Our Recognitions & Appreciations
+          Our Appreciations
         </h2>
         <p className="text-gray-600 mb-10">
           Honoured to receive appreciation from esteemed leaders and dignitaries.
@@ -54,7 +82,7 @@ export default function AppreciationSectionFixed() {
           slidesPerView={1}           
           loop={true}
           autoplay={{ delay: 3000, disableOnInteraction: false }}
-          spaceBetween={20}            
+          spaceBetween={10}            
           coverflowEffect={{
             rotate: 0,
             stretch: 0,
@@ -66,13 +94,13 @@ export default function AppreciationSectionFixed() {
           breakpoints={{
             640: { slidesPerView: 1 },  
             768: { slidesPerView: 2 },   
-            1024: { slidesPerView: 3 }, 
+            1024: { slidesPerView: 4 }, 
           }}
           className="pb-12"
         >
           {appreciationData.map((item, index) => (
             <SwiperSlide key={index}>
-              <div className="max-w-[320px] mx-auto bg-white rounded-2xl shadow-lg p-6 text-center border border-gray-200 flex flex-col h-full">
+              <div className="max-w-[340px] mx-auto bg-white rounded-2xl shadow-lg p-6 text-center border border-gray-200 flex flex-col h-full">
                 <div className="w-[180px] h-[180px] mx-auto mb-4 flex-shrink-0">
                   <Image
                     src={item.image}
@@ -83,7 +111,10 @@ export default function AppreciationSectionFixed() {
                   />
                 </div>
 
-                <h3 className="font-semibold text-lg text-gray-800 mb-4 line-clamp-2">
+                <h3 className="font-semibold text-xl text-gray-800 line-clamp-2">
+                  {item.name}
+                </h3>
+                <h3 className="font-semibold text-sm text-gray-800 mb-4 line-clamp-2">
                   {item.title}
                 </h3>
 
