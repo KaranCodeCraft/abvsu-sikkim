@@ -10,6 +10,7 @@ import Events from "@/ui/Landing/Events";
 import Testimonial from "@/ui/Landing/Testimonial";
 import Video from "@/ui/Landing/Video";
 import Counter from "@/ui/Landing/Counter";
+import AppreciationSection from "@/ui/Landing/Appreciation";
 
 export default function Home() {
   return (
@@ -19,9 +20,10 @@ export default function Home() {
      
       <Welcome />
       <Counter/>
+      <AppreciationSection/>
       <section id="programme">
 
-      <Programme />
+        <Programme />
       </section>
       <MediaCoverage />
       <NewsAndUpdates/>

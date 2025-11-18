@@ -32,10 +32,6 @@ const AboutData = [
           name: 'Vision and Mission',
           link: '/visionandmission'
         },
-        {
-          name: 'Appreciation',
-          link: '/appreciation'
-        },
       ],
     },
     {

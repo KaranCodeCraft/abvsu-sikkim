@@ -122,7 +122,7 @@ const Navbar = () => {
               </span>
             </div> */}
           </div>
-          <div className="w-3/4 items-center flex flex-col ">
+          <div className="w-3/4 items-center flex flex-col">
             <div
               className={`w-full rounded-bl-2xl pt-1 px-4 py-5 overflow-hidden transition-all duration-500 ease-in-out ${
                 hideTopBar ? "max-h-20 opacity-100" : "max-h-0 opacity-0"
@@ -152,8 +152,8 @@ const Navbar = () => {
 
             <div className="w-full  h-full px-2">
               <div className="w-full h-full relative z-50">
-                <nav className="flex justify-between w-full items-center font-medium h-full">
-                  <div className="flex  flex-col items-center h-full justify-between pb-2">
+                <nav className="flex justify-center w-full items-center font-medium h-full">
+                  <div className="flex  flex-col items-center h-full justify-between pb-2 w-4/5">
                     <div className="mb-2 relative overflow-hidden group rounded-sm font-bold cursor-pointer bg-orange-600 text-white px-4 py-2 shadow-md transition-all duration-300 hover:shadow-[0_0_15px_5px_rgba(96,165,250,0.6)] text-center justify-center tracking-wide ">
                       <Link href={"/ssceducation"}>
                         <p>
@@ -178,8 +178,7 @@ const Navbar = () => {
                     </ul>
                   </div>
 
-                  <div className="flex space-x-1 items-center transition-all duration-500 px-1 
-            lg:space-x-0 lg:px-0">
+                  <div className="flex space-x-1 items-center transition-all duration-500 px-1 lg:space-x-0 lg:px-0 w-1/5 ml-auto">
                     <div
                       className={`transition-all duration-500 ease-in-out ${
                         hideTopBar ? "w-[65px] h-[65px]" : "w-[40px] h-[40px]"

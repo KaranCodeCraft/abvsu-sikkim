@@ -39,6 +39,13 @@ const MainNavData = [
     align: "center",
   },
   {
+    title: "Appreciation",
+    href: "/appreciation",
+    flyout: null,
+    flyoutData: null,
+    align: "center",
+  },
+  {
     title: "Programmes",
     href: "#",
     flyout: ()=> <FlyoutContent data={programmeData}/>,
