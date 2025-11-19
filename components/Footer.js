@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 import Link from "next/link";
 import logo from "@/public/logo/logos.png";
@@ -145,6 +146,16 @@ const AnimatedFooter = () => {
     },
   ];
 
+  const handleQrCode = () => {
+    const qrCodeUrl = "/images/Graphic/qr.jpeg";
+    const newWindow = window.open();
+    if (newWindow) {
+      newWindow.document.write(
+        `<html><head><title>QR Code</title></head><body style="margin:auto width:100%"><img src="${qrCodeUrl}" alt="QR Code" style="width:400px;height:400px;"/></body></html>`
+      );
+    }
+  }
+
   return (
     <footer className="relative w-full overflow-hidden">
       {/* Background image */}
@@ -217,17 +228,18 @@ const AnimatedFooter = () => {
                 </a>
               ))}
             </div>
+
+            {/* Qr Code */}
             <div className="mt-5 flex justify-center">
-              <a
-                href="#"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 bg-white text-black font-semibold px-4 py-2 rounded-full hover:bg-indigo-950 hover:text-white transition"
+              <div
+                className="cursor-pointer flex items-center gap-2 bg-white text-black font-semibold px-4 py-2 rounded-full hover:bg-indigo-950 hover:text-white transition"
+                onClick={handleQrCode}
               >
                 <Play className="w-5 h-5" />
                 <span>Get it on Play Store</span>
-              </a>
+              </div>
             </div>
+
           </div>
         </div>
 
